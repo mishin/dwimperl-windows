@@ -21,17 +21,19 @@ sub unzip_file {
     if ( !-d $dirName ) {
         mkdir $dirName;
     }
+    # else {
+        # say "directory $dirName already exists";
+    # }
 
     my $zip    = Archive::Zip->new();
     my $status = $zip->read($zipName);
     die "Read of $zipName failed\n" if $status != AZ_OK;
     my $extract_status = $zip->extractTree( '', $dirName );
-    if ( $extract_status != AZ_OK ) {
-        die "Extract of $zipName failed\n";
-    }
-    else {
-        say "Extract $zipName done!";
-    }
+	if ($extract_status != AZ_OK){
+	die "Extract of $zipName failed\n" ;
+	}else{
+    say "Extract $zipName done!";
+	}
 }
 
 sub download_zip {

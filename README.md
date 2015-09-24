@@ -1,5 +1,27 @@
 # dwimperl-windows  
 DWIM Perl for Windows like  
+
+http://dwimperl.com/windows.html
+
+DWIM Perl for Windows is a Strawberry Perl derivative for Windows. It contains everything you will need for your Perl development.
+
+It contains:
+
+Strawberry Perl 5.14.2.1 RC which itself is a standard Perl with several extensions already installed.
+A large part of Task::Kensho, a list of recommended packages.
+Padre, the Perl IDE 0.94.
+Module::Version 0.12 so you can use mversion to check which version of each module you have.
+Moose 2.0402, the post modern Object System.
+Dancer 1.3092 to build a light-weight web application.
+Plack and plackup 0.9985 to serve your web pages.
+Perl::Critic 1.117, to police yourself.
+Perl::Tidy 20101217, to keep your code nice.
+DateTime 0.72 to make it easy to deal with dates and time.
+SQLite 1.35, to hold your data tight.
+MySQL 4.020, PostgreSQL 2.18.1 and DBD::ODBC 1.31 drivers.
+Lots of additional modules... (see details in the README file.)
+
+https://github.com/dwimperl/tools/blob/master/README_5.14.2.1-32bit-windows.txt  
   
 1. Reading http://blogs.perl.org/users/sawyer_x/2015/01/web-scraping-continued.html first  
 2. Clone repo https://github.com/xsawyerx/web-scraping  
@@ -17,4 +39,6 @@ Unknown source type: ... not appropriate to include several thousands of lines o
 cd ..\web-scraping  
 cpanm IO::Prompt::Tiny  
  Read http://stackoverflow.com/questions/18617405/how-to-extract-href-from-a-body-email-in-perl  
+ cpanm Archive::Unzip::Burst  
+ 
 
