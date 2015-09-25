@@ -7,7 +7,7 @@ DWIM Perl for Windows is a Strawberry Perl derivative for Windows. It contains e
 
 It contains:  
   
-Strawberry Perl 5.14.2.1 RC which itself is a standard Perl with several extensions already installed.  
+Strawberry-perl-5.20.0.1-32bit-portable which itself is a standard Perl with several extensions already installed.  
 A large part of Task::Kensho, a list of recommended packages.  
 Padre, the Perl IDE 0.94.  
 Module::Version 0.12 so you can use mversion to check which version of each module you have.  
