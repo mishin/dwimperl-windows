@@ -22,6 +22,8 @@ MySQL 4.020, PostgreSQL 2.18.1 and DBD::ODBC 1.31 drivers.
 Lots of additional modules... (see details in the README file.)  
   
 https://github.com/dwimperl/tools/blob/master/README_5.14.2.1-32bit-windows.txt  
+
+0. cpanm Task::CPAN::Reporter
   
 1. Reading http://blogs.perl.org/users/sawyer_x/2015/01/web-scraping-continued.html first  
 2. Clone repo https://github.com/xsawyerx/web-scraping  
