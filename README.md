@@ -41,6 +41,8 @@ Unknown source type: ... not appropriate to include several thousands of lines o
 cd ..\web-scraping  
 cpanm IO::Prompt::Tiny  
  Read http://stackoverflow.com/questions/18617405/how-to-extract-href-from-a-body-email-in-perl  
- cpanm Archive::Unzip::Burst  
+ 9. write script, that get right version of perl:  
+ https://github.com/mishin/dwimperl-windows/blob/master/get_perl.pl  
+ 
  
 
