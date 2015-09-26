@@ -27,10 +27,12 @@ https://github.com/dwimperl/tools/blob/master/README_5.14.2.1-32bit-windows.txt
   cpan> install  Task::Kensho  
 
 c:\Users\TOSH\Documents\GitHub\dwimperl-windows\strawberry-perl-5.20.0.1-32bit-portable\data\.cpanreporter\config.ini  
-  edit_report=no
-  email_from="Nikolay Mishin" <mi@ya.ru>
-  send_report=yes
-  transport=Metabase uri https://metabase.cpantesters.org/api/v1/ id_file metabase_id.json
+
+  edit_report=no  
+  email_from="Nikolay Mishin" <mi@ya.ru>  
+  send_report=yes  
+  transport=Metabase uri https://metabase.cpantesters.org/api/v1/ id_file metabase_id.json  
+  
 App::cpanminus::reporter  
 cpanm Storable  
 cpanm Moose Catalyst::Runtime   
