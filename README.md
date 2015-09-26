@@ -12,12 +12,12 @@ It contains:
 Strawberry-perl-5.20.0.1-32bit-portable which itself is a standard Perl with several extensions already installed.  
 A large part of 
 
-Task::Kensho
-(cpan
- force install notest IPC::Run
- force install notest IO::Multiplex
- force install notest Net::Server
-perl -v v5.20.0 MSWin32-x8)
+Task::Kensho  
+(cpan  
+ force install notest IPC::Run  
+ force install notest IO::Multiplex  
+ force install notest Net::Server  
+perl -v v5.20.0 MSWin32-x8)  
 , a list of recommended packages.  
 Padre, the Perl IDE 0.94.  
 Module::Version 0.12 so you can use mversion to check which version of each module you have.  
