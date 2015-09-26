@@ -3,6 +3,8 @@ DWIM Perl for Windows like
 
 http://dwimperl.com/windows.html
 
+[DWIM Perl for Windows. The following describes the process as the package was created](https://github.com/mishin/tools/blob/master/README_5.14.2.1-32bit-windows.txt)  
+
 DWIM Perl for Windows is a Strawberry Perl derivative for Windows. It contains everything you will need for your Perl development.
 
 It contains:  
