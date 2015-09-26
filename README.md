@@ -25,6 +25,18 @@ https://github.com/dwimperl/tools/blob/master/README_5.14.2.1-32bit-windows.txt
 
 0. cpanm Task::CPAN::Reporter
   cpan> install  Task::Kensho  
+
+c:\Users\TOSH\Documents\GitHub\dwimperl-windows\strawberry-perl-5.20.0.1-32bit-portable\data\.cpanreporter\config.ini  
+  edit_report=no
+  email_from="Nikolay Mishin" <mi@ya.ru>
+  send_report=yes
+  transport=Metabase uri https://metabase.cpantesters.org/api/v1/ id_file metabase_id.json
+App::cpanminus::reporter  
+cpanm Storable  
+cpanm Moose Catalyst::Runtime   
+cpanm-reporter  
+http://pragmaticperl.com/issues/12/pragmaticperl-12-%D0%BA%D0%B0%D0%BA-%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B8%D1%82%D1%8C-%D1%81%D0%B5%D1%80%D0%B2%D0%B5%D1%80-%D0%B4%D0%BB%D1%8F-cpan-testers.html  
+
 1. Reading http://blogs.perl.org/users/sawyer_x/2015/01/web-scraping-continued.html first  
 2. Clone repo https://github.com/xsawyerx/web-scraping  
 3. cd c:\Users\TOSH\Documents\GitHub  
