@@ -1,6 +1,13 @@
 #!perl
 # Scheduled recycling pickups
 # The default (1182JR 1) is for Amstelveen city hall
+=for comment Some comment
+Скачиваем с сайта последний дистрибутив
+Strawberry Perl
+lines.
+
+=cut
+
 use v5.10;
 use strict;
 use warnings;
