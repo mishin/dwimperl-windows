@@ -1,0 +1,127 @@
+0&&<<''; # this PGP-signed message is also valid perl
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+# CHECKSUMS file written on Thu Sep  3 14:53:16 2015 GMT by CPAN::Checksums (v2.08)
+$cksum = {
+  'Padre-0.90.meta' => {
+    'md5' => '7115350730c72bc089ac14964d1bea8a',
+    'mtime' => '2011-08-19',
+    'sha256' => 'aa9cfa1db21275751eae07387056075ce2a149cceb70b7c1d5438c3591ca2cf0',
+    'size' => 2886
+  },
+  'Padre-0.90.tar.gz' => {
+    'md5' => 'c62fee6509129ad42ab4773a1f68b644',
+    'md5-ungz' => 'a1cf37d12d4277881d4deebda4180c26',
+    'mtime' => '2011-08-19',
+    'sha256' => '807e29dfde998d533346321e1463c028fcd8be4a557420bd015436f4bfc72403',
+    'sha256-ungz' => 'eb0bbdecfbae15ef9ca610d96624470d0b1ba0b0622cc19bceda31038535b32a',
+    'size' => 1690985
+  },
+  'Padre-0.92.meta' => {
+    'md5' => 'ce4ed4a4326d8646a70aefa6a1abe89b',
+    'mtime' => '2011-11-14',
+    'sha256' => '616391057e20cc7e5c575ae53df7ecfda6854e8395f59357ebe11e6b12945d0d',
+    'size' => 3018
+  },
+  'Padre-0.92.tar.gz' => {
+    'md5' => 'a68be2aa4356f27744b23dc13967d177',
+    'md5-ungz' => '343e8f63d44271428af84b7e662a0e06',
+    'mtime' => '2011-11-14',
+    'sha256' => 'f9d0804ec940453b96edca6760d0ac18e930572766fc1db3259bd86d30e9d541',
+    'sha256-ungz' => 'eea788147bdd77e6e46ef9c0411bc74c3e593554243b2b2c18aeb35ba77bf022',
+    'size' => 1821353
+  },
+  'Padre-0.94.meta' => {
+    'md5' => '7b179238e242d8070ad8c7d7722138f1',
+    'mtime' => '2012-01-22',
+    'sha256' => 'dc84dda316a11ea45da53c1db75d97be5a2a5d9e62a70cd755184563d4beb041',
+    'size' => 3036
+  },
+  'Padre-0.94.tar.gz' => {
+    'md5' => 'f670da2c30974402aaa0fb1b9041fecd',
+    'md5-ungz' => '361b2912a6261081f57513cbbc387fc6',
+    'mtime' => '2012-01-22',
+    'sha256' => 'a01a9f7dc44c5eafdcc9cf872af0ee1fdd51fe27b586f0f383bed882e8bac6fd',
+    'sha256-ungz' => 'ac21ddc95a637db8f537f99b4e2b0ab7aa03462cff2a07e9c186fcaf193d22aa',
+    'size' => 1871534
+  },
+  'Padre-0.96.meta' => {
+    'md5' => 'bce08cdb53af95f566e5829a95d14082',
+    'mtime' => '2012-04-23',
+    'sha256' => '7113063b93caef6628736767b17b9f26b9f086355ed7d4e419c98e2ca7b7906b',
+    'size' => 3054
+  },
+  'Padre-0.96.tar.gz' => {
+    'md5' => '1f57c2ae88b6e7015a786cc52dfe9281',
+    'md5-ungz' => '1fc1eed90dab5d6852416cfa2730c989',
+    'mtime' => '2012-04-23',
+    'sha256' => 'ce727f17792ef25f4bffc9dc2dc8fd71357bbabad407320c77700889272b856b',
+    'sha256-ungz' => 'b786d8b91e743bcd9f492ba6f67290220c83d367a03f17170862538a8ad1d949',
+    'size' => 1919132
+  },
+  'Padre-0.98.meta' => {
+    'md5' => '0a5e85ab2763e20a95917c589995acf9',
+    'mtime' => '2013-04-30',
+    'sha256' => 'ab7358343307d61313cffe9028731cf39729b1fc8ed016f4e6f6b77546baae13',
+    'size' => 4844
+  },
+  'Padre-0.98.tar.gz' => {
+    'md5' => 'd36f10e84b0eb59c5b4de62a4e21a371',
+    'md5-ungz' => 'ca80c17b3576ec529760a588f3633200',
+    'mtime' => '2013-04-30',
+    'sha256' => '847aa43a0f30ec7cc99a812e38f447f7c49959e62ce39614f9fba1d2d5694f87',
+    'sha256-ungz' => '0804f8b1d7e402dddd18b38c387f947f61e6e24d0f7a34cba0460c35db43b4c1',
+    'size' => 1968814
+  },
+  'Padre-1.00.meta' => {
+    'md5' => '9acee2e1aca28c2c8c5c28a92ad20c4a',
+    'mtime' => '2013-11-09',
+    'sha256' => '3500f9ad874086b3b4b2eee3af1a203c243cc20b2d75a0d0b34a534d85da332d',
+    'size' => 4874
+  },
+  'Padre-1.00.tar.gz' => {
+    'md5' => '2dbaf01c5c6328a8fc478ab82e52d4d0',
+    'md5-ungz' => 'd0128cff9e1588fb25711a733eea0be0',
+    'mtime' => '2013-11-09',
+    'sha256' => 'cb31404b048c12992eea142613bd560ce7a31199e3e09239fa1539f2fa02b96d',
+    'sha256-ungz' => 'ad42b78dd2bb920b0e5d53331d1183f4996d1de1665a00d4cdb30343ea993729',
+    'size' => 1969274
+  },
+  'Padre-Plugin-SVN-0.04.meta' => {
+    'md5' => 'da3dade2e1d92b29a533a864dd9098ab',
+    'mtime' => '2009-11-11',
+    'sha256' => '25a4dc1a04cdc0aaed9f74c5ef9cb03d28c7699b536f4d58a67ae50e1fb10b6e',
+    'size' => 562
+  },
+  'Padre-Plugin-SVN-0.04.tar.gz' => {
+    'md5' => 'caed0c35a967c1eee5606f5628548d48',
+    'md5-ungz' => '7b1615bf2e4ff9bc3b424fa9d48068dc',
+    'mtime' => '2009-11-11',
+    'sha256' => '51bfbabe90649533291892bc7a666dd217948d7426dcc5f6ecf9bb127ed1eece',
+    'sha256-ungz' => 'dc68f4e3ea30881d1e7cf0c4eccbf9e9fffeef74bff92ffdfd68c2540e129afb',
+    'size' => 26217
+  },
+  'Padre-Plugin-SVN-0.05.meta' => {
+    'md5' => '43a1348a68bb9381c40a8d551d2699c1',
+    'mtime' => '2010-05-26',
+    'sha256' => '4adea2fa0628d1cfce21c91dacfe48c26c414746a7691923ee071bf29d2960a5',
+    'size' => 627
+  },
+  'Padre-Plugin-SVN-0.05.tar.gz' => {
+    'md5' => 'f53b3728bc9c9e6b179fdb3d5a947958',
+    'md5-ungz' => '2e694fa03aa7f23077e6043b20fd39d6',
+    'mtime' => '2010-05-26',
+    'sha256' => '988f918f7057378d754282f8f2275fdec7b1dc52f846480920b2101990dba84d',
+    'sha256-ungz' => '2ebd55c18fa074a457b631fdc5e76149ac70cde279803d341506a0cf1689f827',
+    'size' => 30880
+  }
+};
+__END__
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v2.0.14 (GNU/Linux)
+
+iEYEARECAAYFAlXoXtwACgkQMo2oZ0UPiexsrwCgl7IKyZMmoDNuwIlVgXfynJhM
+6O8An19l+8px+vOwCN7gpVGDmV2+Jjtx
+=04dV
+-----END PGP SIGNATURE-----

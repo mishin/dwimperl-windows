@@ -1,0 +1,81 @@
+---
+distribution: !!perl/hash:CPAN::Distribution
+  CALLED_FOR: E/ET/ETHER/MooseX-ConfigFromFile-0.14.tar.gz
+  CHECKSUM_STATUS: OK
+  CONTAINSMODS:
+    MooseX::ConfigFromFile: 1
+  ID: E/ET/ETHER/MooseX-ConfigFromFile-0.14.tar.gz
+  RO:
+    CPAN_USERID: ETHER
+    CPAN_VERSION: '0.14'
+    DESCRIPTION: ~
+  archived: tar
+  build_dir: C:\Users\TOSH\Documents\GitHub\dwimperl-windows\strawberry-perl-5.20.0.1-32bit-portable\cpan\build\MooseX-ConfigFromFile-0.14-VbcLmX
+  install: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 4
+    FAILED: ''
+    TEXT: YES
+    TIME: 1443167403
+  localfile: C:\Users\TOSH\Documents\GitHub\dwimperl-windows\strawberry-perl-5.20.0.1-32bit-portable\cpan\sources\authors\id\E\ET\ETHER\MooseX-ConfigFromFile-0.14.tar.gz
+  make: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 4
+    FAILED: ''
+    TEXT: YES
+    TIME: 1443167376
+  make_test: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 4
+    FAILED: ''
+    TEXT: YES
+    TIME: 1443167402
+  mandatory: ''
+  modulebuild: 1
+  negative_prefs_cache: 4
+  prefs:
+    install: {}
+  prereq_pm:
+    build_requires:
+      ExtUtils::MakeMaker: '0'
+      File::Spec: '0'
+      Moose: '0'
+      Scalar::Util: '0'
+      Test::Deep: '0'
+      Test::Fatal: '0'
+      Test::More: '0.88'
+      Test::Requires: '0'
+      Test::Without::Module: '0'
+      if: '0'
+      perl: '5.006'
+      strict: '0'
+    configure_requires: {}
+    opt_build_requires:
+      CPAN::Meta: '2.120900'
+      MooseX::Getopt: '0'
+    opt_requires: {}
+    requires:
+      Carp: '0'
+      Moose::Role: '0'
+      MooseX::Types::Moose: '0'
+      MooseX::Types::Path::Tiny: '0.005'
+      namespace::autoclean: '0'
+      perl: '5.006'
+      warnings: '0'
+  reqtype: b
+  should_report: 1
+  sponsored_mods:
+    MooseX::Types::Path::Tiny: 1
+  unwrapped: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 4
+    FAILED: ''
+    TEXT: YES
+    TIME: 1443167074
+  writemakefile: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 4
+    FAILED: ''
+    TEXT: YES
+    TIME: 1443167087
+perl:
+  $^X: C:\Users\TOSH\Documents\GitHub\dwimperl-windows\strawberry-perl-5.20.0.1-32bit-portable\perl\bin\perl.exe
+  mtime_$^X: 1401480666
+  mtime_dll: 0
+  sitearchexp: C:\Users\TOSH\Documents\GitHub\dwimperl-windows\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib
+time: 1443167403

@@ -1,0 +1,60 @@
+{
+   "abstract" : "Internationalized Resource Identifiers",
+   "author" : [
+      "Gregory Todd Williams  C<< <gwilliams@cpan.org> >>",
+      "Gregory Todd Williams <gwilliams@cpan.org>"
+   ],
+   "dynamic_config" : 0,
+   "generated_by" : "Module::Install version 1.12, CPAN::Meta::Converter version 2.141170",
+   "license" : [
+      "perl_5"
+   ],
+   "meta-spec" : {
+      "url" : "http://search.cpan.org/perldoc?CPAN::Meta::Spec",
+      "version" : "2"
+   },
+   "name" : "IRI",
+   "no_index" : {
+      "directory" : [
+         "inc",
+         "t",
+         "xt"
+      ]
+   },
+   "prereqs" : {
+      "build" : {
+         "requires" : {
+            "ExtUtils::MakeMaker" : "6.59",
+            "Test::More" : "0.88",
+            "URI" : "0"
+         }
+      },
+      "configure" : {
+         "requires" : {
+            "ExtUtils::MakeMaker" : "0"
+         }
+      },
+      "runtime" : {
+         "requires" : {
+            "Moo" : "0",
+            "MooX::HandlesVia" : "0",
+            "Type::Tiny" : "0",
+            "perl" : "5.014"
+         }
+      }
+   },
+   "release_status" : "stable",
+   "resources" : {
+      "bugtracker" : {
+         "web" : "https://github.com/kasei/perl-iri/issues"
+      },
+      "homepage" : "http://search.cpan.org/dist/IRI/",
+      "license" : [
+         "http://dev.perl.org/licenses/"
+      ],
+      "repository" : {
+         "url" : "http://github.com/kasei/perl-iri/"
+      }
+   },
+   "version" : "0.004"
+}

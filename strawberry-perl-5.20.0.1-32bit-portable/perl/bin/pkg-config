@@ -1,0 +1,4 @@
+#!perl
+
+use PkgConfig;
+PkgConfig::Script::run(@ARGV);

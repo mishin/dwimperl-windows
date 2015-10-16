@@ -1,0 +1,43 @@
+{
+   "abstract" : "A simple single-sheet Excel document",
+   "author" : [
+      "Tony Bowden <kasei@tmtm.com>"
+   ],
+   "dynamic_config" : 0,
+   "generated_by" : "ExtUtils::MakeMaker version 6.98, CPAN::Meta::Converter version 2.141170",
+   "license" : [
+      "unknown"
+   ],
+   "meta-spec" : {
+      "url" : "http://search.cpan.org/perldoc?CPAN::Meta::Spec",
+      "version" : "2"
+   },
+   "name" : "Spreadsheet-WriteExcel-Simple",
+   "no_index" : {
+      "directory" : [
+         "t",
+         "inc"
+      ]
+   },
+   "prereqs" : {
+      "build" : {
+         "requires" : {
+            "ExtUtils::MakeMaker" : "0"
+         }
+      },
+      "configure" : {
+         "requires" : {
+            "ExtUtils::MakeMaker" : "0"
+         }
+      },
+      "runtime" : {
+         "requires" : {
+            "IO::Scalar" : "1.126",
+            "Spreadsheet::WriteExcel" : "0.31",
+            "Test::More" : "0.04"
+         }
+      }
+   },
+   "release_status" : "stable",
+   "version" : "1.04"
+}

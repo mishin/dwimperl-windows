@@ -1,0 +1,70 @@
+---
+distribution: !!perl/hash:CPAN::Distribution
+  CALLED_FOR: ORLite
+  CHECKSUM_STATUS: OK
+  CONTAINSMODS:
+    ORLite: 1
+  ID: A/AD/ADAMK/ORLite-1.98.tar.gz
+  RO:
+    CPAN_USERID: ADAMK
+    CPAN_VERSION: '1.98'
+    DESCRIPTION: ~
+  archived: tar
+  build_dir: C:\Users\TOSH\Documents\GitHub\dwimperl-windows\strawberry-perl-5.20.0.1-32bit-portable\cpan\build\ORLite-1.98-WOeV8j
+  incommandcolor: 2
+  install: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 1
+    FAILED: ''
+    TEXT: YES
+    TIME: 1443216457
+  localfile: C:\Users\TOSH\Documents\GitHub\dwimperl-windows\strawberry-perl-5.20.0.1-32bit-portable\cpan\sources\authors\id\A\AD\ADAMK\ORLite-1.98.tar.gz
+  make: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 1
+    FAILED: ''
+    TEXT: YES
+    TIME: 1443216422
+  make_test: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 1
+    FAILED: ''
+    TEXT: YES
+    TIME: 1443216455
+  mandatory: 1
+  negative_prefs_cache: 1
+  prefs:
+    install: {}
+  prereq_pm:
+    build_requires:
+      ExtUtils::MakeMaker: '6.59'
+      Test::More: '0.47'
+      Test::Script: '1.06'
+    configure_requires: {}
+    opt_build_requires: {}
+    opt_requires: {}
+    requires:
+      DBD::SQLite: '1.27'
+      DBI: '1.607'
+      File::Path: '2.08'
+      File::Remove: '1.40'
+      File::Spec: '3.2701'
+      File::Temp: '0.20'
+      Params::Util: '1.00'
+      perl: '5.006'
+  reqtype: r
+  should_report: 1
+  sponsored_mods: {}
+  unwrapped: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 1
+    FAILED: ''
+    TEXT: YES
+    TIME: 1443216378
+  writemakefile: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 1
+    FAILED: ''
+    TEXT: YES
+    TIME: 1443216386
+perl:
+  $^X: C:\Users\TOSH\Documents\GitHub\dwimperl-windows\strawberry-perl-5.20.0.1-32bit-portable\perl\bin\perl.exe
+  mtime_$^X: 1401480666
+  mtime_dll: 0
+  sitearchexp: C:\Users\TOSH\Documents\GitHub\dwimperl-windows\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib
+time: 1443216457

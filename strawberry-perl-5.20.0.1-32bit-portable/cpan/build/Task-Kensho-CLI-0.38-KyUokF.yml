@@ -1,0 +1,73 @@
+---
+distribution: !!perl/hash:CPAN::Distribution
+  CALLED_FOR: E/ET/ETHER/Task-Kensho-CLI-0.38.tar.gz
+  CHECKSUM_STATUS: OK
+  CONTAINSMODS:
+    Task::Kensho::CLI: 1
+  ID: E/ET/ETHER/Task-Kensho-CLI-0.38.tar.gz
+  RO:
+    CPAN_USERID: ETHER
+    CPAN_VERSION: '0.38'
+    DESCRIPTION: ~
+  archived: tar
+  build_dir: C:\Users\TOSH\Documents\GitHub\dwimperl-windows\strawberry-perl-5.20.0.1-32bit-portable\cpan\build\Task-Kensho-CLI-0.38-KyUokF
+  install: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 4
+    FAILED: ''
+    TEXT: YES
+    TIME: 1443177481
+  localfile: C:\Users\TOSH\Documents\GitHub\dwimperl-windows\strawberry-perl-5.20.0.1-32bit-portable\cpan\sources\authors\id\E\ET\ETHER\Task-Kensho-CLI-0.38.tar.gz
+  make: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 4
+    FAILED: ''
+    TEXT: YES
+    TIME: 1443177463
+  make_test: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 4
+    FAILED: ''
+    TEXT: YES
+    TIME: 1443177480
+  mandatory: ''
+  modulebuild: 1
+  negative_prefs_cache: 4
+  prefs:
+    install: {}
+  prereq_pm:
+    build_requires:
+      ExtUtils::MakeMaker: '0'
+      File::Spec: '0'
+      Test::More: '0'
+    configure_requires: {}
+    opt_build_requires:
+      CPAN::Meta: '2.120900'
+    opt_requires: {}
+    requires:
+      App::Ack: '0'
+      App::Nopaste: '0'
+      Devel::REPL: '0'
+      Module::CoreList: '0'
+      perl: '5.006'
+      strict: '0'
+      warnings: '0'
+  reqtype: r
+  should_report: 1
+  sponsored_mods:
+    App::Ack: 2
+    App::Nopaste: 1
+    Devel::REPL: 1
+  unwrapped: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 4
+    FAILED: ''
+    TEXT: YES
+    TIME: 1443163461
+  writemakefile: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 4
+    FAILED: ''
+    TEXT: YES
+    TIME: 1443163474
+perl:
+  $^X: C:\Users\TOSH\Documents\GitHub\dwimperl-windows\strawberry-perl-5.20.0.1-32bit-portable\perl\bin\perl.exe
+  mtime_$^X: 1401480666
+  mtime_dll: 0
+  sitearchexp: C:\Users\TOSH\Documents\GitHub\dwimperl-windows\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib
+time: 1443177481

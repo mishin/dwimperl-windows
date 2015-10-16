@@ -1,0 +1,55 @@
+{
+   "abstract" : "Tools for creating Meta objects to track custom metrics.",
+   "author" : [
+      "Chad Granum <exodist7@gmail.com>"
+   ],
+   "dynamic_config" : 0,
+   "generated_by" : "Module::Build version 0.4205",
+   "license" : [
+      "perl_5"
+   ],
+   "meta-spec" : {
+      "url" : "http://search.cpan.org/perldoc?CPAN::Meta::Spec",
+      "version" : "2"
+   },
+   "name" : "Meta-Builder",
+   "prereqs" : {
+      "build" : {
+         "requires" : {
+            "Fennec::Lite" : "0",
+            "Test::Exception" : "0",
+            "Test::More" : "0"
+         }
+      },
+      "runtime" : {
+         "requires" : {
+            "Carp" : "0"
+         }
+      }
+   },
+   "provides" : {
+      "Meta::Builder" : {
+         "file" : "lib/Meta/Builder.pm",
+         "version" : "0.003"
+      },
+      "Meta::Builder::Base" : {
+         "file" : "lib/Meta/Builder/Base.pm"
+      },
+      "Meta::Builder::Util" : {
+         "file" : "lib/Meta/Builder/Util.pm"
+      }
+   },
+   "release_status" : "stable",
+   "resources" : {
+      "bugtracker" : {
+         "web" : "http://github.com/exodist/Meta-Builder/issues"
+      },
+      "license" : [
+         "http://dev.perl.org/licenses/"
+      ],
+      "repository" : {
+         "url" : "http://github.com/exodist/Meta-Builder"
+      }
+   },
+   "version" : "0.003"
+}

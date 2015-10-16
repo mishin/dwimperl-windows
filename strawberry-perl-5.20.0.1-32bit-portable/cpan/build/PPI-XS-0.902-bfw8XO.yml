@@ -1,0 +1,63 @@
+---
+distribution: !!perl/hash:CPAN::Distribution
+  CALLED_FOR: PPI::XS
+  CHECKSUM_STATUS: OK
+  CONTAINSMODS:
+    PPI::XS: 1
+  ID: D/DA/DAGOLDEN/PPI-XS-0.902.tar.gz
+  RO:
+    CPAN_USERID: DAGOLDEN
+    CPAN_VERSION: '0.902'
+    DESCRIPTION: ~
+  archived: tar
+  build_dir: C:\Users\TOSH\Documents\GitHub\dwimperl-windows\strawberry-perl-5.20.0.1-32bit-portable\cpan\build\PPI-XS-0.902-bfw8XO
+  install: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 4
+    FAILED: ''
+    TEXT: YES
+    TIME: 1443167777
+  localfile: C:\Users\TOSH\Documents\GitHub\dwimperl-windows\strawberry-perl-5.20.0.1-32bit-portable\cpan\sources\authors\id\D\DA\DAGOLDEN\PPI-XS-0.902.tar.gz
+  make: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 4
+    FAILED: ''
+    TEXT: YES
+    TIME: 1443167766
+  make_test: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 4
+    FAILED: ''
+    TEXT: YES
+    TIME: 1443167775
+  mandatory: ''
+  negative_prefs_cache: 4
+  prefs:
+    install: {}
+  prereq_pm:
+    build_requires:
+      ExtUtils::MakeMaker: '6.36'
+      File::Spec: '0.82'
+      Test::More: '0.47'
+    configure_requires: {}
+    opt_build_requires: {}
+    opt_requires: {}
+    requires:
+      PPI: '1.000'
+      perl: '5.005'
+  reqtype: r
+  should_report: 1
+  sponsored_mods: {}
+  unwrapped: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 4
+    FAILED: ''
+    TEXT: YES
+    TIME: 1443167729
+  writemakefile: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 4
+    FAILED: ''
+    TEXT: YES
+    TIME: 1443167736
+perl:
+  $^X: C:\Users\TOSH\Documents\GitHub\dwimperl-windows\strawberry-perl-5.20.0.1-32bit-portable\perl\bin\perl.exe
+  mtime_$^X: 1401480666
+  mtime_dll: 0
+  sitearchexp: C:\Users\TOSH\Documents\GitHub\dwimperl-windows\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib
+time: 1443167777

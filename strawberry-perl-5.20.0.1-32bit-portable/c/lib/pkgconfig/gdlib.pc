@@ -1,0 +1,11 @@
+prefix=/mingw
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: gd
+Description: GD graphics library
+Version: 2.1.0
+Cflags: -I${includedir}
+Libs.private: -ljpeg -lz  -L/mingw/lib -lpng16 -L/mingw/lib -lfreetype -L/mingw/lib -lz -L/mingw/lib -lpng16 -lz -L/mingw/lib -lXpm  -ltiff 
+Libs: -L${libdir} -lgd

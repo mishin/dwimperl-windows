@@ -1,0 +1,29 @@
+---
+abstract: 'Get module versions'
+author:
+  - 'Sawyer X <xsawyerx@cpan.org>'
+build_requires:
+  Test::More: '0'
+dynamic_config: 0
+generated_by: 'Module::Build version 0.4205, CPAN::Meta::Converter version 2.141170'
+license: perl
+meta-spec:
+  url: http://module-build.sourceforge.net/META-spec-v1.4.html
+  version: '1.4'
+name: Module-Version
+provides:
+  Module::Version:
+    file: lib/Module/Version.pm
+    version: '0.12'
+  Module::Version::App:
+    file: lib/Module/Version/App.pm
+    version: '0.05'
+requires:
+  Carp: '0'
+  Exporter: '0'
+  ExtUtils::MakeMaker: '6.56'
+  Getopt::Long: '0'
+  autodie: '0'
+resources:
+  license: http://dev.perl.org/licenses/
+version: '0.12'

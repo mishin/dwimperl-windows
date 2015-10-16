@@ -1,0 +1,77 @@
+---
+distribution: !!perl/hash:CPAN::Distribution
+  CALLED_FOR: E/ET/ETHER/MooseX-Types-Path-Tiny-0.011.tar.gz
+  CHECKSUM_STATUS: OK
+  CONTAINSMODS:
+    MooseX::Types::Path::Tiny: 1
+  ID: E/ET/ETHER/MooseX-Types-Path-Tiny-0.011.tar.gz
+  RO:
+    CPAN_USERID: ETHER
+    CPAN_VERSION: '0.011'
+    DESCRIPTION: ~
+  archived: tar
+  build_dir: C:\Users\TOSH\Documents\GitHub\dwimperl-windows\strawberry-perl-5.20.0.1-32bit-portable\cpan\build\MooseX-Types-Path-Tiny-0.011-Z4H2e1
+  install: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 4
+    FAILED: ''
+    TEXT: YES
+    TIME: 1443167326
+  localfile: C:\Users\TOSH\Documents\GitHub\dwimperl-windows\strawberry-perl-5.20.0.1-32bit-portable\cpan\sources\authors\id\E\ET\ETHER\MooseX-Types-Path-Tiny-0.011.tar.gz
+  make: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 4
+    FAILED: ''
+    TEXT: YES
+    TIME: 1443167305
+  make_test: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 4
+    FAILED: ''
+    TEXT: YES
+    TIME: 1443167324
+  mandatory: ''
+  modulebuild: 1
+  negative_prefs_cache: 4
+  prefs:
+    install: {}
+  prereq_pm:
+    build_requires:
+      ExtUtils::MakeMaker: '0'
+      File::Spec: '0'
+      File::Temp: '0.18'
+      File::pushd: '0'
+      Test::Fatal: '0'
+      Test::More: '0.96'
+    configure_requires: {}
+    opt_build_requires:
+      CPAN::Meta: '2.120900'
+    opt_requires: {}
+    requires:
+      Moose: '2'
+      MooseX::Types: '0'
+      MooseX::Types::Moose: '0'
+      MooseX::Types::Stringlike: '0'
+      Path::Tiny: '0'
+      if: '0'
+      namespace::autoclean: '0'
+      perl: '5.006'
+      strict: '0'
+      warnings: '0'
+  reqtype: b
+  should_report: 1
+  sponsored_mods:
+    MooseX::Types::Stringlike: 1
+  unwrapped: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 4
+    FAILED: ''
+    TEXT: YES
+    TIME: 1443167140
+  writemakefile: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 4
+    FAILED: ''
+    TEXT: YES
+    TIME: 1443167154
+perl:
+  $^X: C:\Users\TOSH\Documents\GitHub\dwimperl-windows\strawberry-perl-5.20.0.1-32bit-portable\perl\bin\perl.exe
+  mtime_$^X: 1401480666
+  mtime_dll: 0
+  sitearchexp: C:\Users\TOSH\Documents\GitHub\dwimperl-windows\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib
+time: 1443167326

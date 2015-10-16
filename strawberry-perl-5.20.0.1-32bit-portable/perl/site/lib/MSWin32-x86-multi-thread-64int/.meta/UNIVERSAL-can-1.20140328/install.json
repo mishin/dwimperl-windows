@@ -1,0 +1,1 @@
+{"dist":"UNIVERSAL-can-1.20140328","name":"UNIVERSAL::can","target":"UNIVERSAL::can","pathname":"C/CH/CHROMATIC/UNIVERSAL-can-1.20140328.tar.gz","provides":{"UNIVERSAL::can":{"file":"lib/UNIVERSAL/can.pm","version":"1.20140328"},"Test::SmallWarn":{"file":"t/lib/Test/SmallWarn.pm"}},"version":"1.20140328"}

@@ -1,0 +1,61 @@
+---
+distribution: !!perl/hash:CPAN::Distribution
+  CALLED_FOR: E/EV/EVDB/Term-ProgressBar-Simple-0.03.tar.gz
+  CHECKSUM_STATUS: OK
+  CONTAINSMODS:
+    Term::ProgressBar::Simple: 1
+  ID: E/EV/EVDB/Term-ProgressBar-Simple-0.03.tar.gz
+  RO:
+    CPAN_USERID: EVDB
+    CPAN_VERSION: '0.03'
+    DESCRIPTION: ~
+  archived: tar
+  build_dir: C:\Users\TOSH\Documents\GitHub\dwimperl-windows\strawberry-perl-5.20.0.1-32bit-portable\cpan\build\Term-ProgressBar-Simple-0.03-K8l92D
+  install: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 4
+    FAILED: ''
+    TEXT: YES
+    TIME: 1443177842
+  localfile: C:\Users\TOSH\Documents\GitHub\dwimperl-windows\strawberry-perl-5.20.0.1-32bit-portable\cpan\sources\authors\id\E\EV\EVDB\Term-ProgressBar-Simple-0.03.tar.gz
+  make: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 4
+    FAILED: ''
+    TEXT: YES
+    TIME: 1443177827
+  make_test: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 4
+    FAILED: ''
+    TEXT: YES
+    TIME: 1443177840
+  mandatory: ''
+  negative_prefs_cache: 4
+  prefs:
+    install: {}
+  prereq_pm:
+    build_requires:
+      ExtUtils::MakeMaker: '0'
+    configure_requires: {}
+    opt_build_requires: {}
+    opt_requires: {}
+    requires:
+      Term::ProgressBar::Quiet: '0'
+  reqtype: r
+  should_report: 1
+  sponsored_mods:
+    Term::ProgressBar::Quiet: 1
+  unwrapped: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 4
+    FAILED: ''
+    TEXT: YES
+    TIME: 1443177575
+  writemakefile: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 4
+    FAILED: ''
+    TEXT: YES
+    TIME: 1443177578
+perl:
+  $^X: C:\Users\TOSH\Documents\GitHub\dwimperl-windows\strawberry-perl-5.20.0.1-32bit-portable\perl\bin\perl.exe
+  mtime_$^X: 1401480666
+  mtime_dll: 0
+  sitearchexp: C:\Users\TOSH\Documents\GitHub\dwimperl-windows\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib
+time: 1443177842

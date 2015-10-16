@@ -1,0 +1,1 @@
+{"name":"Test::MockObject","dist":"Test-MockObject-1.20150527","target":"Test::MockObject","pathname":"C/CH/CHROMATIC/Test-MockObject-1.20150527.tar.gz","version":"1.20150527","provides":{"Test::MockObject":{"file":"lib/Test/MockObject.pm","version":"1.20150527"},"Test::MockObject::Extends":{"file":"lib/Test/MockObject/Extends.pm","version":"1.20150527"}}}

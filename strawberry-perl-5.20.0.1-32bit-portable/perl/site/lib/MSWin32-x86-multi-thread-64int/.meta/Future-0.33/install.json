@@ -1,0 +1,1 @@
+{"name":"Future","dist":"Future-0.33","target":"Future::Utils","pathname":"P/PE/PEVANS/Future-0.33.tar.gz","version":"0.33","provides":{"Future::Utils":{"file":"lib/Future/Utils.pm","version":"0.33"},"Future":{"version":"0.33","file":"lib/Future.pm"},"Test::Future":{"version":"0.33","file":"lib/Test/Future.pm"}}}

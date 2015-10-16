@@ -1,0 +1,60 @@
+---
+distribution: !!perl/hash:CPAN::Distribution
+  CALLED_FOR: Proc::Terminator
+  CHECKSUM_STATUS: OK
+  CONTAINSMODS:
+    Proc::Terminator: 1
+    Proc::Terminator::Batch: 1
+    Proc::Terminator::Ctx: 1
+  ID: M/MN/MNUNBERG/Proc-Terminator-0.05.tar.gz
+  RO:
+    CPAN_USERID: MNUNBERG
+    CPAN_VERSION: '0.05'
+    DESCRIPTION: ~
+  archived: tar
+  badtestcnt: 1
+  build_dir: C:\Users\TOSH\Documents\GitHub\dwimperl-windows\strawberry-perl-5.20.0.1-32bit-portable\cpan\build\Proc-Terminator-0.05-DG87SE
+  localfile: C:\Users\TOSH\Documents\GitHub\dwimperl-windows\strawberry-perl-5.20.0.1-32bit-portable\cpan\sources\authors\id\M\MN\MNUNBERG\Proc-Terminator-0.05.tar.gz
+  make: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 4
+    FAILED: ''
+    TEXT: YES
+    TIME: 1443178413
+  make_test: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 4
+    FAILED: 1
+    TEXT: NO
+    TIME: 1443179975
+  mandatory: ''
+  negative_prefs_cache: 4
+  prefs: {}
+  prereq_pm:
+    build_requires:
+      ExtUtils::MakeMaker: '0'
+    configure_requires: {}
+    opt_build_requires: {}
+    opt_requires: {}
+    requires:
+      Moo: '0.009014'
+      POSIX: '0'
+      Test::More: '0'
+      Time::HiRes: '0'
+  reqtype: r
+  should_report: 1
+  sponsored_mods: {}
+  unwrapped: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 4
+    FAILED: ''
+    TEXT: YES
+    TIME: 1443178389
+  writemakefile: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 4
+    FAILED: ''
+    TEXT: YES
+    TIME: 1443178396
+perl:
+  $^X: C:\Users\TOSH\Documents\GitHub\dwimperl-windows\strawberry-perl-5.20.0.1-32bit-portable\perl\bin\perl.exe
+  mtime_$^X: 1401480666
+  mtime_dll: 0
+  sitearchexp: C:\Users\TOSH\Documents\GitHub\dwimperl-windows\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib
+time: 1443179975

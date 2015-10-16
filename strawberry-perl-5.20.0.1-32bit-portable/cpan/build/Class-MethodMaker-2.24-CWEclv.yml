@@ -1,0 +1,65 @@
+---
+distribution: !!perl/hash:CPAN::Distribution
+  CALLED_FOR: Class::MethodMaker
+  CHECKSUM_STATUS: OK
+  CONTAINSMODS:
+    Class::MethodMaker: 1
+    Class::MethodMaker::Constants: 1
+    Class::MethodMaker::Engine: 1
+    Class::MethodMaker::OptExt: 1
+    Class::MethodMaker::V1Compat: 1
+    Generate: 1
+  ID: S/SC/SCHWIGON/class-methodmaker/Class-MethodMaker-2.24.tar.gz
+  RO:
+    CPAN_USERID: SCHWIGON
+    CPAN_VERSION: '2.24'
+    DESCRIPTION: ~
+  archived: tar
+  build_dir: C:\Users\TOSH\Documents\GitHub\dwimperl-windows\strawberry-perl-5.20.0.1-32bit-portable\cpan\build\Class-MethodMaker-2.24-CWEclv
+  install: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 4
+    FAILED: ''
+    TEXT: YES
+    TIME: 1443177735
+  localfile: C:\Users\TOSH\Documents\GitHub\dwimperl-windows\strawberry-perl-5.20.0.1-32bit-portable\cpan\sources\authors\id\S\SC\SCHWIGON\class-methodmaker\Class-MethodMaker-2.24.tar.gz
+  make: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 4
+    FAILED: ''
+    TEXT: YES
+    TIME: 1443177698
+  make_test: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 4
+    FAILED: ''
+    TEXT: YES
+    TIME: 1443177712
+  mandatory: ''
+  negative_prefs_cache: 4
+  prefs:
+    install: {}
+  prereq_pm:
+    build_requires:
+      ExtUtils::MakeMaker: '0'
+    configure_requires: {}
+    opt_build_requires: {}
+    opt_requires: {}
+    requires:
+      perl: '5.006'
+  reqtype: r
+  should_report: 1
+  sponsored_mods: {}
+  unwrapped: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 4
+    FAILED: ''
+    TEXT: YES
+    TIME: 1443177638
+  writemakefile: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 4
+    FAILED: ''
+    TEXT: YES
+    TIME: 1443177645
+perl:
+  $^X: C:\Users\TOSH\Documents\GitHub\dwimperl-windows\strawberry-perl-5.20.0.1-32bit-portable\perl\bin\perl.exe
+  mtime_$^X: 1401480666
+  mtime_dll: 0
+  sitearchexp: C:\Users\TOSH\Documents\GitHub\dwimperl-windows\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib
+time: 1443177735

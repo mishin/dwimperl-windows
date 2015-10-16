@@ -1,0 +1,172 @@
+{
+   "abstract" : "base class for Metabase Facts",
+   "author" : [
+      "David Golden <dagolden@cpan.org>",
+      "Ricardo Signes <rjbs@cpan.org>",
+      "H.Merijn Brand <hmbrand@cpan.org>"
+   ],
+   "dynamic_config" : 0,
+   "generated_by" : "Dist::Zilla version 5.013, CPAN::Meta::Converter version 2.133380, CPAN::Meta::Converter version 2.141170",
+   "license" : [
+      "apache_2_0"
+   ],
+   "meta-spec" : {
+      "url" : "http://search.cpan.org/perldoc?CPAN::Meta::Spec",
+      "version" : "2"
+   },
+   "name" : "Metabase-Fact",
+   "no_index" : {
+      "directory" : [
+         "t",
+         "xt",
+         "examples",
+         "corpus"
+      ],
+      "package" : [
+         "DB"
+      ]
+   },
+   "prereqs" : {
+      "build" : {
+         "requires" : {}
+      },
+      "configure" : {
+         "requires" : {
+            "ExtUtils::MakeMaker" : "6.17"
+         }
+      },
+      "develop" : {
+         "requires" : {
+            "Dist::Zilla" : "5.013",
+            "Dist::Zilla::PluginBundle::DAGOLDEN" : "0.060",
+            "File::Spec" : "0",
+            "File::Temp" : "0",
+            "IO::Handle" : "0",
+            "IPC::Open3" : "0",
+            "Pod::Coverage::TrustPod" : "0",
+            "Test::CPAN::Meta" : "0",
+            "Test::More" : "0",
+            "Test::Pod" : "1.41",
+            "Test::Pod::Coverage" : "1.08"
+         }
+      },
+      "runtime" : {
+         "requires" : {
+            "CPAN::DistnameInfo" : "0",
+            "Carp" : "0",
+            "Data::GUID" : "0",
+            "Getopt::Long" : "0",
+            "IO::Prompt::Tiny" : "0",
+            "JSON" : "2",
+            "Pod::Usage" : "0",
+            "overload" : "0",
+            "strict" : "0",
+            "warnings" : "0"
+         }
+      },
+      "test" : {
+         "recommends" : {
+            "CPAN::Meta" : "0",
+            "CPAN::Meta::Requirements" : "2.120900"
+         },
+         "requires" : {
+            "Cwd" : "0",
+            "ExtUtils::MakeMaker" : "0",
+            "File::Spec" : "0",
+            "File::Spec::Functions" : "0",
+            "File::Temp" : "0.20",
+            "List::Util" : "0",
+            "Test::Fatal" : "0",
+            "Test::More" : "0.88",
+            "lib" : "0",
+            "version" : "0"
+         }
+      }
+   },
+   "provides" : {
+      "Metabase::Fact" : {
+         "file" : "lib/Metabase/Fact.pm",
+         "version" : "0.024"
+      },
+      "Metabase::Fact::Hash" : {
+         "file" : "lib/Metabase/Fact/Hash.pm",
+         "version" : "0.024"
+      },
+      "Metabase::Fact::String" : {
+         "file" : "lib/Metabase/Fact/String.pm",
+         "version" : "0.024"
+      },
+      "Metabase::Report" : {
+         "file" : "lib/Metabase/Report.pm",
+         "version" : "0.024"
+      },
+      "Metabase::Resource" : {
+         "file" : "lib/Metabase/Resource.pm",
+         "version" : "0.024"
+      },
+      "Metabase::Resource::cpan" : {
+         "file" : "lib/Metabase/Resource/cpan.pm",
+         "version" : "0.024"
+      },
+      "Metabase::Resource::cpan::distfile" : {
+         "file" : "lib/Metabase/Resource/cpan/distfile.pm",
+         "version" : "0.024"
+      },
+      "Metabase::Resource::metabase" : {
+         "file" : "lib/Metabase/Resource/metabase.pm",
+         "version" : "0.024"
+      },
+      "Metabase::Resource::metabase::fact" : {
+         "file" : "lib/Metabase/Resource/metabase/fact.pm",
+         "version" : "0.024"
+      },
+      "Metabase::Resource::metabase::user" : {
+         "file" : "lib/Metabase/Resource/metabase/user.pm",
+         "version" : "0.024"
+      },
+      "Metabase::Resource::perl" : {
+         "file" : "lib/Metabase/Resource/perl.pm",
+         "version" : "0.024"
+      },
+      "Metabase::Resource::perl::commit" : {
+         "file" : "lib/Metabase/Resource/perl/commit.pm",
+         "version" : "0.024"
+      },
+      "Metabase::User::EmailAddress" : {
+         "file" : "lib/Metabase/User/EmailAddress.pm",
+         "version" : "0.024"
+      },
+      "Metabase::User::FullName" : {
+         "file" : "lib/Metabase/User/FullName.pm",
+         "version" : "0.024"
+      },
+      "Metabase::User::Profile" : {
+         "file" : "lib/Metabase/User/Profile.pm",
+         "version" : "0.024"
+      },
+      "Metabase::User::Secret" : {
+         "file" : "lib/Metabase/User/Secret.pm",
+         "version" : "0.024"
+      }
+   },
+   "release_status" : "stable",
+   "resources" : {
+      "bugtracker" : {
+         "web" : "https://github.com/dagolden/Metabase-Fact/issues"
+      },
+      "homepage" : "https://github.com/dagolden/Metabase-Fact",
+      "repository" : {
+         "type" : "git",
+         "url" : "https://github.com/dagolden/Metabase-Fact.git",
+         "web" : "https://github.com/dagolden/Metabase-Fact"
+      }
+   },
+   "version" : "0.024",
+   "x_authority" : "cpan:DAGOLDEN",
+   "x_contributors" : [
+      "David Steinbrunner <dsteinbrunner@pobox.com>",
+      "Karen Etheridge <ether@cpan.org>",
+      "Nathan Gary Glenn <nglenn@cpan.org>",
+      "Randy Stauner <rwstauner@cpan.org>"
+   ]
+}

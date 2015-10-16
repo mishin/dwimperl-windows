@@ -1,0 +1,64 @@
+---
+distribution: !!perl/hash:CPAN::Distribution
+  CALLED_FOR: Devel::Dumpvar
+  CHECKSUM_STATUS: OK
+  CONTAINSMODS:
+    Devel::Dumpvar: 1
+  ID: A/AD/ADAMK/Devel-Dumpvar-1.06.tar.gz
+  RO:
+    CPAN_USERID: ADAMK
+    CPAN_VERSION: '1.06'
+    DESCRIPTION: ~
+  archived: tar
+  build_dir: C:\Users\TOSH\Documents\GitHub\dwimperl-windows\strawberry-perl-5.20.0.1-32bit-portable\cpan\build\Devel-Dumpvar-1.06-53OQHA
+  incommandcolor: 2
+  install: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 1
+    FAILED: ''
+    TEXT: YES
+    TIME: 1443213756
+  localfile: C:\Users\TOSH\Documents\GitHub\dwimperl-windows\strawberry-perl-5.20.0.1-32bit-portable\cpan\sources\authors\id\A\AD\ADAMK\Devel-Dumpvar-1.06.tar.gz
+  make: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 1
+    FAILED: ''
+    TEXT: YES
+    TIME: 1443213745
+  make_test: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 1
+    FAILED: ''
+    TEXT: YES
+    TIME: 1443213754
+  mandatory: 1
+  negative_prefs_cache: 1
+  prefs:
+    install: {}
+  prereq_pm:
+    build_requires:
+      ExtUtils::MakeMaker: '0'
+    configure_requires: {}
+    opt_build_requires: {}
+    opt_requires: {}
+    requires:
+      ExtUtils::MakeMaker: '6.42'
+      File::Spec: '0.80'
+      Scalar::Util: '1.18'
+      Test::More: '0.42'
+  reqtype: r
+  should_report: 1
+  sponsored_mods: {}
+  unwrapped: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 1
+    FAILED: ''
+    TEXT: YES
+    TIME: 1443213721
+  writemakefile: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 1
+    FAILED: ''
+    TEXT: YES
+    TIME: 1443213729
+perl:
+  $^X: C:\Users\TOSH\Documents\GitHub\dwimperl-windows\strawberry-perl-5.20.0.1-32bit-portable\perl\bin\perl.exe
+  mtime_$^X: 1401480666
+  mtime_dll: 0
+  sitearchexp: C:\Users\TOSH\Documents\GitHub\dwimperl-windows\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib
+time: 1443213756

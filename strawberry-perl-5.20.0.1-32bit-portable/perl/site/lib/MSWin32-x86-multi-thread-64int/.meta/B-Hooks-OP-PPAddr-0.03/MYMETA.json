@@ -1,0 +1,53 @@
+{
+   "abstract" : "Hook into opcode execution",
+   "author" : [
+      "Florian Ragwitz <rafl@debian.org>"
+   ],
+   "dynamic_config" : 0,
+   "generated_by" : "Module::Install version 0.91, CPAN::Meta::Converter version 2.141170",
+   "license" : [
+      "perl_5"
+   ],
+   "meta-spec" : {
+      "url" : "http://search.cpan.org/perldoc?CPAN::Meta::Spec",
+      "version" : "2"
+   },
+   "name" : "B-Hooks-OP-PPAddr",
+   "no_index" : {
+      "directory" : [
+         "inc",
+         "t",
+         "xt"
+      ]
+   },
+   "prereqs" : {
+      "build" : {
+         "requires" : {
+            "ExtUtils::MakeMaker" : "0"
+         }
+      },
+      "configure" : {
+         "requires" : {
+            "ExtUtils::MakeMaker" : "0"
+         }
+      },
+      "runtime" : {
+         "requires" : {
+            "ExtUtils::Depends" : "0.302",
+            "ExtUtils::MakeMaker" : "6.42",
+            "parent" : "0"
+         }
+      }
+   },
+   "release_status" : "stable",
+   "resources" : {
+      "license" : [
+         "http://dev.perl.org/licenses/"
+      ],
+      "repository" : {
+         "type" : "git",
+         "url" : "git://github.com/rafl/b-hooks-op-ppaddr.git"
+      }
+   },
+   "version" : "0.03"
+}

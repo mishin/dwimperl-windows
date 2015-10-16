@@ -1,0 +1,57 @@
+---
+distribution: !!perl/hash:CPAN::Distribution
+  CALLED_FOR: Starman
+  CHECKSUM_STATUS: OK
+  CONTAINSMODS:
+    HTTP::Server::PSGI::Net::Server::PreFork: 1
+    Plack::Handler::Starman: 1
+    Starman: 1
+    Starman::Server: 1
+  ID: M/MI/MIYAGAWA/Starman-0.4014.tar.gz
+  RO:
+    CPAN_USERID: MIYAGAWA
+    CPAN_VERSION: '0.4014'
+    DESCRIPTION: ~
+  archived: tar
+  build_dir: C:\Users\TOSH\Documents\GitHub\dwimperl-windows\strawberry-perl-5.20.0.1-32bit-portable\cpan\build\Starman-0.4014-XacVu2
+  localfile: C:\Users\TOSH\Documents\GitHub\dwimperl-windows\strawberry-perl-5.20.0.1-32bit-portable\cpan\sources\authors\id\M\MI\MIYAGAWA\Starman-0.4014.tar.gz
+  mandatory: ''
+  modulebuild: 1
+  negative_prefs_cache: 4
+  prefs: {}
+  prereq_pm:
+    build_requires:
+      LWP::UserAgent: '0'
+      Test::More: '0'
+      Test::Requires: '0'
+    configure_requires: {}
+    opt_build_requires: {}
+    opt_requires: {}
+    requires:
+      Data::Dump: '0'
+      HTTP::Date: '0'
+      HTTP::Parser::XS: '0'
+      HTTP::Status: '0'
+      Net::Server: '2.007'
+      Plack: '0.9971'
+      Test::TCP: '2.00'
+      parent: '0'
+      perl: '5.008001'
+  reqtype: r
+  should_report: 1
+  unwrapped: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 4
+    FAILED: ''
+    TEXT: YES
+    TIME: 1443180208
+  writemakefile: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 4
+    FAILED: ''
+    TEXT: YES
+    TIME: 1443180218
+perl:
+  $^X: C:\Users\TOSH\Documents\GitHub\dwimperl-windows\strawberry-perl-5.20.0.1-32bit-portable\perl\bin\perl.exe
+  mtime_$^X: 1401480666
+  mtime_dll: 0
+  sitearchexp: C:\Users\TOSH\Documents\GitHub\dwimperl-windows\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib
+time: 1443180218

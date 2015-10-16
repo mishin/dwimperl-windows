@@ -1,0 +1,72 @@
+---
+distribution: !!perl/hash:CPAN::Distribution
+  CALLED_FOR: MooseX::MarkAsMethods
+  CHECKSUM_STATUS: OK
+  CONTAINSMODS:
+    MooseX::MarkAsMethods: 1
+    MooseX::MarkAsMethods::MetaRole::MethodMarker: 1
+  ID: R/RS/RSRCHBOY/MooseX-MarkAsMethods-0.15.tar.gz
+  RO:
+    CPAN_USERID: RSRCHBOY
+    CPAN_VERSION: '0.15'
+    DESCRIPTION: ~
+  archived: tar
+  build_dir: C:\Users\TOSH\Documents\GitHub\dwimperl-windows\strawberry-perl-5.20.0.1-32bit-portable\cpan\build\MooseX-MarkAsMethods-0.15-KyleCO
+  install: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 4
+    FAILED: ''
+    TEXT: YES
+    TIME: 1443178386
+  localfile: C:\Users\TOSH\Documents\GitHub\dwimperl-windows\strawberry-perl-5.20.0.1-32bit-portable\cpan\sources\authors\id\R\RS\RSRCHBOY\MooseX-MarkAsMethods-0.15.tar.gz
+  make: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 4
+    FAILED: ''
+    TEXT: YES
+    TIME: 1443178357
+  make_test: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 4
+    FAILED: ''
+    TEXT: YES
+    TIME: 1443178384
+  mandatory: ''
+  negative_prefs_cache: 4
+  prefs:
+    install: {}
+  prereq_pm:
+    build_requires:
+      File::Find: '0'
+      File::Temp: '0'
+      Test::Moose: '0'
+      Test::More: '0.92'
+      overload: '0'
+    configure_requires: {}
+    opt_build_requires: {}
+    opt_requires: {}
+    requires:
+      B::Hooks::EndOfScope: '0'
+      Moose: '0.94'
+      Moose::Exporter: '0'
+      Moose::Role: '0'
+      Moose::Util::MetaRole: '0'
+      namespace::autoclean: '0.12'
+      strict: '0'
+      warnings: '0'
+  reqtype: r
+  should_report: 1
+  sponsored_mods: {}
+  unwrapped: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 4
+    FAILED: ''
+    TEXT: YES
+    TIME: 1443178313
+  writemakefile: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 4
+    FAILED: ''
+    TEXT: YES
+    TIME: 1443178320
+perl:
+  $^X: C:\Users\TOSH\Documents\GitHub\dwimperl-windows\strawberry-perl-5.20.0.1-32bit-portable\perl\bin\perl.exe
+  mtime_$^X: 1401480666
+  mtime_dll: 0
+  sitearchexp: C:\Users\TOSH\Documents\GitHub\dwimperl-windows\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib
+time: 1443178386

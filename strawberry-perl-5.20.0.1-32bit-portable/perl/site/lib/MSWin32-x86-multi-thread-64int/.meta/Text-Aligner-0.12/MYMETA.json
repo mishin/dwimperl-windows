@@ -1,0 +1,73 @@
+{
+   "abstract" : "module to align text.",
+   "author" : [
+      "Shlomi Fish <shlomif@cpan.org>"
+   ],
+   "dynamic_config" : 0,
+   "generated_by" : "Module::Build version 0.4205",
+   "license" : [
+      "mit"
+   ],
+   "meta-spec" : {
+      "url" : "http://search.cpan.org/perldoc?CPAN::Meta::Spec",
+      "version" : "2"
+   },
+   "name" : "Text-Aligner",
+   "prereqs" : {
+      "build" : {
+         "requires" : {
+            "Module::Build" : "0.28"
+         }
+      },
+      "configure" : {
+         "requires" : {
+            "ExtUtils::MakeMaker" : "0",
+            "Module::Build" : "0.28"
+         }
+      },
+      "runtime" : {
+         "requires" : {
+            "Exporter" : "0",
+            "Term::ANSIColor" : "2.02",
+            "perl" : "5.008",
+            "strict" : "0",
+            "vars" : "0",
+            "warnings" : "0"
+         }
+      },
+      "test" : {
+         "requires" : {
+            "File::Spec" : "0",
+            "File::Temp" : "0",
+            "IO::Handle" : "0",
+            "IPC::Open3" : "0",
+            "Test::More" : "0",
+            "constant" : "0"
+         }
+      }
+   },
+   "provides" : {
+      "Text::Aligner" : {
+         "file" : "lib/Text/Aligner.pm",
+         "version" : "0.12"
+      },
+      "Text::Aligner::Auto" : {
+         "file" : "lib/Text/Aligner.pm",
+         "version" : "0.12"
+      },
+      "Text::Aligner::MaxKeeper" : {
+         "file" : "lib/Text/Aligner.pm",
+         "version" : "0.12"
+      }
+   },
+   "release_status" : "stable",
+   "resources" : {
+      "bugtracker" : {
+         "web" : "http://rt.cpan.org/NoAuth/Bugs.html?Dist=Text-Aligner"
+      },
+      "repository" : {
+         "url" : "https://github.com/shlomif/Text-Aligner.git"
+      }
+   },
+   "version" : "0.12"
+}

@@ -1,0 +1,3 @@
+Package: libffi-3.0.13
+Sources: ftp://sourceware.org/pub/libffi/libffi-3.0.13.tar.gz
+Homepage: http://sourceware.org/libffi/

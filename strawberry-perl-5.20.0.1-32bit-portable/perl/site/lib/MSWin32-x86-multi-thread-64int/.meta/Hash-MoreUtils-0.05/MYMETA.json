@@ -1,0 +1,40 @@
+{
+   "abstract" : "Provide the stuff missing in Hash::Util",
+   "author" : [
+      "Hans Dieter Pearcey <hdp@cpan.org>",
+      "Jens Rehsack <rehsack@cpan.org>"
+   ],
+   "dynamic_config" : 0,
+   "generated_by" : "Module::Build version 0.4205",
+   "license" : [
+      "perl_5"
+   ],
+   "meta-spec" : {
+      "url" : "http://search.cpan.org/perldoc?CPAN::Meta::Spec",
+      "version" : "2"
+   },
+   "name" : "Hash-MoreUtils",
+   "prereqs" : {
+      "build" : {
+         "requires" : {
+            "Test::More" : "0.90"
+         }
+      }
+   },
+   "provides" : {
+      "Hash::MoreUtils" : {
+         "file" : "lib/Hash/MoreUtils.pm",
+         "version" : "0.05"
+      }
+   },
+   "release_status" : "stable",
+   "resources" : {
+      "license" : [
+         "http://dev.perl.org/licenses/"
+      ],
+      "repository" : {
+         "url" : "https://github.com/perl5-utils/Hash-MoreUtils"
+      }
+   },
+   "version" : "0.05"
+}

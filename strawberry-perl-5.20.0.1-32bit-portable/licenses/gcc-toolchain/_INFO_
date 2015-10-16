@@ -1,0 +1,35 @@
+Package: gcc-4.8.2
+Homepage: http://gcc.gnu.org/
+Sources: ftp://gcc.gnu.org/pub/gcc/releases/
+
+Package: binutils-2.24
+Homepage: http://www.gnu.org/software/binutils/
+Sources: http://ftp.gnu.org/gnu/binutils/
+
+Package: mingw-w64-crt-v3
+Homepage: http://mingw-w64.sourceforge.net/
+Sources: http://sourceforge.net/projects/mingw-w64/files/mingw-w64/mingw-w64-release/
+
+name: gcc-4.8.2
+url : ftp://ftp.fu-berlin.de/unix/languages/gcc/releases/gcc-4.8.2/gcc-4.8.2.tar.bz2
+    
+name: binutils-2.24
+url : ftp://mirrors.kernel.org/sources.redhat.com/binutils/releases/binutils-2.24.tar.bz2
+    
+name: mingw-w64-crt-v3 / svn rev6559
+url : svn://svn.code.sf.net/p/mingw-w64/code/stable/v3.x/mingw-w64-libraries/winpthreads
+    
+name: winpthreads-v3 / svn rev6559
+url : svn://svn.code.sf.net/p/mingw-w64/code/stable/v3.x/mingw-w64-libraries/winpthreads
+    
+name: gendef-v3 / svn rev6559
+url : svn://svn.code.sf.net/p/mingw-w64/code/stable/v3.x/mingw-w64-tools/gendef
+    
+name: genidl-v3 / svn rev6559
+url : svn://svn.code.sf.net/p/mingw-w64/code/stable/v3.x/mingw-w64-tools/genidl
+    
+name: genpeimg-v3 / svn rev6559
+url : svn://svn.code.sf.net/p/mingw-w64/code/stable/v3.x/mingw-w64-tools/genpeimg
+    
+name: widl-v3 / svn rev6559
+url : svn://svn.code.sf.net/p/mingw-w64/code/stable/v3.x/mingw-w64-tools/widl

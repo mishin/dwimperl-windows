@@ -1,0 +1,67 @@
+---
+distribution: !!perl/hash:CPAN::Distribution
+  CALLED_FOR: R/RC/RCAPUTO/Lexical-Persistence-1.023.tar.gz
+  CHECKSUM_STATUS: OK
+  CONTAINSMODS:
+    Lexical::Persistence: 1
+  ID: R/RC/RCAPUTO/Lexical-Persistence-1.023.tar.gz
+  RO:
+    CPAN_USERID: RCAPUTO
+    CPAN_VERSION: '1.023'
+    DESCRIPTION: ~
+  archived: tar
+  build_dir: C:\Users\TOSH\Documents\GitHub\dwimperl-windows\strawberry-perl-5.20.0.1-32bit-portable\cpan\build\Lexical-Persistence-1.023-aGp6jr
+  install: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 4
+    FAILED: ''
+    TEXT: YES
+    TIME: 1443167955
+  localfile: C:\Users\TOSH\Documents\GitHub\dwimperl-windows\strawberry-perl-5.20.0.1-32bit-portable\cpan\sources\authors\id\R\RC\RCAPUTO\Lexical-Persistence-1.023.tar.gz
+  make: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 4
+    FAILED: ''
+    TEXT: YES
+    TIME: 1443167943
+  make_test: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 4
+    FAILED: ''
+    TEXT: YES
+    TIME: 1443167953
+  mandatory: ''
+  negative_prefs_cache: 4
+  prefs:
+    install: {}
+  prereq_pm:
+    build_requires:
+      Carp: '1.26'
+      Scalar::Util: '1.29'
+      Test::More: '0.98'
+      constant: '0'
+    configure_requires: {}
+    opt_build_requires: {}
+    opt_requires: {}
+    requires:
+      Devel::LexAlias: '0.05'
+      PadWalker: '1.96'
+      strict: '0'
+      warnings: '0'
+  reqtype: r
+  should_report: 1
+  sponsored_mods:
+    Devel::LexAlias: 1
+  unwrapped: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 4
+    FAILED: ''
+    TEXT: YES
+    TIME: 1443167818
+  writemakefile: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 4
+    FAILED: ''
+    TEXT: YES
+    TIME: 1443167825
+perl:
+  $^X: C:\Users\TOSH\Documents\GitHub\dwimperl-windows\strawberry-perl-5.20.0.1-32bit-portable\perl\bin\perl.exe
+  mtime_$^X: 1401480666
+  mtime_dll: 0
+  sitearchexp: C:\Users\TOSH\Documents\GitHub\dwimperl-windows\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib
+time: 1443167955

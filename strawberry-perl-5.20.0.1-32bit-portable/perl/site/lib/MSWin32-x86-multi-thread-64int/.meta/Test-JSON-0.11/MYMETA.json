@@ -1,0 +1,39 @@
+{
+   "abstract" : "Test JSON data",
+   "author" : [
+      "Curtis \"Ovid\" Poe <ovid@cpan.org>"
+   ],
+   "dynamic_config" : 0,
+   "generated_by" : "Module::Build version 0.4205",
+   "license" : [
+      "perl_5"
+   ],
+   "meta-spec" : {
+      "url" : "http://search.cpan.org/perldoc?CPAN::Meta::Spec",
+      "version" : "2"
+   },
+   "name" : "Test-JSON",
+   "prereqs" : {
+      "runtime" : {
+         "requires" : {
+            "JSON::Any" : 1.2,
+            "Test::Differences" : 0.47,
+            "Test::Simple" : 0.62,
+            "Test::Tester" : 0.107
+         }
+      }
+   },
+   "provides" : {
+      "Test::JSON" : {
+         "file" : "lib/Test/JSON.pm",
+         "version" : "0.11"
+      }
+   },
+   "release_status" : "stable",
+   "resources" : {
+      "license" : [
+         "http://dev.perl.org/licenses/"
+      ]
+   },
+   "version" : "0.11"
+}

@@ -1,0 +1,104 @@
+---
+distribution: !!perl/hash:CPAN::Distribution
+  CALLED_FOR: ExtUtils::XSpp
+  CHECKSUM_STATUS: OK
+  CONTAINSMODS:
+    ExtUtils::XSpp: 1
+    ExtUtils::XSpp::Cmd: 1
+    ExtUtils::XSpp::Driver: 1
+    ExtUtils::XSpp::Exception: 1
+    ExtUtils::XSpp::Exception::code: 1
+    ExtUtils::XSpp::Exception::object: 1
+    ExtUtils::XSpp::Exception::perlcode: 1
+    ExtUtils::XSpp::Exception::simple: 1
+    ExtUtils::XSpp::Exception::stdmessage: 1
+    ExtUtils::XSpp::Exception::unknown: 1
+    ExtUtils::XSpp::Grammar: 1
+    ExtUtils::XSpp::Grammar::YappDriver: 1
+    ExtUtils::XSpp::Lexer: 1
+    ExtUtils::XSpp::Node: 1
+    ExtUtils::XSpp::Node::Access: 1
+    ExtUtils::XSpp::Node::Argument: 1
+    ExtUtils::XSpp::Node::Class: 1
+    ExtUtils::XSpp::Node::Comment: 1
+    ExtUtils::XSpp::Node::Constructor: 1
+    ExtUtils::XSpp::Node::Destructor: 1
+    ExtUtils::XSpp::Node::Enum: 1
+    ExtUtils::XSpp::Node::EnumValue: 1
+    ExtUtils::XSpp::Node::File: 1
+    ExtUtils::XSpp::Node::Function: 1
+    ExtUtils::XSpp::Node::Member: 1
+    ExtUtils::XSpp::Node::Method: 1
+    ExtUtils::XSpp::Node::Module: 1
+    ExtUtils::XSpp::Node::Package: 1
+    ExtUtils::XSpp::Node::PercAny: 1
+    ExtUtils::XSpp::Node::Preprocessor: 1
+    ExtUtils::XSpp::Node::Raw: 1
+    ExtUtils::XSpp::Node::Type: 1
+    ExtUtils::XSpp::Parser: 1
+    ExtUtils::XSpp::Plugin::feature::default_xs_typemap: 1
+    ExtUtils::XSpp::Typemap: 1
+    ExtUtils::XSpp::Typemap::parsed: 1
+    ExtUtils::XSpp::Typemap::reference: 1
+    ExtUtils::XSpp::Typemap::simple: 1
+    ExtUtils::XSpp::Typemap::wrapper: 1
+  ID: S/SM/SMUELLER/ExtUtils-XSpp-0.18.tar.gz
+  RO:
+    CPAN_USERID: SMUELLER
+    CPAN_VERSION: '0.18'
+    DESCRIPTION: ~
+  archived: tar
+  build_dir: C:\Users\TOSH\Documents\GitHub\dwimperl-windows\strawberry-perl-5.20.0.1-32bit-portable\cpan\build\ExtUtils-XSpp-0.18-bT1Twh
+  incommandcolor: 2
+  install: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 1
+    FAILED: ''
+    TEXT: YES
+    TIME: 1443214425
+  localfile: C:\Users\TOSH\Documents\GitHub\dwimperl-windows\strawberry-perl-5.20.0.1-32bit-portable\cpan\sources\authors\id\S\SM\SMUELLER\ExtUtils-XSpp-0.18.tar.gz
+  make: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 1
+    FAILED: ''
+    TEXT: YES
+    TIME: 1443214393
+  make_test: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 1
+    FAILED: ''
+    TEXT: YES
+    TIME: 1443214421
+  mandatory: 1
+  modulebuild: 1
+  negative_prefs_cache: 1
+  prefs:
+    install: {}
+  prereq_pm:
+    build_requires:
+      Test::Base: '0'
+      Test::Differences: '0'
+    configure_requires: {}
+    opt_build_requires: {}
+    opt_requires: {}
+    requires:
+      Digest::MD5: '2.0'
+      ExtUtils::ParseXS: '3.07'
+      ExtUtils::Typemaps: '1'
+      perl: v5.6.1
+  reqtype: r
+  should_report: 1
+  sponsored_mods: {}
+  unwrapped: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 1
+    FAILED: ''
+    TEXT: YES
+    TIME: 1443214368
+  writemakefile: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 1
+    FAILED: ''
+    TEXT: YES
+    TIME: 1443214378
+perl:
+  $^X: C:\Users\TOSH\Documents\GitHub\dwimperl-windows\strawberry-perl-5.20.0.1-32bit-portable\perl\bin\perl.exe
+  mtime_$^X: 1401480666
+  mtime_dll: 0
+  sitearchexp: C:\Users\TOSH\Documents\GitHub\dwimperl-windows\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib
+time: 1443214425

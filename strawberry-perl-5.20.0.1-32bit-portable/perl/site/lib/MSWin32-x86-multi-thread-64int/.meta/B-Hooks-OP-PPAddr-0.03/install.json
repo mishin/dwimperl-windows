@@ -1,0 +1,1 @@
+{"name":"B::Hooks::OP::PPAddr","dist":"B-Hooks-OP-PPAddr-0.03","target":"B::Hooks::OP::PPAddr","pathname":"F/FL/FLORA/B-Hooks-OP-PPAddr-0.03.tar.gz","version":"0.03","provides":{"B::Hooks::OP::PPAddr":{"version":"0.03","file":"lib/B/Hooks/OP/PPAddr.pm"},"B::Hooks::OP::PPAddr::Install::Files":{"file":"build/IFiles.pm"}}}

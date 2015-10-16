@@ -1,0 +1,119 @@
+---
+distribution: !!perl/hash:CPAN::Distribution
+  CALLED_FOR: E/ET/ETHER/Module-Install-1.16.tar.gz
+  CHECKSUM_STATUS: OK
+  CONTAINSMODS:
+    Module::AutoInstall: 1
+    Module::Install: 1
+    Module::Install::Admin: 1
+    Module::Install::Admin::Bundle: 1
+    Module::Install::Admin::Compiler: 1
+    Module::Install::Admin::Find: 1
+    Module::Install::Admin::Include: 1
+    Module::Install::Admin::Makefile: 1
+    Module::Install::Admin::Manifest: 1
+    Module::Install::Admin::Metadata: 1
+    Module::Install::Admin::ScanDeps: 1
+    Module::Install::Admin::WriteAll: 1
+    Module::Install::AutoInstall: 1
+    Module::Install::Base: 1
+    Module::Install::Base::FakeAdmin: 1
+    Module::Install::Bundle: 1
+    Module::Install::Can: 1
+    Module::Install::Compiler: 1
+    Module::Install::DSL: 1
+    Module::Install::Deprecated: 1
+    Module::Install::External: 1
+    Module::Install::Fetch: 1
+    Module::Install::Include: 1
+    Module::Install::Inline: 1
+    Module::Install::MakeMaker: 1
+    Module::Install::Makefile: 1
+    Module::Install::Metadata: 1
+    Module::Install::PAR: 1
+    Module::Install::Run: 1
+    Module::Install::Scripts: 1
+    Module::Install::Share: 1
+    Module::Install::Win32: 1
+    Module::Install::With: 1
+    Module::Install::WriteAll: 1
+    inc::Module::Install: 1
+    inc::Module::Install::DSL: 1
+  ID: E/ET/ETHER/Module-Install-1.16.tar.gz
+  RO:
+    CPAN_USERID: ETHER
+    CPAN_VERSION: '1.16'
+    DESCRIPTION: ~
+  archived: tar
+  build_dir: C:\Users\TOSH\Documents\GitHub\dwimperl-windows\strawberry-perl-5.20.0.1-32bit-portable\cpan\build\Module-Install-1.16-jx5zDm
+  install: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 1
+    FAILED: ''
+    TEXT: YES
+    TIME: 1443216306
+  localfile: C:\Users\TOSH\Documents\GitHub\dwimperl-windows\strawberry-perl-5.20.0.1-32bit-portable\cpan\sources\authors\id\E\ET\ETHER\Module-Install-1.16.tar.gz
+  make: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 1
+    FAILED: ''
+    TEXT: YES
+    TIME: 1443216136
+  make_test: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 1
+    FAILED: ''
+    TEXT: YES
+    TIME: 1443216303
+  mandatory: ''
+  negative_prefs_cache: 1
+  prefs:
+    install: {}
+  prereq_pm:
+    build_requires:
+      ExtUtils::MakeMaker: '6.59'
+      Test::Harness: '3.13'
+      Test::More: '0.86'
+      YAML::Tiny: '1.33'
+      autodie: '0'
+    configure_requires: {}
+    opt_build_requires: {}
+    opt_requires:
+      Archive::Zip: '1.37'
+      File::HomeDir: '1'
+      JSON: '2.9'
+      LWP::Simple: '6.00'
+      LWP::UserAgent: '6.05'
+      PAR::Dist: '0.29'
+    requires:
+      Devel::PPPort: '3.16'
+      ExtUtils::Install: '1.52'
+      ExtUtils::MakeMaker: '6.59'
+      ExtUtils::ParseXS: '2.19'
+      File::Path: '0'
+      File::Remove: '1.42'
+      File::Spec: '3.28'
+      Module::Build: '0.29'
+      Module::CoreList: '2.17'
+      Module::ScanDeps: '1.09'
+      Parse::CPAN::Meta: '1.4413'
+      Win32::UTCFileTime: '1.56'
+      YAML::Tiny: '1.38'
+      perl: '5.006'
+  reqtype: r
+  should_report: 1
+  sponsored_mods:
+    Module::ScanDeps: 1
+  unwrapped: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 1
+    FAILED: ''
+    TEXT: YES
+    TIME: 1443215891
+  writemakefile: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 1
+    FAILED: ''
+    TEXT: YES
+    TIME: 1443215902
+perl:
+  $^X: C:\Users\TOSH\Documents\GitHub\dwimperl-windows\strawberry-perl-5.20.0.1-32bit-portable\perl\bin\perl.exe
+  mtime_$^X: 1401480666
+  mtime_dll: 0
+  sitearchexp: C:\Users\TOSH\Documents\GitHub\dwimperl-windows\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib
+time: 1443216306

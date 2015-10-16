@@ -1,0 +1,105 @@
+---
+distribution: !!perl/hash:CPAN::Distribution
+  CALLED_FOR: N/NE/NEILB/Pod-POM-2.00.tar.gz
+  CHECKSUM_STATUS: OK
+  CONTAINSMODS:
+    Pod::POM: 1
+    Pod::POM::Constants: 1
+    Pod::POM::Node: 1
+    Pod::POM::Node::Begin: 1
+    Pod::POM::Node::Code: 1
+    Pod::POM::Node::Content: 1
+    Pod::POM::Node::For: 1
+    Pod::POM::Node::Head1: 1
+    Pod::POM::Node::Head2: 1
+    Pod::POM::Node::Head3: 1
+    Pod::POM::Node::Head4: 1
+    Pod::POM::Node::Item: 1
+    Pod::POM::Node::Over: 1
+    Pod::POM::Node::Pod: 1
+    Pod::POM::Node::Sequence: 1
+    Pod::POM::Node::Text: 1
+    Pod::POM::Node::Verbatim: 1
+    Pod::POM::Nodes: 1
+    Pod::POM::Test: 1
+    Pod::POM::View: 1
+    Pod::POM::View::HTML: 1
+    Pod::POM::View::Pod: 1
+    Pod::POM::View::Text: 1
+  ID: N/NE/NEILB/Pod-POM-2.00.tar.gz
+  RO:
+    CPAN_USERID: NEILB
+    CPAN_VERSION: '2.00'
+    DESCRIPTION: ~
+  archived: tar
+  build_dir: C:\Users\TOSH\Documents\GitHub\dwimperl-windows\strawberry-perl-5.20.0.1-32bit-portable\cpan\build\Pod-POM-2.00-DEj8v0
+  incommandcolor: 2
+  install: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 1
+    FAILED: ''
+    TEXT: YES
+    TIME: 1443216735
+  localfile: C:\Users\TOSH\Documents\GitHub\dwimperl-windows\strawberry-perl-5.20.0.1-32bit-portable\cpan\sources\authors\id\N\NE\NEILB\Pod-POM-2.00.tar.gz
+  make: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 1
+    FAILED: ''
+    TEXT: YES
+    TIME: 1443216717
+  make_test: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 1
+    FAILED: ''
+    TEXT: YES
+    TIME: 1443216732
+  mandatory: 1
+  negative_prefs_cache: 1
+  prefs:
+    install: {}
+  prereq_pm:
+    build_requires:
+      Cwd: '0'
+      ExtUtils::MakeMaker: '0'
+      File::Slurper: '0.004'
+      Scalar::Util: '0'
+      Test::Differences: '0'
+      Test::More: '0'
+      Text::Diff: '0'
+      utf8: '0'
+    configure_requires: {}
+    opt_build_requires: {}
+    opt_requires: {}
+    requires:
+      Encode: '0'
+      Exporter: '0'
+      File::Basename: '0'
+      FindBin: '0'
+      Getopt::Long: '0'
+      Getopt::Std: '0'
+      Text::Wrap: '0'
+      constant: '0'
+      lib: '0'
+      overload: '0'
+      parent: '0'
+      perl: '5.006'
+      strict: '0'
+      vars: '0'
+      warnings: '0'
+  reqtype: r
+  should_report: 1
+  sponsored_mods:
+    File::Slurper: 1
+  unwrapped: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 1
+    FAILED: ''
+    TEXT: YES
+    TIME: 1443216516
+  writemakefile: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 1
+    FAILED: ''
+    TEXT: YES
+    TIME: 1443216524
+perl:
+  $^X: C:\Users\TOSH\Documents\GitHub\dwimperl-windows\strawberry-perl-5.20.0.1-32bit-portable\perl\bin\perl.exe
+  mtime_$^X: 1401480666
+  mtime_dll: 0
+  sitearchexp: C:\Users\TOSH\Documents\GitHub\dwimperl-windows\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib
+time: 1443216735

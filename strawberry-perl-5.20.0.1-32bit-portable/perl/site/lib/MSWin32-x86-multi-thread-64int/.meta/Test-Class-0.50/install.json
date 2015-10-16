@@ -1,0 +1,1 @@
+{"name":"Test::Class","dist":"Test-Class-0.50","target":"Test::Class","pathname":"E/ET/ETHER/Test-Class-0.50.tar.gz","provides":{"Test::Class":{"file":"lib/Test/Class.pm","version":"0.50"},"Test::Class::Load":{"file":"lib/Test/Class/Load.pm","version":"0.50"},"Test::Class::MethodInfo":{"version":"0.50","file":"lib/Test/Class/MethodInfo.pm"}},"version":"0.50"}

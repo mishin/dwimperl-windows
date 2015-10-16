@@ -1,0 +1,38 @@
+{
+   "abstract" : "A list of commonly used namespaces",
+   "author" : [
+      "Chris Prather <perigrin@cpan.org>"
+   ],
+   "dynamic_config" : 0,
+   "generated_by" : "Module::Build version 0.4205",
+   "license" : [
+      "perl_5"
+   ],
+   "meta-spec" : {
+      "url" : "http://search.cpan.org/perldoc?CPAN::Meta::Spec",
+      "version" : "2"
+   },
+   "name" : "XML-CommonNS",
+   "prereqs" : {
+      "runtime" : {
+         "requires" : {
+            "Test::More" : "0",
+            "XML::NamespaceFactory" : "0",
+            "version" : "0"
+         }
+      }
+   },
+   "provides" : {
+      "XML::CommonNS" : {
+         "file" : "lib/XML/CommonNS.pm",
+         "version" : "0.06"
+      }
+   },
+   "release_status" : "stable",
+   "resources" : {
+      "license" : [
+         "http://dev.perl.org/licenses/"
+      ]
+   },
+   "version" : "0.06"
+}

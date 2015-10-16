@@ -1,0 +1,83 @@
+---
+distribution: !!perl/hash:CPAN::Distribution
+  CALLED_FOR: Pod::Abstract
+  CHECKSUM_STATUS: OK
+  CONTAINSMODS:
+    Pod::Abstract: 1
+    Pod::Abstract::BuildNode: 1
+    Pod::Abstract::Filter: 1
+    Pod::Abstract::Filter::add_podcmds: 1
+    Pod::Abstract::Filter::clear_podcmds: 1
+    Pod::Abstract::Filter::cut: 1
+    Pod::Abstract::Filter::find: 1
+    Pod::Abstract::Filter::number_sections: 1
+    Pod::Abstract::Filter::overlay: 1
+    Pod::Abstract::Filter::sort: 1
+    Pod::Abstract::Filter::summary: 1
+    Pod::Abstract::Filter::uncut: 1
+    Pod::Abstract::Filter::unoverlay: 1
+    Pod::Abstract::Node: 1
+    Pod::Abstract::Parser: 1
+    Pod::Abstract::Path: 1
+    Pod::Abstract::Serial: 1
+    Pod::Abstract::Tree: 1
+  ID: B/BL/BLILBURNE/Pod-Abstract-0.20.tar.gz
+  RO:
+    CPAN_USERID: BLILBURNE
+    CPAN_VERSION: '0.20'
+    DESCRIPTION: ~
+  archived: tar
+  build_dir: C:\Users\TOSH\Documents\GitHub\dwimperl-windows\strawberry-perl-5.20.0.1-32bit-portable\cpan\build\Pod-Abstract-0.20-QsqvEx
+  incommandcolor: 2
+  install: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 1
+    FAILED: ''
+    TEXT: YES
+    TIME: 1443215821
+  localfile: C:\Users\TOSH\Documents\GitHub\dwimperl-windows\strawberry-perl-5.20.0.1-32bit-portable\cpan\sources\authors\id\B\BL\BLILBURNE\Pod-Abstract-0.20.tar.gz
+  make: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 1
+    FAILED: ''
+    TEXT: YES
+    TIME: 1443215812
+  make_test: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 1
+    FAILED: ''
+    TEXT: YES
+    TIME: 1443215819
+  mandatory: 1
+  negative_prefs_cache: 1
+  prefs:
+    install: {}
+  prereq_pm:
+    build_requires:
+      ExtUtils::MakeMaker: '0'
+    configure_requires: {}
+    opt_build_requires: {}
+    opt_requires: {}
+    requires:
+      File::Temp: '0'
+      IO::String: '0'
+      Pod::Parser: '0'
+      Scalar::Util: '0'
+      Task::Weaken: '0'
+      Test::More: '0'
+  reqtype: r
+  should_report: 1
+  sponsored_mods: {}
+  unwrapped: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 1
+    FAILED: ''
+    TEXT: YES
+    TIME: 1443215785
+  writemakefile: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 1
+    FAILED: ''
+    TEXT: YES
+    TIME: 1443215789
+perl:
+  $^X: C:\Users\TOSH\Documents\GitHub\dwimperl-windows\strawberry-perl-5.20.0.1-32bit-portable\perl\bin\perl.exe
+  mtime_$^X: 1401480666
+  mtime_dll: 0
+  sitearchexp: C:\Users\TOSH\Documents\GitHub\dwimperl-windows\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib
+time: 1443215821

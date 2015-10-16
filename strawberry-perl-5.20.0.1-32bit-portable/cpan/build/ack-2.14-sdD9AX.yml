@@ -1,0 +1,85 @@
+---
+distribution: !!perl/hash:CPAN::Distribution
+  CALLED_FOR: App::Ack
+  CHECKSUM_STATUS: OK
+  CONTAINSMODS:
+    App::Ack: 1
+    App::Ack::ConfigDefault: 1
+    App::Ack::ConfigFinder: 1
+    App::Ack::ConfigLoader: 1
+    App::Ack::Filter: 1
+    App::Ack::Filter::Collection: 1
+    App::Ack::Filter::Default: 1
+    App::Ack::Filter::Extension: 1
+    App::Ack::Filter::ExtensionGroup: 1
+    App::Ack::Filter::FirstLineMatch: 1
+    App::Ack::Filter::Inverse: 1
+    App::Ack::Filter::Is: 1
+    App::Ack::Filter::IsGroup: 1
+    App::Ack::Filter::Match: 1
+    App::Ack::Resource: 1
+    App::Ack::Resource::Basic: 1
+    App::Ack::Resources: 1
+  ID: P/PE/PETDANCE/ack-2.14.tar.gz
+  RO:
+    CPAN_USERID: PETDANCE
+    CPAN_VERSION: '2.14'
+    DESCRIPTION: ~
+  archived: tar
+  badtestcnt: 1
+  build_dir: C:\Users\TOSH\Documents\GitHub\dwimperl-windows\strawberry-perl-5.20.0.1-32bit-portable\cpan\build\ack-2.14-sdD9AX
+  localfile: C:\Users\TOSH\Documents\GitHub\dwimperl-windows\strawberry-perl-5.20.0.1-32bit-portable\cpan\sources\authors\id\P\PE\PETDANCE\ack-2.14.tar.gz
+  make: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 4
+    FAILED: ''
+    TEXT: YES
+    TIME: 1443176939
+  make_test: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 4
+    FAILED: 1
+    TEXT: NO
+    TIME: 1443177432
+  mandatory: ''
+  negative_prefs_cache: 4
+  prefs: {}
+  prereq_pm:
+    build_requires:
+      ExtUtils::MakeMaker: '0'
+    configure_requires: {}
+    opt_build_requires: {}
+    opt_requires: {}
+    requires:
+      Carp: '1.04'
+      Cwd: '3.00'
+      File::Basename: '1.00015'
+      File::Glob: '1.00015'
+      File::Next: '1.10'
+      File::Spec: '3.00'
+      File::Temp: '0.19'
+      Getopt::Long: '2.35'
+      Pod::Usage: '1.26'
+      Term::ANSIColor: '1.10'
+      Test::Harness: '2.50'
+      Test::More: '0.98'
+      Text::ParseWords: '3.1'
+      Win32::ShellQuote: '0.002001'
+      perl: '5.008008'
+  reqtype: r
+  should_report: 1
+  sponsored_mods: {}
+  unwrapped: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 4
+    FAILED: ''
+    TEXT: YES
+    TIME: 1443176890
+  writemakefile: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 4
+    FAILED: ''
+    TEXT: YES
+    TIME: 1443176897
+perl:
+  $^X: C:\Users\TOSH\Documents\GitHub\dwimperl-windows\strawberry-perl-5.20.0.1-32bit-portable\perl\bin\perl.exe
+  mtime_$^X: 1401480666
+  mtime_dll: 0
+  sitearchexp: C:\Users\TOSH\Documents\GitHub\dwimperl-windows\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib
+time: 1443177432

@@ -1,0 +1,61 @@
+{
+   "abstract" : "Write tests in a declarative specification style",
+   "author" : [
+      "Philip Garrett <philip.garrett@icainformatics.com>"
+   ],
+   "dynamic_config" : 0,
+   "generated_by" : "ExtUtils::MakeMaker version 6.6302, CPAN::Meta::Converter version 2.120630, CPAN::Meta::Converter version 2.141170",
+   "license" : [
+      "perl_5"
+   ],
+   "meta-spec" : {
+      "url" : "http://search.cpan.org/perldoc?CPAN::Meta::Spec",
+      "version" : "2"
+   },
+   "name" : "Test-Spec",
+   "no_index" : {
+      "directory" : [
+         "t",
+         "inc"
+      ]
+   },
+   "prereqs" : {
+      "build" : {
+         "requires" : {
+            "ExtUtils::MakeMaker" : "0"
+         }
+      },
+      "configure" : {
+         "requires" : {
+            "ExtUtils::MakeMaker" : "0"
+         }
+      },
+      "runtime" : {
+         "requires" : {
+            "Carp" : "0",
+            "Exporter" : "0",
+            "List::Util" : "0",
+            "Package::Stash" : "0.23",
+            "Scalar::Util" : "1.11",
+            "TAP::Parser" : "0",
+            "Test::Deep" : "0.103",
+            "Test::More" : "0.88",
+            "Test::Trap" : "0",
+            "Tie::IxHash" : "0",
+            "constant" : "0"
+         }
+      }
+   },
+   "release_status" : "stable",
+   "resources" : {
+      "bugtracker" : {
+         "web" : "https://github.com/kingpong/perl-Test-Spec/issues"
+      },
+      "repository" : {
+         "type" : "git",
+         "url" : "https://github.com/kingpong/perl-Test-Spec",
+         "web" : "https://github.com/kingpong/perl-Test-Spec"
+      }
+   },
+   "version" : "0.51"
+}

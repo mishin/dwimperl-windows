@@ -1,0 +1,75 @@
+---
+distribution: !!perl/hash:CPAN::Distribution
+  CALLED_FOR: A/AD/ADAMK/ORLite-Migrate-1.10.tar.gz
+  CHECKSUM_STATUS: OK
+  CONTAINSMODS:
+    ORLite::Migrate: 1
+    ORLite::Migrate::Patch: 1
+    ORLite::Migrate::Timeline: 1
+  ID: A/AD/ADAMK/ORLite-Migrate-1.10.tar.gz
+  RO:
+    CPAN_USERID: ADAMK
+    CPAN_VERSION: '1.10'
+    DESCRIPTION: ~
+  archived: tar
+  build_dir: C:\Users\TOSH\Documents\GitHub\dwimperl-windows\strawberry-perl-5.20.0.1-32bit-portable\cpan\build\ORLite-Migrate-1.10-i8kMlE
+  incommandcolor: 2
+  install: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 1
+    FAILED: ''
+    TEXT: YES
+    TIME: 1443216510
+  localfile: C:\Users\TOSH\Documents\GitHub\dwimperl-windows\strawberry-perl-5.20.0.1-32bit-portable\cpan\sources\authors\id\A\AD\ADAMK\ORLite-Migrate-1.10.tar.gz
+  make: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 1
+    FAILED: ''
+    TEXT: YES
+    TIME: 1443216495
+  make_test: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 1
+    FAILED: ''
+    TEXT: YES
+    TIME: 1443216508
+  mandatory: 1
+  negative_prefs_cache: 1
+  prefs:
+    install: {}
+  prereq_pm:
+    build_requires:
+      ExtUtils::MakeMaker: '7.1'
+      Test::More: '0.47'
+    configure_requires: {}
+    opt_build_requires: {}
+    opt_requires: {}
+    requires:
+      DBD::SQLite: '1.21'
+      DBI: '1.58'
+      File::Path: '2.04'
+      File::Spec: '3.2701'
+      File::Which: '1.07'
+      File::pushd: '1.00'
+      IPC::Run3: '0.042'
+      ORLite: '1.28'
+      Params::Util: '0.37'
+      Probe::Perl: '0.01'
+      perl: '5.006'
+  reqtype: r
+  should_report: 1
+  sponsored_mods:
+    ORLite: 1
+  unwrapped: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 1
+    FAILED: ''
+    TEXT: YES
+    TIME: 1443216333
+  writemakefile: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 1
+    FAILED: ''
+    TEXT: YES
+    TIME: 1443216341
+perl:
+  $^X: C:\Users\TOSH\Documents\GitHub\dwimperl-windows\strawberry-perl-5.20.0.1-32bit-portable\perl\bin\perl.exe
+  mtime_$^X: 1401480666
+  mtime_dll: 0
+  sitearchexp: C:\Users\TOSH\Documents\GitHub\dwimperl-windows\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib
+time: 1443216510

@@ -1,0 +1,32 @@
+[
+   {
+      "content" : "[{\"content\":\"\",\"metadata\":{\"core\":{\"type\":\"Metabase-User-FullName\",\"update_time\":\"2015-09-25T06:19:27Z\",\"guid\":\"dc51d3c2-6c06-1014-8fa8-5a50de6ba382\",\"valid\":1,\"creation_time\":\"2015-09-25T06:19:27Z\",\"resource\":\"metabase:user:dc510b99-6c06-1014-8fa8-5a50de6ba382\",\"schema_version\":1,\"creator\":\"metabase:user:dc510b99-6c06-1014-8fa8-5a50de6ba382\"}}},{\"metadata\":{\"core\":{\"resource\":\"metabase:user:dc510b99-6c06-1014-8fa8-5a50de6ba382\",\"creator\":\"metabase:user:dc510b99-6c06-1014-8fa8-5a50de6ba382\",\"schema_version\":1,\"guid\":\"dc51d698-6c06-1014-8fa8-5a50de6ba382\",\"update_time\":\"2015-09-25T06:19:27Z\",\"type\":\"Metabase-User-EmailAddress\",\"valid\":1,\"creation_time\":\"2015-09-25T06:19:27Z\"}},\"content\":\"mi@ya.ru\"}]",
+      "metadata" : {
+         "core" : {
+            "guid" : "dc510b99-6c06-1014-8fa8-5a50de6ba382",
+            "type" : "Metabase-User-Profile",
+            "update_time" : "2015-09-25T06:19:27Z",
+            "valid" : 1,
+            "creation_time" : "2015-09-25T06:19:27Z",
+            "resource" : "metabase:user:dc510b99-6c06-1014-8fa8-5a50de6ba382",
+            "creator" : "metabase:user:dc510b99-6c06-1014-8fa8-5a50de6ba382",
+            "schema_version" : 1
+         }
+      }
+   },
+   {
+      "metadata" : {
+         "core" : {
+            "valid" : 1,
+            "creation_time" : "2015-09-25T06:19:27Z",
+            "update_time" : "2015-09-25T06:19:27Z",
+            "type" : "Metabase-User-Secret",
+            "guid" : "dc51d9da-6c06-1014-8fa8-5a50de6ba382",
+            "schema_version" : 1,
+            "creator" : "metabase:user:dc510b99-6c06-1014-8fa8-5a50de6ba382",
+            "resource" : "metabase:user:dc510b99-6c06-1014-8fa8-5a50de6ba382"
+         }
+      },
+      "content" : "3a0307fe"
+   }
+]

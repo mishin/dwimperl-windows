@@ -1,0 +1,69 @@
+---
+distribution: !!perl/hash:CPAN::Distribution
+  CALLED_FOR: Task::Kensho::Exceptions
+  CHECKSUM_STATUS: OK
+  CONTAINSMODS:
+    Task::Kensho::Exceptions: 1
+  ID: E/ET/ETHER/Task-Kensho-Exceptions-0.38.tar.gz
+  RO:
+    CPAN_USERID: ETHER
+    CPAN_VERSION: '0.38'
+    DESCRIPTION: ~
+  archived: tar
+  build_dir: C:\Users\TOSH\Documents\GitHub\dwimperl-windows\strawberry-perl-5.20.0.1-32bit-portable\cpan\build\Task-Kensho-Exceptions-0.38-gwkaPQ
+  install: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 4
+    FAILED: ''
+    TEXT: YES
+    TIME: 1443177535
+  localfile: C:\Users\TOSH\Documents\GitHub\dwimperl-windows\strawberry-perl-5.20.0.1-32bit-portable\cpan\sources\authors\id\E\ET\ETHER\Task-Kensho-Exceptions-0.38.tar.gz
+  make: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 4
+    FAILED: ''
+    TEXT: YES
+    TIME: 1443177524
+  make_test: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 4
+    FAILED: ''
+    TEXT: YES
+    TIME: 1443177534
+  mandatory: ''
+  modulebuild: 1
+  negative_prefs_cache: 4
+  prefs:
+    install: {}
+  prereq_pm:
+    build_requires:
+      ExtUtils::MakeMaker: '0'
+      File::Spec: '0'
+      Test::More: '0'
+    configure_requires: {}
+    opt_build_requires:
+      CPAN::Meta: '2.120900'
+    opt_requires: {}
+    requires:
+      Try::Tiny: '0'
+      TryCatch: '0'
+      autodie: '0'
+      perl: '5.006'
+      strict: '0'
+      warnings: '0'
+  reqtype: r
+  should_report: 1
+  sponsored_mods: {}
+  unwrapped: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 4
+    FAILED: ''
+    TEXT: YES
+    TIME: 1443177483
+  writemakefile: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 4
+    FAILED: ''
+    TEXT: YES
+    TIME: 1443177500
+perl:
+  $^X: C:\Users\TOSH\Documents\GitHub\dwimperl-windows\strawberry-perl-5.20.0.1-32bit-portable\perl\bin\perl.exe
+  mtime_$^X: 1401480666
+  mtime_dll: 0
+  sitearchexp: C:\Users\TOSH\Documents\GitHub\dwimperl-windows\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib
+time: 1443177535

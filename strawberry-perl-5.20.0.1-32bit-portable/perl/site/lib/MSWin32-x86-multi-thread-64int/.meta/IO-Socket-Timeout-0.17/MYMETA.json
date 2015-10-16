@@ -1,0 +1,66 @@
+{
+   "abstract" : "IO::Socket with read/write timeout",
+   "author" : [
+      "Damien \"dams\" Krotkine"
+   ],
+   "dynamic_config" : 0,
+   "generated_by" : "Module::Build version 0.4205",
+   "license" : [
+      "perl_5"
+   ],
+   "meta-spec" : {
+      "url" : "http://search.cpan.org/perldoc?CPAN::Meta::Spec",
+      "version" : "2"
+   },
+   "name" : "IO-Socket-Timeout",
+   "prereqs" : {
+      "build" : {
+         "requires" : {
+            "Module::Build" : "0.3601"
+         }
+      },
+      "configure" : {
+         "requires" : {
+            "ExtUtils::MakeMaker" : "6.30",
+            "Module::Build" : "0.3601"
+         }
+      },
+      "runtime" : {
+         "requires" : {
+            "PerlIO::via::Timeout" : "0.24",
+            "Role::Tiny" : "0"
+         }
+      },
+      "test" : {
+         "requires" : {
+            "File::Spec" : "0",
+            "IO::Handle" : "0",
+            "IPC::Open3" : "0",
+            "Test::More" : "0",
+            "Test::TCP" : "0"
+         }
+      }
+   },
+   "provides" : {
+      "IO::Socket::Timeout" : {
+         "file" : "lib/IO/Socket/Timeout.pm",
+         "version" : "0.17"
+      },
+      "IO::Socket::Timeout::Role::SysTimeout" : {
+         "file" : "lib/IO/Socket/Timeout.pm",
+         "version" : "0.17"
+      },
+      "PerlIO::via::TimeoutWithReset" : {
+         "file" : "lib/PerlIO/via/TimeoutWithReset.pm",
+         "version" : "0.17"
+      }
+   },
+   "release_status" : "stable",
+   "resources" : {
+      "repository" : {
+         "type" : "git",
+         "url" : "git://github.com/dams/io-socket-timeout.git"
+      }
+   },
+   "version" : "0.17"
+}

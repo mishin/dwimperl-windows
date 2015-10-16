@@ -1,0 +1,64 @@
+{
+   "abstract" : "Perl extension for 32 bit Jenkins Hashing Algorithm",
+   "author" : [
+      "Shlomi Fish <shlomif@cpan.org>"
+   ],
+   "dynamic_config" : 0,
+   "generated_by" : "Dist::Zilla version 5.031, CPAN::Meta::Converter version 2.142060, CPAN::Meta::Converter version 2.141170",
+   "license" : [
+      "artistic_2"
+   ],
+   "meta-spec" : {
+      "url" : "http://search.cpan.org/perldoc?CPAN::Meta::Spec",
+      "version" : "2"
+   },
+   "name" : "Digest-JHash",
+   "prereqs" : {
+      "build" : {
+         "requires" : {
+            "ExtUtils::MakeMaker" : "0"
+         }
+      },
+      "configure" : {
+         "requires" : {
+            "ExtUtils::MakeMaker" : "0"
+         }
+      },
+      "runtime" : {
+         "requires" : {
+            "DynaLoader" : "0",
+            "Exporter" : "0",
+            "strict" : "0",
+            "vars" : "0",
+            "warnings" : "0"
+         }
+      },
+      "test" : {
+         "requires" : {
+            "Cwd" : "0",
+            "File::Spec" : "0",
+            "File::Temp" : "0",
+            "IO::Handle" : "0",
+            "IPC::Open3" : "0",
+            "Test" : "0",
+            "Test::More" : "0"
+         }
+      }
+   },
+   "provides" : {
+      "Digest::JHash" : {
+         "file" : "lib/Digest/JHash.pm",
+         "version" : "0.09"
+      }
+   },
+   "release_status" : "stable",
+   "resources" : {
+      "bugtracker" : {
+         "web" : "https://rt.cpan.org/Public/Dist/Display.html?Name=Digest-JHash"
+      },
+      "repository" : {
+         "url" : "https://github.com/shlomif/perl-Digest-JHash.git"
+      }
+   },
+   "version" : "0.09"
+}

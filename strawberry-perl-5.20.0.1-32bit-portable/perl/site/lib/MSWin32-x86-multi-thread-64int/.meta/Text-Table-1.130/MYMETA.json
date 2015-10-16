@@ -1,0 +1,62 @@
+{
+   "abstract" : "Organize Data in Tables",
+   "author" : [
+      "Shlomi Fish <shlomif@cpan.org>"
+   ],
+   "dynamic_config" : 0,
+   "generated_by" : "Module::Build version 0.4205",
+   "keywords" : [
+      "art",
+      "ascii",
+      "asciiart",
+      "borders",
+      "table",
+      "text",
+      "unicode"
+   ],
+   "license" : [
+      "mit"
+   ],
+   "meta-spec" : {
+      "url" : "http://search.cpan.org/perldoc?CPAN::Meta::Spec",
+      "version" : "2"
+   },
+   "name" : "Text-Table",
+   "prereqs" : {
+      "build" : {
+         "requires" : {
+            "List::Util" : "0",
+            "Test::More" : "0"
+         }
+      },
+      "configure" : {
+         "requires" : {
+            "Module::Build" : 0.36
+         }
+      },
+      "runtime" : {
+         "requires" : {
+            "Text::Aligner" : "0.05",
+            "perl" : "5.008",
+            "strict" : "0",
+            "warnings" : "0"
+         }
+      }
+   },
+   "provides" : {
+      "Text::Table" : {
+         "file" : "lib/Text/Table.pm",
+         "version" : "1.130"
+      }
+   },
+   "release_status" : "stable",
+   "resources" : {
+      "license" : [
+         "http://www.opensource.org/licenses/mit-license.php"
+      ],
+      "repository" : {
+         "url" : "https://github.com/shlomif/Text-Table"
+      }
+   },
+   "version" : "1.130"
+}

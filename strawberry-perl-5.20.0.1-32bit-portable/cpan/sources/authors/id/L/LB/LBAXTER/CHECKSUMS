@@ -1,0 +1,71 @@
+0&&<<''; # this PGP-signed message is also valid perl
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+# CHECKSUMS file written on Sat Sep 12 14:14:04 2015 GMT by CPAN::Checksums (v2.08)
+$cksum = {
+  'Openview-Message-0.03.meta' => {
+    'md5' => '793a816e32ad2596fc7685026f498343',
+    'mtime' => '2004-01-17',
+    'sha256' => '6b791e19888d94021ec43ae0d69a056f7453b5c12e1b50d771720008c67ea17b',
+    'size' => 323
+  },
+  'Openview-Message-0.03.tar.gz' => {
+    'md5' => '6b2146ef2484c6a29e94fcaf8d330e07',
+    'md5-ungz' => 'd92cc0db1860fe5fc6c987f660e02f37',
+    'mtime' => '2004-01-17',
+    'sha256' => '4b4faa3c6dd00aa6e80cf777450cfc52dae70f282a91a6d6b84c70a3f691330a',
+    'sha256-ungz' => '06838e87f9fa1df3bbfdc66c4d463264e724fd86a55c143a427a353082ce592d',
+    'size' => 6740
+  },
+  'Sys-SigAction-0.15.meta' => {
+    'md5' => '0c59074766519c932ba55eef1f35738b',
+    'mtime' => '2011-07-02',
+    'sha256' => '8ee5b0d5c6df0af9ec5af69f12b9f5d54b56c1dbfec0ec85c876dffd2b47ed1e',
+    'size' => 600
+  },
+  'Sys-SigAction-0.15.tar.gz' => {
+    'md5' => '54789a1893f63c2345b1014fcb7c47a7',
+    'md5-ungz' => 'bbb4a7461c6f3481bd5efc621c032645',
+    'mtime' => '2011-07-02',
+    'sha256' => '0056512353ac9f5ab90018115f20f37670f0f19bb6f0da4bf16dd83342d67919',
+    'sha256-ungz' => '572c4f1491b66e76714c87ff8833cfc3d6758b062cea15516ed9454384c730c5',
+    'size' => 19264
+  },
+  'Sys-SigAction-0.20.meta' => {
+    'md5' => 'c175d33a21beb6a137b75cd45b0a3181',
+    'mtime' => '2013-08-05',
+    'sha256' => '7323aeb0461f5a1da21b95dcfecfbcfbbb338a12a869a82a5970038900207841',
+    'size' => 600
+  },
+  'Sys-SigAction-0.20.tar.gz' => {
+    'md5' => '7ca212559c2c514277c4f81039456226',
+    'md5-ungz' => '2ea9446bc9ee3afe6b3457810f890c24',
+    'mtime' => '2013-08-05',
+    'sha256' => '4438144d510cd80c9b9e7995877b725ea66bf810a41ecbb55321396ad1370de3',
+    'sha256-ungz' => '4e1571ef7fa1572a6ae72ff84590fe49951c4e36a74d69eff2cbe4871120d653',
+    'size' => 22094
+  },
+  'Sys-SigAction-0.21.meta' => {
+    'md5' => '697acfc1395d60c93594869111df91ae',
+    'mtime' => '2013-11-20',
+    'sha256' => '9a5e620fe96b746b78357604f45272f2b8b57f8a8c7322a032f565646a2faa31',
+    'size' => 600
+  },
+  'Sys-SigAction-0.21.tar.gz' => {
+    'md5' => '68a8f727b2763945dd06552899e3e8e4',
+    'md5-ungz' => '76ec10bf79ac3259f747265e3c603d2c',
+    'mtime' => '2013-11-20',
+    'sha256' => 'e144207a6fd261eb9f98554c76bea66d95870ee1f62d2d346a1ea95fdccf80db',
+    'sha256-ungz' => 'a228e9fe896e1765f2d1aa958969a81b63f6b6cb0dd1bcd14f5de451ddce3164',
+    'size' => 22152
+  }
+};
+__END__
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v2.0.14 (GNU/Linux)
+
+iEYEARECAAYFAlX0MywACgkQMo2oZ0UPiewOpQCfeWbVLM/uCQbQhFuxWcxH+OCB
+ajcAn1i7J0+BotEBhryuiez1tDNAWXzP
+=48wy
+-----END PGP SIGNATURE-----

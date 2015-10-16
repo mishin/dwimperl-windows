@@ -1,0 +1,46 @@
+{
+   "abstract" : "Minimalist Fennec, the commonly used bits.",
+   "author" : [
+      "Chad Granum <exodist7@gmail.com>"
+   ],
+   "dynamic_config" : 0,
+   "generated_by" : "Module::Build version 0.4205",
+   "license" : [
+      "perl_5"
+   ],
+   "meta-spec" : {
+      "url" : "http://search.cpan.org/perldoc?CPAN::Meta::Spec",
+      "version" : "2"
+   },
+   "name" : "Fennec-Lite",
+   "prereqs" : {
+      "runtime" : {
+         "requires" : {
+            "List::Util" : "0",
+            "Test::Builder" : "0",
+            "Test::More" : "0",
+            "perl" : 5.006
+         }
+      }
+   },
+   "provides" : {
+      "Fennec::Lite" : {
+         "file" : "lib/Fennec/Lite.pm",
+         "version" : "0.004"
+      }
+   },
+   "release_status" : "stable",
+   "resources" : {
+      "bugtracker" : {
+         "web" : "http://github.com/exodist/Fennec-Lite/issues"
+      },
+      "homepage" : "http://open-exodus.net/projects/Fennec-Lite",
+      "license" : [
+         "http://dev.perl.org/licenses/"
+      ],
+      "repository" : {
+         "url" : "http://github.com/exodist/Fennec-Lite"
+      }
+   },
+   "version" : "0.004"
+}
