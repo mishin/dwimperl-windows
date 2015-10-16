@@ -3,12 +3,22 @@ DWIM Perl for Windows like
 
 http://dwimperl.com/windows.html
 
+[DWIM Perl for Windows. The following describes the process as the package was created](https://github.com/mishin/tools/blob/master/README_5.14.2.1-32bit-windows.txt)  
+
 DWIM Perl for Windows is a Strawberry Perl derivative for Windows. It contains everything you will need for your Perl development.
 
 It contains:  
   
 Strawberry-perl-5.20.0.1-32bit-portable which itself is a standard Perl with several extensions already installed.  
-A large part of Task::Kensho, a list of recommended packages.  
+A large part of 
+
+Task::Kensho  
+(cpan  
+ force install notest IPC::Run  
+ force install notest IO::Multiplex  
+ force install notest Net::Server  
+perl -v v5.20.0 MSWin32-x8)  
+, a list of recommended packages.  
 Padre, the Perl IDE 0.94.  
 Module::Version 0.12 so you can use mversion to check which version of each module you have.  
 Moose 2.0402, the post modern Object System.  
@@ -22,7 +32,26 @@ MySQL 4.020, PostgreSQL 2.18.1 and DBD::ODBC 1.31 drivers.
 Lots of additional modules... (see details in the README file.)  
   
 https://github.com/dwimperl/tools/blob/master/README_5.14.2.1-32bit-windows.txt  
+
+0. cpanm Task::CPAN::Reporter
+  cpan> install  Task::Kensho  
+
+c:\Users\TOSH\Documents\GitHub\dwimperl-windows\strawberry-perl-5.20.0.1-32bit-portable\data\.cpanreporter\config.ini  
+
+  edit_report=no  
+  email_from="Nikolay Mishin" <mi@ya.ru>  
+  send_report=yes  
+  transport=Metabase uri https://metabase.cpantesters.org/api/v1/ id_file metabase_id.json  
   
+App::cpanminus::reporter  
+cpanm Storable  
+cpanm Moose Catalyst::Runtime   
+cpanm-reporter  
+[Как настроить сервер для CPAN Testers](http://pragmaticperl.com/issues/12/pragmaticperl-12-%D0%BA%D0%B0%D0%BA-%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B8%D1%82%D1%8C-%D1%81%D0%B5%D1%80%D0%B2%D0%B5%D1%80-%D0%B4%D0%BB%D1%8F-cpan-testers.html)  
+
+[The CPAN Testers Wiki](http://wiki.cpantesters.org/)  
+http://metabase.cpantesters.org/tail/log.txt  
+
 1. Reading http://blogs.perl.org/users/sawyer_x/2015/01/web-scraping-continued.html first  
 2. Clone repo https://github.com/xsawyerx/web-scraping  
 3. cd c:\Users\TOSH\Documents\GitHub  
@@ -39,6 +68,8 @@ Unknown source type: ... not appropriate to include several thousands of lines o
 cd ..\web-scraping  
 cpanm IO::Prompt::Tiny  
  Read http://stackoverflow.com/questions/18617405/how-to-extract-href-from-a-body-email-in-perl  
- cpanm Archive::Unzip::Burst  
+ 9. write script, that get right version of perl:  
+ https://github.com/mishin/dwimperl-windows/blob/master/get_perl.pl  
+ 
  
 
