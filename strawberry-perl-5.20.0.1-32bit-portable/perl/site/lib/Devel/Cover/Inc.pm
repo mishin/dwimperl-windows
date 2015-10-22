@@ -14,10 +14,10 @@ use warnings;
 
 our $VERSION      = "1.21";
 our $Perl_version = '5.020000';
-our $Base         = 'C:/Users/TOSH/DOCUME~1/job/perl/deleted/STR3_W~1/STRAWB~1.1-3/data/.cpanm/work/1443134302.7992/Devel-Cover-1.21';
-our @Inc          = qw( . C:/Users/TOSH/Documents/job/perl/deleted/str3_work/strawberry-perl-5.20.0.1-32bit-portable/perl/lib C:/Users/TOSH/Documents/job/perl/deleted/str3_work/strawberry-perl-5.20.0.1-32bit-portable/perl/site/lib C:/Users/TOSH/Documents/job/perl/deleted/str3_work/strawberry-perl-5.20.0.1-32bit-portable/perl/site/lib/MSWin32-x86-multi-thread-64int C:/Users/TOSH/Documents/job/perl/deleted/str3_work/strawberry-perl-5.20.0.1-32bit-portable/perl/vendor/lib );
+our $Base         = 'C:/Users/TOSH/DOCUME~1/job/perl/STRAWB~3.1-3/data/.cpanm/work/1443232072.7396/Devel-Cover-1.21';
+our @Inc          = qw( . C:/Users/TOSH/Documents/job/perl/strawberry-perl-5.20.0.1-32bit-PDL/perl/lib C:/Users/TOSH/Documents/job/perl/strawberry-perl-5.20.0.1-32bit-PDL/perl/site/lib C:/Users/TOSH/Documents/job/perl/strawberry-perl-5.20.0.1-32bit-PDL/perl/site/lib/MSWin32-x86-multi-thread-64int C:/Users/TOSH/Documents/job/perl/strawberry-perl-5.20.0.1-32bit-PDL/perl/vendor/lib );
 chomp (our $Perl  = <<'EOV');  # Careful with \\ in the path
-C:\Users\TOSH\Documents\job\perl\deleted\str3_work\strawberry-perl-5.20.0.1-32bit-portable\perl\bin\perl.exe
+C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\bin\perl.exe
 EOV
 
 if ($Perl_version ne $]) {

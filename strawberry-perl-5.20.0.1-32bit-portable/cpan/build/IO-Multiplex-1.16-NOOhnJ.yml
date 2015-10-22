@@ -1,0 +1,63 @@
+---
+distribution: !!perl/hash:CPAN::Distribution
+  CALLED_FOR: IO::Multiplex
+  CHECKSUM_STATUS: OK
+  CONTAINSMODS:
+    IO::Multiplex: 1
+    IO::Multiplex::Handle: 1
+  ID: B/BB/BBB/IO-Multiplex-1.16.tar.gz
+  RO:
+    CPAN_USERID: BBB
+    CPAN_VERSION: '1.16'
+    DESCRIPTION: ~
+  archived: tar
+  badtestcnt: 1
+  build_dir: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\cpan\build\IO-Multiplex-1.16-NOOhnJ
+  incommandcolor: 1
+  install: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 2
+    FAILED: ''
+    TEXT: YES
+    TIME: 1443295707
+  localfile: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\cpan\sources\authors\id\B\BB\BBB\IO-Multiplex-1.16.tar.gz
+  make: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 2
+    FAILED: ''
+    TEXT: YES
+    TIME: 1443295696
+  make_test: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 2
+    FAILED: 1
+    TEXT: NO but failure ignored because 'force' in effect
+    TIME: 1443295704
+  mandatory: 1
+  negative_prefs_cache: 2
+  prefs:
+    install: {}
+  prereq_pm:
+    build_requires:
+      ExtUtils::MakeMaker: '0'
+    configure_requires: {}
+    opt_build_requires: {}
+    opt_requires: {}
+    requires:
+      IO::Socket: '0'
+  reqtype: c
+  should_report: 1
+  sponsored_mods: {}
+  unwrapped: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 2
+    FAILED: ''
+    TEXT: YES
+    TIME: 1443295679
+  writemakefile: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 2
+    FAILED: ''
+    TEXT: YES
+    TIME: 1443295686
+perl:
+  $^X: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\bin\perl.exe
+  mtime_$^X: 1401480666
+  mtime_dll: 0
+  sitearchexp: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib
+time: 1443295707

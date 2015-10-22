@@ -3,7 +3,7 @@
 # See AutoSplit.pm.
 package Class::MethodMaker::hash;
 
-#line 28715 "blib\lib\Class\MethodMaker\hash.pm (autosplit into blib\lib\auto\Class\MethodMaker\hash\hash0050.al)"
+#line 10747 "blib\lib\Class\MethodMaker\hash.pm (autosplit into blib\lib\auto\Class\MethodMaker\hash\hash0050.al)"
 #------------------
 # hash read_cb - tie_class
 

@@ -3,7 +3,7 @@
 # See AutoSplit.pm.
 package Class::MethodMaker::array;
 
-#line 3192 "blib\lib\Class\MethodMaker\array.pm (autosplit into blib\lib\auto\Class\MethodMaker\array\arra0001.al)"
+#line 19228 "blib\lib\Class\MethodMaker\array.pm (autosplit into blib\lib\auto\Class\MethodMaker\array\arra0001.al)"
 #------------------
 # array static
 

@@ -69,5 +69,6 @@
          "url" : "https://github.com/shlomif/Text-Aligner.git"
       }
    },
-   "version" : "0.12"
+   "version" : "0.12",
+   "x_serialization_backend" : "JSON::PP version 2.27203"
 }

@@ -1,1 +1,1 @@
-{"dist":"XML-CommonNS-0.06","name":"XML::CommonNS","target":"XML::CommonNS","pathname":"P/PE/PERIGRIN/XML-CommonNS-0.06.tar.gz","provides":{"XML::CommonNS":{"version":"0.06","file":"lib/XML/CommonNS.pm"}},"version":"0.06"}
+{"target":"XML::CommonNS","name":"XML::CommonNS","provides":{"XML::CommonNS":{"file":"lib/XML/CommonNS.pm","version":"0.06"}},"pathname":"P/PE/PERIGRIN/XML-CommonNS-0.06.tar.gz","dist":"XML-CommonNS-0.06","version":"0.06"}

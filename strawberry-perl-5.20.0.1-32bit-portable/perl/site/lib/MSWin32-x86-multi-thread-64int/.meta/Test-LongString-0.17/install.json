@@ -1,1 +1,1 @@
-{"dist":"Test-LongString-0.17","name":"Test::LongString","target":"Test::LongString","pathname":"R/RG/RGARCIA/Test-LongString-0.17.tar.gz","provides":{"Test::LongString":{"version":"0.17","file":"lib/Test/LongString.pm"}},"version":"0.17"}
+{"version":"0.17","target":"Test::LongString","name":"Test::LongString","provides":{"Test::LongString":{"file":"lib/Test/LongString.pm","version":"0.17"}},"pathname":"R/RG/RGARCIA/Test-LongString-0.17.tar.gz","dist":"Test-LongString-0.17"}

@@ -10,21 +10,21 @@ our $alien_key = 'msw_3_0_2_uni_gcc_3_4';
 {
     my $VAR1;
     $Wx::dlls = $VAR1 = {
-          'xrc' => 'wxmsw30u_xrc_gcc_custom.dll',
-          'adv' => 'wxmsw30u_adv_gcc_custom.dll',
-          'base' => 'wxbase30u_gcc_custom.dll',
-          'richtext' => 'wxmsw30u_richtext_gcc_custom.dll',
-          'xml' => 'wxbase30u_xml_gcc_custom.dll',
-          'html' => 'wxmsw30u_html_gcc_custom.dll',
           'media' => 'wxmsw30u_media_gcc_custom.dll',
-          'core' => 'wxmsw30u_core_gcc_custom.dll',
-          'stc' => 'wxmsw30u_stc_gcc_custom.dll',
-          'webview' => 'wxmsw30u_webview_gcc_custom.dll',
-          'net' => 'wxbase30u_net_gcc_custom.dll',
+          'xrc' => 'wxmsw30u_xrc_gcc_custom.dll',
+          'base' => 'wxbase30u_gcc_custom.dll',
           'propgrid' => 'wxmsw30u_propgrid_gcc_custom.dll',
+          'richtext' => 'wxmsw30u_richtext_gcc_custom.dll',
+          'webview' => 'wxmsw30u_webview_gcc_custom.dll',
           'gl' => 'wxmsw30u_gl_gcc_custom.dll',
+          'xml' => 'wxbase30u_xml_gcc_custom.dll',
+          'stc' => 'wxmsw30u_stc_gcc_custom.dll',
+          'net' => 'wxbase30u_net_gcc_custom.dll',
           'ribbon' => 'wxmsw30u_ribbon_gcc_custom.dll',
-          'aui' => 'wxmsw30u_aui_gcc_custom.dll'
+          'html' => 'wxmsw30u_html_gcc_custom.dll',
+          'core' => 'wxmsw30u_core_gcc_custom.dll',
+          'aui' => 'wxmsw30u_aui_gcc_custom.dll',
+          'adv' => 'wxmsw30u_adv_gcc_custom.dll'
         };
 ;
 }

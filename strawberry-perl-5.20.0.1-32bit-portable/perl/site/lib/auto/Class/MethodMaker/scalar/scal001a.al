@@ -3,7 +3,7 @@
 # See AutoSplit.pm.
 package Class::MethodMaker::scalar;
 
-#line 59671 "blib\lib\Class\MethodMaker\scalar.pm (autosplit into blib\lib\auto\Class\MethodMaker\scalar\scal001a.al)"
+#line 16151 "blib\lib\Class\MethodMaker\scalar.pm (autosplit into blib\lib\auto\Class\MethodMaker\scalar\scal001a.al)"
 #------------------
 # scalar type - tie_class - default_ctor
 

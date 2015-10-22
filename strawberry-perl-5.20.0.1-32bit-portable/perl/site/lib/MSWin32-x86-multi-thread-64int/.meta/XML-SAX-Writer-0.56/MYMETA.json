@@ -5,7 +5,7 @@
       "Chris Prather <chris@prather.org>"
    ],
    "dynamic_config" : 0,
-   "generated_by" : "Dist::Zilla version 5.025, CPAN::Meta::Converter version 2.142690, CPAN::Meta::Converter version 2.141170",
+   "generated_by" : "Dist::Zilla version 5.025, CPAN::Meta::Converter version 2.142690, CPAN::Meta::Converter version 2.150005",
    "license" : [
       "perl_5"
    ],
@@ -49,5 +49,6 @@
          "url" : "https://github.com/perigrin/xml-sax-writer.git"
       }
    },
-   "version" : "0.56"
+   "version" : "0.56",
+   "x_serialization_backend" : "JSON::PP version 2.27203"
 }

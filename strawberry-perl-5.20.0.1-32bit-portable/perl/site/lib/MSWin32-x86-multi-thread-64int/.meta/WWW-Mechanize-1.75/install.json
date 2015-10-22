@@ -1,0 +1,1 @@
+{"target":"WWW::Mechanize","pathname":"E/ET/ETHER/WWW-Mechanize-1.75.tar.gz","provides":{"WWW::Mechanize::Image":{"version":"1.75","file":"lib/WWW/Mechanize/Image.pm"},"WWW::Mechanize":{"file":"lib/WWW/Mechanize.pm","version":"1.75"},"WWW::Mechanize::Link":{"version":"1.75","file":"lib/WWW/Mechanize/Link.pm"}},"version":"1.75","dist":"WWW-Mechanize-1.75","name":"WWW::Mechanize"}

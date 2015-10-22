@@ -42,5 +42,6 @@
          "url" : "http://github.com/exodist/Fennec-Lite"
       }
    },
-   "version" : "0.004"
+   "version" : "0.004",
+   "x_serialization_backend" : "JSON::PP version 2.27203"
 }

@@ -1,1 +1,1 @@
-{"target":"Test::WWW::Mechanize","name":"Test::WWW::Mechanize","dist":"Test-WWW-Mechanize-1.44","version":"1.44","provides":{"Test::WWW::Mechanize":{"version":"1.44","file":"Mechanize.pm"}},"pathname":"P/PE/PETDANCE/Test-WWW-Mechanize-1.44.tar.gz"}
+{"name":"Test::WWW::Mechanize","provides":{"Test::WWW::Mechanize":{"file":"Mechanize.pm","version":"1.44"}},"target":"Test::WWW::Mechanize","version":"1.44","dist":"Test-WWW-Mechanize-1.44","pathname":"P/PE/PETDANCE/Test-WWW-Mechanize-1.44.tar.gz"}

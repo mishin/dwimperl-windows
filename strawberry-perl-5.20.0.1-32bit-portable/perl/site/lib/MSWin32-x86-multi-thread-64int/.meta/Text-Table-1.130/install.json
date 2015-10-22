@@ -1,1 +1,1 @@
-{"pathname":"S/SH/SHLOMIF/Text-Table-1.130.tar.gz","provides":{"Text::Table":{"file":"lib/Text/Table.pm","version":"1.130"}},"version":"1.130","name":"Text::Table","dist":"Text-Table-1.130","target":"Text::Table"}
+{"pathname":"S/SH/SHLOMIF/Text-Table-1.130.tar.gz","dist":"Text-Table-1.130","version":"1.130","provides":{"Text::Table":{"version":"1.130","file":"lib/Text/Table.pm"}},"name":"Text::Table","target":"Text::Table"}

@@ -5,7 +5,7 @@
       "Gregory Todd Williams <gwilliams@cpan.org>"
    ],
    "dynamic_config" : 0,
-   "generated_by" : "Module::Install version 1.12, CPAN::Meta::Converter version 2.141170",
+   "generated_by" : "Module::Install version 1.12, CPAN::Meta::Converter version 2.150005",
    "license" : [
       "perl_5"
    ],
@@ -56,5 +56,6 @@
          "url" : "http://github.com/kasei/perl-iri/"
       }
    },
-   "version" : "0.004"
+   "version" : "0.004",
+   "x_serialization_backend" : "JSON::PP version 2.27203"
 }

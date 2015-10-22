@@ -4,7 +4,7 @@
       "Ash Berlin <ash@cpan.org>"
    ],
    "dynamic_config" : 0,
-   "generated_by" : "Module::Install version 1.06, CPAN::Meta::Converter version 2.141170",
+   "generated_by" : "Module::Install version 1.06, CPAN::Meta::Converter version 2.150005",
    "license" : [
       "perl_5"
    ],
@@ -70,5 +70,6 @@
          "url" : "http://github.com/ashb/trycatch/tree/master"
       }
    },
-   "version" : "1.003002"
+   "version" : "1.003002",
+   "x_serialization_backend" : "JSON::PP version 2.27203"
 }

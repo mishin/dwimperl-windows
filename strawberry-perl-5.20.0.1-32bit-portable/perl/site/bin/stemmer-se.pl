@@ -1,4 +1,4 @@
-#!C:\Users\TOSH\Documents\job\perl\deleted\str3_work\strawberry-perl-5.20.0.1-32bit-portable\perl\bin\perl.exe 
+#!C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\bin\perl.exe 
 # $Id: stemmer.pl,v 1.1 2007/05/07 12:01:14 ask Exp $
 # $Source: /opt/CVS/SeSnowball/examples/stemmer.pl,v $
 # $Author: ask $

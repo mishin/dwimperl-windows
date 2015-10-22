@@ -3,7 +3,7 @@
 # See AutoSplit.pm.
 package Class::MethodMaker::scalar;
 
-#line 24080 "blib\lib\Class\MethodMaker\scalar.pm (autosplit into blib\lib\auto\Class\MethodMaker\scalar\scal0051.al)"
+#line 6108 "blib\lib\Class\MethodMaker\scalar.pm (autosplit into blib\lib\auto\Class\MethodMaker\scalar\scal0051.al)"
 #------------------
 # scalar static - read_cb - tie_class
 

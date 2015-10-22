@@ -1,1 +1,1 @@
-{"target":"Task::Kensho::WebCrawling","name":"Task::Kensho::WebCrawling","dist":"Task-Kensho-WebCrawling-0.38","provides":{"Task::Kensho::WebCrawling":{"version":"0.38","file":"lib/Task/Kensho/WebCrawling.pm"}},"version":"0.38","pathname":"E/ET/ETHER/Task-Kensho-WebCrawling-0.38.tar.gz"}
+{"name":"Task::Kensho::WebCrawling","pathname":"E/ET/ETHER/Task-Kensho-WebCrawling-0.38.tar.gz","version":"0.38","dist":"Task-Kensho-WebCrawling-0.38","provides":{"Task::Kensho::WebCrawling":{"file":"lib/Task/Kensho/WebCrawling.pm","version":"0.38"}},"target":"Task::Kensho::WebCrawling"}

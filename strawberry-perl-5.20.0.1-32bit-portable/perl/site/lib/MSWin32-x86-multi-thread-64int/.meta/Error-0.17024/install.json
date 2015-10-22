@@ -1,1 +1,1 @@
-{"name":"Error","dist":"Error-0.17024","target":"Error","pathname":"S/SH/SHLOMIF/Error-0.17024.tar.gz","provides":{"Error":{"file":"lib/Error.pm","version":"0.17024"}},"version":"0.17024"}
+{"name":"Error","provides":{"Error":{"version":"0.17024","file":"lib/Error.pm"}},"dist":"Error-0.17024","pathname":"S/SH/SHLOMIF/Error-0.17024.tar.gz","version":"0.17024","target":"Error"}

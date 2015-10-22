@@ -3,7 +3,7 @@
 # See AutoSplit.pm.
 package Class::MethodMaker::scalar;
 
-#line 10703 "blib\lib\Class\MethodMaker\scalar.pm (autosplit into blib\lib\auto\Class\MethodMaker\scalar\scal0020.al)"
+#line 21423 "blib\lib\Class\MethodMaker\scalar.pm (autosplit into blib\lib\auto\Class\MethodMaker\scalar\scal0020.al)"
 #------------------
 # scalar v1_compat
 

@@ -1,1 +1,1 @@
-{"dist":"Task-Kensho-OOP-0.38","name":"Task::Kensho::OOP","target":"Task::Kensho::OOP","pathname":"E/ET/ETHER/Task-Kensho-OOP-0.38.tar.gz","version":"0.38","provides":{"Task::Kensho::OOP":{"version":"0.38","file":"lib/Task/Kensho/OOP.pm"}}}
+{"dist":"Task-Kensho-OOP-0.38","pathname":"E/ET/ETHER/Task-Kensho-OOP-0.38.tar.gz","provides":{"Task::Kensho::OOP":{"version":"0.38","file":"lib/Task/Kensho/OOP.pm"}},"name":"Task::Kensho::OOP","target":"Task::Kensho::OOP","version":"0.38"}

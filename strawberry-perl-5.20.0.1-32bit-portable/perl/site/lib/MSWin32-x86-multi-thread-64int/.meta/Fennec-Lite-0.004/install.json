@@ -1,1 +1,1 @@
-{"version":"0.004","provides":{"Fennec::Lite":{"version":"0.004","file":"lib/Fennec/Lite.pm"}},"pathname":"E/EX/EXODIST/Fennec-Lite-0.004.tar.gz","target":"Fennec::Lite","name":"Fennec::Lite","dist":"Fennec-Lite-0.004"}
+{"name":"Fennec::Lite","pathname":"E/EX/EXODIST/Fennec-Lite-0.004.tar.gz","dist":"Fennec-Lite-0.004","provides":{"Fennec::Lite":{"file":"lib/Fennec/Lite.pm","version":"0.004"}},"version":"0.004","target":"Fennec::Lite"}

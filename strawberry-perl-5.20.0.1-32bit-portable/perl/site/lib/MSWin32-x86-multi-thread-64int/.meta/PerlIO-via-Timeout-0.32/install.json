@@ -1,1 +1,1 @@
-{"version":"0.32","name":"PerlIO::via::Timeout","target":"PerlIO::via::Timeout","dist":"PerlIO-via-Timeout-0.32","provides":{"PerlIO::via::Timeout":{"file":"lib/PerlIO/via/Timeout.pm","version":"0.32"}},"pathname":"D/DA/DAMS/PerlIO-via-Timeout-0.32.tar.gz"}
+{"provides":{"PerlIO::via::Timeout":{"file":"lib/PerlIO/via/Timeout.pm","version":"0.32"}},"name":"PerlIO::via::Timeout","pathname":"D/DA/DAMS/PerlIO-via-Timeout-0.32.tar.gz","version":"0.32","dist":"PerlIO-via-Timeout-0.32","target":"PerlIO::via::Timeout"}

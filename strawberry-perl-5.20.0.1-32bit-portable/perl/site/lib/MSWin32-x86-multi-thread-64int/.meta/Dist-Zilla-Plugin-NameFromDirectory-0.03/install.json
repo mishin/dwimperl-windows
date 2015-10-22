@@ -1,0 +1,1 @@
+{"version":"0.03","dist":"Dist-Zilla-Plugin-NameFromDirectory-0.03","pathname":"M/MI/MIYAGAWA/Dist-Zilla-Plugin-NameFromDirectory-0.03.tar.gz","target":"Dist::Zilla::Plugin::NameFromDirectory","provides":{"Dist::Zilla::Plugin::NameFromDirectory":{"file":"lib/Dist/Zilla/Plugin/NameFromDirectory.pm","version":"0.03"}},"name":"Dist::Zilla::Plugin::NameFromDirectory"}

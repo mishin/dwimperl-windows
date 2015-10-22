@@ -1,1 +1,1 @@
-{"provides":{"HTTP::Thin":{"version":"0.006","file":"lib/HTTP/Thin.pm"}},"version":"0.006","pathname":"P/PE/PERIGRIN/HTTP-Thin-0.006.tar.gz","target":"HTTP::Thin","dist":"HTTP-Thin-0.006","name":"HTTP::Thin"}
+{"name":"HTTP::Thin","pathname":"P/PE/PERIGRIN/HTTP-Thin-0.006.tar.gz","dist":"HTTP-Thin-0.006","provides":{"HTTP::Thin":{"version":"0.006","file":"lib/HTTP/Thin.pm"}},"version":"0.006","target":"HTTP::Thin"}

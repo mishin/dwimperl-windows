@@ -6,7 +6,7 @@
       "Joseph Walton <joe@kafsemo.org>"
    ],
    "dynamic_config" : 0,
-   "generated_by" : "Hand, CPAN::Meta::Converter version 2.141170",
+   "generated_by" : "Hand, CPAN::Meta::Converter version 2.150005",
    "license" : [
       "unrestricted"
    ],
@@ -39,5 +39,6 @@
    },
    "release_status" : "stable",
    "version" : "0.625",
-   "x_installdirs" : "site"
+   "x_installdirs" : "site",
+   "x_serialization_backend" : "JSON::PP version 2.27203"
 }

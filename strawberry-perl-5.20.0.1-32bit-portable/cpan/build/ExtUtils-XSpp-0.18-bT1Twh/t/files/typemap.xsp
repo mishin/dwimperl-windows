@@ -1,4 +1,0 @@
-# trivial typemap
-
-%typemap{int}{simple};
-%typemap{void}{simple};

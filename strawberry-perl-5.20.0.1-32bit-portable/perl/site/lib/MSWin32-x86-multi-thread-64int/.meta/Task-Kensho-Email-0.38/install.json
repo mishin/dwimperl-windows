@@ -1,1 +1,1 @@
-{"provides":{"Task::Kensho::Email":{"file":"lib/Task/Kensho/Email.pm","version":"0.38"}},"version":"0.38","pathname":"E/ET/ETHER/Task-Kensho-Email-0.38.tar.gz","target":"Task::Kensho::Email","name":"Task::Kensho::Email","dist":"Task-Kensho-Email-0.38"}
+{"target":"Task::Kensho::Email","name":"Task::Kensho::Email","provides":{"Task::Kensho::Email":{"version":"0.38","file":"lib/Task/Kensho/Email.pm"}},"version":"0.38","dist":"Task-Kensho-Email-0.38","pathname":"E/ET/ETHER/Task-Kensho-Email-0.38.tar.gz"}

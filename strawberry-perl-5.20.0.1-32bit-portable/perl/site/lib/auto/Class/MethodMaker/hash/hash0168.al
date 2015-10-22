@@ -3,9 +3,9 @@
 # See AutoSplit.pm.
 package Class::MethodMaker::hash;
 
-#line 12810 "blib\lib\Class\MethodMaker\hash.pm (autosplit into blib\lib\auto\Class\MethodMaker\hash\hash0168.al)"
+#line 20473 "blib\lib\Class\MethodMaker\hash.pm (autosplit into blib\lib\auto\Class\MethodMaker\hash\hash0168.al)"
 #------------------
-# hash read_cb - typex - v1_compat - default_ctor
+# hash default_ctor - typex - read_cb - v1_compat
 
 sub hash0168 {
   my $class  = shift;

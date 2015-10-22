@@ -1,0 +1,33 @@
+{
+   "abstract" : "Simple Passwd authentication",
+   "author" : [
+      "Christian Hansen C<ch@ngmedia.com>"
+   ],
+   "dynamic_config" : 0,
+   "generated_by" : "Module::Build version 0.4205",
+   "license" : [
+      "perl_5"
+   ],
+   "meta-spec" : {
+      "url" : "http://search.cpan.org/perldoc?CPAN::Meta::Spec",
+      "version" : "2"
+   },
+   "name" : "Authen-Simple-Passwd",
+   "prereqs" : {
+      "runtime" : {
+         "requires" : {
+            "Authen::Simple" : 0.3,
+            "IO::File" : "0"
+         }
+      }
+   },
+   "provides" : {
+      "Authen::Simple::Passwd" : {
+         "file" : "lib/Authen/Simple/Passwd.pm",
+         "version" : "0.6"
+      }
+   },
+   "release_status" : "stable",
+   "version" : "0.6",
+   "x_serialization_backend" : "JSON::PP version 2.27203"
+}

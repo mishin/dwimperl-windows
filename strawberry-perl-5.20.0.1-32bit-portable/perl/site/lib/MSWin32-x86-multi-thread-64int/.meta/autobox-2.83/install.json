@@ -1,0 +1,1 @@
+{"name":"autobox","provides":{"autobox::universal":{"file":"lib/autobox/universal.pm"},"autobox":{"file":"lib/autobox.pm","version":"2.83"}},"target":"autobox","version":"2.83","dist":"autobox-2.83","pathname":"C/CH/CHOCOLATE/autobox-2.83.tar.gz"}

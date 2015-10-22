@@ -1,1 +1,1 @@
-{"target":"Exporter::Lite","name":"Exporter::Lite","dist":"Exporter-Lite-0.06","version":"0.06","provides":{"Exporter::Lite":{"file":"lib/Exporter/Lite.pm","version":"0.06"}},"pathname":"N/NE/NEILB/Exporter-Lite-0.06.tar.gz"}
+{"name":"Exporter::Lite","provides":{"Exporter::Lite":{"file":"lib/Exporter/Lite.pm","version":"0.06"}},"pathname":"N/NE/NEILB/Exporter-Lite-0.06.tar.gz","dist":"Exporter-Lite-0.06","version":"0.06","target":"Exporter::Lite"}

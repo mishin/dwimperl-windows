@@ -1,0 +1,1 @@
+{"dist":"URI-Find-20140709","pathname":"M/MS/MSCHWERN/URI-Find-20140709.tar.gz","target":"URI::Find","provides":{"URI::Find::Schemeless":{"file":"lib/URI/Find/Schemeless.pm","version":"20140709"},"URI::Find":{"version":"20140709","file":"lib/URI/Find.pm"}},"name":"URI::Find","version":"20140709"}

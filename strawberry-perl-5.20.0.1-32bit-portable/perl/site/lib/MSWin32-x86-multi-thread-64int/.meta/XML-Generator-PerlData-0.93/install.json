@@ -1,1 +1,1 @@
-{"name":"XML::Generator::PerlData","dist":"XML-Generator-PerlData-0.93","target":"XML::Generator::PerlData","pathname":"K/KH/KHAMPTON/XML-Generator-PerlData-0.93.tar.gz","version":"0.93","provides":{"XML::Generator::PerlData":{"version":"0.93","file":"PerlData.pm"}}}
+{"name":"XML::Generator::PerlData","provides":{"XML::Generator::PerlData":{"file":"PerlData.pm","version":"0.93"}},"dist":"XML-Generator-PerlData-0.93","pathname":"K/KH/KHAMPTON/XML-Generator-PerlData-0.93.tar.gz","version":"0.93","target":"XML::Generator::PerlData"}

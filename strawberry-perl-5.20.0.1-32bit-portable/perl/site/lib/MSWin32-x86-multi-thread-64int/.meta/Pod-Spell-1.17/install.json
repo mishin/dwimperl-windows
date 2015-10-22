@@ -1,0 +1,1 @@
+{"version":"1.17","name":"Pod::Spell","provides":{"Pod::Wordlist":{"version":"1.17","file":"lib/Pod/Wordlist.pm"},"Pod::Spell":{"version":"1.17","file":"lib/Pod/Spell.pm"}},"target":"Pod::Spell","pathname":"X/XE/XENO/Pod-Spell-1.17.tar.gz","dist":"Pod-Spell-1.17"}

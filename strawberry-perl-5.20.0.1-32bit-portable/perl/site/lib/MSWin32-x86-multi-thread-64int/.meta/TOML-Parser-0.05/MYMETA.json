@@ -1,0 +1,98 @@
+{
+   "abstract" : "simple toml parser",
+   "author" : [
+      "karupanerura <karupa@cpan.org>"
+   ],
+   "dynamic_config" : 0,
+   "generated_by" : "Minilla/v2.3.0, CPAN::Meta::Converter version 2.150005",
+   "license" : [
+      "perl_5"
+   ],
+   "meta-spec" : {
+      "url" : "http://search.cpan.org/perldoc?CPAN::Meta::Spec",
+      "version" : "2"
+   },
+   "name" : "TOML-Parser",
+   "no_index" : {
+      "directory" : [
+         "t",
+         "xt",
+         "inc",
+         "share",
+         "eg",
+         "examples",
+         "author",
+         "builder"
+      ]
+   },
+   "prereqs" : {
+      "configure" : {
+         "requires" : {
+            "CPAN::Meta" : "0",
+            "CPAN::Meta::Prereqs" : "0",
+            "Module::Build::Tiny" : "0.035"
+         }
+      },
+      "develop" : {
+         "requires" : {
+            "JSON" : "2",
+            "Path::Tiny" : "0",
+            "TOML" : "0",
+            "Test::CPAN::Meta" : "0",
+            "Test::MinimumVersion::Fast" : "0.04",
+            "Test::PAUSE::Permissions" : "0.04",
+            "Test::Pod" : "1.41",
+            "Test::Spellunker" : "v0.2.7"
+         }
+      },
+      "runtime" : {
+         "requires" : {
+            "Encode" : "0",
+            "Exporter" : "5.57",
+            "Types::Serialiser" : "0",
+            "parent" : "0",
+            "perl" : "5.008005"
+         }
+      },
+      "test" : {
+         "requires" : {
+            "MIME::Base64" : "0",
+            "Test::More" : "0.98"
+         }
+      }
+   },
+   "provides" : {
+      "TOML::Parser" : {
+         "file" : "lib/TOML/Parser.pm",
+         "version" : "0.05"
+      },
+      "TOML::Parser::Tokenizer" : {
+         "file" : "lib/TOML/Parser/Tokenizer.pm"
+      },
+      "TOML::Parser::Tokenizer::Strict" : {
+         "file" : "lib/TOML/Parser/Tokenizer/Strict.pm"
+      },
+      "TOML::Parser::Util" : {
+         "file" : "lib/TOML/Parser/Util.pm"
+      }
+   },
+   "release_status" : "stable",
+   "resources" : {
+      "bugtracker" : {
+         "web" : "https://github.com/karupanerura/TOML-Parser/issues"
+      },
+      "homepage" : "https://github.com/karupanerura/TOML-Parser",
+      "repository" : {
+         "type" : "git",
+         "url" : "git://github.com/karupanerura/TOML-Parser.git",
+         "web" : "https://github.com/karupanerura/TOML-Parser"
+      }
+   },
+   "version" : "0.05",
+   "x_authority" : "cpan:KARUPA",
+   "x_contributors" : [
+      "Olivier Mengué <dolmen@cpan.org>",
+      "karupanerura <karupanerura@users.noreply.github.com>"
+   ],
+   "x_serialization_backend" : "JSON::PP version 2.27203"
+}

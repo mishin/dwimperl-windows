@@ -1,0 +1,1 @@
+{"name":"Redis","pathname":"D/DA/DAMS/Redis-1.980.tar.gz","version":"1.980","provides":{"Redis::List":{"version":"1.980","file":"lib/Redis/List.pm"},"Redis":{"file":"lib/Redis.pm","version":"1.980"},"Redis::Hash":{"file":"lib/Redis/Hash.pm","version":"1.980"},"Redis::Sentinel":{"version":"1.980","file":"lib/Redis/Sentinel.pm"}},"dist":"Redis-1.980","target":"Redis"}

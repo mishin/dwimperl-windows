@@ -3,14 +3,12 @@ package Log::Dispatch::Screen;
 use strict;
 use warnings;
 
-our $VERSION = '2.51';
+our $VERSION = '2.45';
 
 use Log::Dispatch::Output;
 
 use base qw( Log::Dispatch::Output );
 
-use Encode qw( encode );
-use IO::Handle;
 use Params::Validate qw(validate BOOLEAN);
 Params::Validate::validation_options( allow_extra => 1 );
 
@@ -22,17 +20,15 @@ sub new {
         @_, {
             stderr => {
                 type    => BOOLEAN,
-                default => 1,
-            },
-            utf8 => {
-                type    => BOOLEAN,
-                default => 0,
+                default => 1
             },
         }
     );
 
-    my $self = bless \%p, $class;
+    my $self = bless {}, $class;
+
     $self->_basic_init(%p);
+    $self->{stderr} = exists $p{stderr} ? $p{stderr} : 1;
 
     return $self;
 }
@@ -41,17 +37,11 @@ sub log_message {
     my $self = shift;
     my %p    = @_;
 
-    # This is a bit gross but it's important that we print directly to the
-    # STDOUT or STDERR handle for backwards compatibility. Various modules
-    # have tests which rely on this, so we can't open a new filehandle to fd 1
-    # or 2 and use that.
-    my $message
-        = $self->{utf8} ? encode( 'UTF-8', $p{message} ) : $p{message};
     if ( $self->{stderr} ) {
-        print STDERR $message;
+        print STDERR $p{message};
     }
     else {
-        print STDOUT $message;
+        print STDOUT $p{message};
     }
 }
 
@@ -69,7 +59,7 @@ Log::Dispatch::Screen - Object for logging to the screen
 
 =head1 VERSION
 
-version 2.51
+version 2.45
 
 =head1 SYNOPSIS
 
@@ -91,13 +81,10 @@ version 2.51
 =head1 DESCRIPTION
 
 This module provides an object for logging to the screen (really
-C<STDOUT> or C<STDERR>).
+STDOUT or STDERR).
 
 Note that a newline will I<not> be added automatically at the end of a
 message by default. To do that, pass C<< newline => 1 >>.
-
-The handle will be autoflushed, but this module opens it's own handle to fd 1
-or 2 instead of using the global C<STDOUT> or C<STDERR>.
 
 =for Pod::Coverage new log_message
 
@@ -110,18 +97,9 @@ parameters documented in L<Log::Dispatch::Output>:
 
 =item * stderr (0 or 1)
 
-Indicates whether or not logging information should go to C<STDERR>. If
-false, logging information is printed to C<STDOUT> instead.
-
-This defaults to true.
-
-=item * utf8 (0 or 1)
-
-If this is true, then the output uses C<binmode> to apply the
-C<:encoding(UTF-8)> layer to the relevant handle for output. This will not
-affect C<STDOUT> or C<STDERR> in other parts of your code.
-
-This defaults to false.
+Indicates whether or not logging information should go to STDERR. If
+false, logging information is printed to STDOUT instead. This
+defaults to true.
 
 =back
 

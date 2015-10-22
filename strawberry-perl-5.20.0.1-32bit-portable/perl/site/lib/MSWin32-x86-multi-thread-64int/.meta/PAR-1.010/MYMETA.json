@@ -1,0 +1,77 @@
+{
+   "abstract" : "Perl Archive Tookit",
+   "author" : [
+      "Audrey Tang <cpan@audreyt.org>"
+   ],
+   "dynamic_config" : 0,
+   "generated_by" : "Module::Install version 1.16, CPAN::Meta::Converter version 2.150005",
+   "license" : [
+      "perl_5"
+   ],
+   "meta-spec" : {
+      "url" : "http://search.cpan.org/perldoc?CPAN::Meta::Spec",
+      "version" : "2"
+   },
+   "name" : "PAR",
+   "no_index" : {
+      "directory" : [
+         "inc",
+         "t"
+      ]
+   },
+   "prereqs" : {
+      "build" : {
+         "requires" : {
+            "ExtUtils::MakeMaker" : "6.59"
+         }
+      },
+      "configure" : {
+         "requires" : {
+            "ExtUtils::MakeMaker" : "0"
+         }
+      },
+      "runtime" : {
+         "recommends" : {
+            "Digest" : "0",
+            "Module::Signature" : "0"
+         },
+         "requires" : {
+            "Archive::Zip" : "1",
+            "AutoLoader" : "5.66_02",
+            "Compress::Zlib" : "1.16",
+            "File::Temp" : "0.05",
+            "PAR::Dist" : "0.32",
+            "perl" : "5.008001"
+         }
+      }
+   },
+   "provides" : {
+      "PAR" : {
+         "file" : "lib/PAR.pm",
+         "version" : "1.010"
+      },
+      "PAR::Heavy" : {
+         "file" : "lib/PAR/Heavy.pm",
+         "version" : "0.12"
+      },
+      "PAR::SetupProgname" : {
+         "file" : "lib/PAR/SetupProgname.pm",
+         "version" : "1.002"
+      },
+      "PAR::SetupTemp" : {
+         "file" : "lib/PAR/SetupTemp.pm",
+         "version" : "1.002"
+      }
+   },
+   "release_status" : "stable",
+   "resources" : {
+      "license" : [
+         "http://dev.perl.org/licenses/"
+      ],
+      "repository" : {
+         "url" : "https://www.openfoundry.org/svn/par/trunk"
+      }
+   },
+   "version" : "1.010",
+   "x_serialization_backend" : "JSON::PP version 2.27203"
+}

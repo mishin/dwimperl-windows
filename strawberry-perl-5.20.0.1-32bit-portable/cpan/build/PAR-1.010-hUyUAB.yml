@@ -1,0 +1,57 @@
+---
+distribution: !!perl/hash:CPAN::Distribution
+  CALLED_FOR: PAR
+  CHECKSUM_STATUS: OK
+  CONTAINSMODS:
+    PAR: 1
+    PAR::Heavy: 1
+    PAR::SetupProgname: 1
+    PAR::SetupTemp: 1
+  ID: R/RS/RSCHUPP/PAR-1.010.tar.gz
+  RO:
+    CPAN_USERID: RSCHUPP
+    CPAN_VERSION: '1.010'
+    DESCRIPTION: ~
+  archived: tar
+  build_dir: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\cpan\build\PAR-1.010-hUyUAB
+  localfile: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\cpan\sources\authors\id\R\RS\RSCHUPP\PAR-1.010.tar.gz
+  make: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 0
+    FAILED: ''
+    TEXT: YES
+    TIME: 1442027260
+  negative_prefs_cache: 0
+  prefs: {}
+  prereq_pm:
+    build_requires:
+      ExtUtils::MakeMaker: '6.59'
+    opt_build_requires: {}
+    opt_requires:
+      Digest: '0'
+      Module::Signature: '0'
+    requires:
+      Archive::Zip: '1'
+      AutoLoader: 5.66_02
+      Compress::Zlib: '1.16'
+      File::Temp: '0.05'
+      PAR::Dist: '0.32'
+      perl: '5.008001'
+  reqtype: ~
+  sponsored_mods:
+    Module::Signature: 1
+  unwrapped: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 0
+    FAILED: ''
+    TEXT: YES
+    TIME: 1442027233
+  writemakefile: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 0
+    FAILED: ''
+    TEXT: YES
+    TIME: 1442027236
+perl:
+  $^X: c:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\bin\perl.exe
+  mtime_$^X: 1401480666
+  mtime_dll: 0
+  sitearchexp: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib
+time: 1442027260

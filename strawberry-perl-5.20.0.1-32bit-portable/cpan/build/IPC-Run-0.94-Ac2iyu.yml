@@ -1,0 +1,68 @@
+---
+distribution: !!perl/hash:CPAN::Distribution
+  CALLED_FOR: IPC::Run
+  CHECKSUM_STATUS: OK
+  CONTAINSMODS:
+    IPC::Run: 1
+    IPC::Run::Debug: 1
+    IPC::Run::IO: 1
+    IPC::Run::Timer: 1
+    IPC::Run::Win32Helper: 1
+    IPC::Run::Win32IO: 1
+    IPC::Run::Win32Pump: 1
+  ID: T/TO/TODDR/IPC-Run-0.94.tar.gz
+  RO:
+    CPAN_USERID: TODDR
+    CPAN_VERSION: '0.94'
+    DESCRIPTION: ~
+  archived: tar
+  badtestcnt: 0
+  build_dir: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\cpan\build\IPC-Run-0.94-Ac2iyu
+  incommandcolor: 0
+  install: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 2
+    FAILED: ''
+    TEXT: YES
+    TIME: 1443294810
+  localfile: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\cpan\sources\authors\id\T\TO\TODDR\IPC-Run-0.94.tar.gz
+  make: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 1
+    FAILED: ''
+    TEXT: YES
+    TIME: 1443294440
+  make_test: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 1
+    FAILED: ''
+    TEXT: YES
+    TIME: 1443294564
+  mandatory: 1
+  negative_prefs_cache: 2
+  prefs:
+    install: {}
+  prereq_pm:
+    build_requires:
+      ExtUtils::MakeMaker: '0'
+    opt_build_requires: {}
+    opt_requires:
+      IO::Pty: '1.08'
+    requires:
+      Test::More: '0.47'
+      Win32::Process: '0.14'
+  reqtype: c
+  should_report: 1
+  unwrapped: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 1
+    FAILED: ''
+    TEXT: YES
+    TIME: 1443294415
+  writemakefile: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 1
+    FAILED: ''
+    TEXT: YES
+    TIME: 1443294424
+perl:
+  $^X: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\bin\perl.exe
+  mtime_$^X: 1401480666
+  mtime_dll: 0
+  sitearchexp: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib
+time: 1443294810

@@ -4,7 +4,7 @@
       "Toby Inkster (TOBYINK) <tobyink@cpan.org>"
    ],
    "dynamic_config" : 0,
-   "generated_by" : "Moose::Meta::Class::__ANON__::SERIAL::7 version , CPAN::Meta::Converter version 2.140640, CPAN::Meta::Converter version 2.141170",
+   "generated_by" : "Moose::Meta::Class::__ANON__::SERIAL::7 version , CPAN::Meta::Converter version 2.140640, CPAN::Meta::Converter version 2.150005",
    "keywords" : [],
    "license" : [
       "perl_5"
@@ -73,5 +73,6 @@
          "web" : "https://github.com/tobyink/p5-moosex-arrayref"
       }
    },
-   "version" : "0.005"
+   "version" : "0.005",
+   "x_serialization_backend" : "JSON::PP version 2.27203"
 }

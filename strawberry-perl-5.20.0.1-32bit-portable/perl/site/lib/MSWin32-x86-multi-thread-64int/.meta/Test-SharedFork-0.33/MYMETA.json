@@ -4,7 +4,7 @@
       "Tokuhiro Matsuno <tokuhirom  slkjfd gmail.com>"
    ],
    "dynamic_config" : 0,
-   "generated_by" : "Minilla/v2.4.1, CPAN::Meta::Converter version 2.141170",
+   "generated_by" : "Minilla/v2.4.1, CPAN::Meta::Converter version 2.150005",
    "license" : [
       "perl_5"
    ],
@@ -101,5 +101,6 @@
       "Tokuhiro Matsuno <tokuhirom@gmail.com>",
       "Chad Granum <chad.granum@dreamhost.com>",
       "Chad Granum <exodist7@gmail.com>"
-   ]
+   ],
+   "x_serialization_backend" : "JSON::PP version 2.27203"
 }

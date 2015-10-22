@@ -1,0 +1,91 @@
+---
+distribution: !!perl/hash:CPAN::Distribution
+  CALLED_FOR: D/DA/DAGOLDEN/CPAN-Reporter-Smoker-0.27.tar.gz
+  CHECKSUM_STATUS: OK
+  CONTAINSMODS:
+    CPAN::Reporter::Smoker: 1
+  ID: D/DA/DAGOLDEN/CPAN-Reporter-Smoker-0.27.tar.gz
+  RO:
+    CPAN_USERID: DAGOLDEN
+    CPAN_VERSION: '0.27'
+    DESCRIPTION: ~
+  archived: tar
+  build_dir: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\cpan\build\CPAN-Reporter-Smoker-0.27-Ek5PLs
+  incommandcolor: 1
+  install: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 0
+    FAILED: ''
+    TEXT: YES
+    TIME: 1443228226
+  localfile: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\cpan\sources\authors\id\D\DA\DAGOLDEN\CPAN-Reporter-Smoker-0.27.tar.gz
+  make: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 0
+    FAILED: ''
+    TEXT: YES
+    TIME: 1443227851
+  make_test: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 0
+    FAILED: ''
+    TEXT: YES
+    TIME: 1443228224
+  mandatory: 1
+  negative_prefs_cache: 0
+  prefs:
+    install: {}
+  prereq_pm:
+    build_requires:
+      CPAN::Checksums: '0'
+      Cwd: '3.27'
+      ExtUtils::MakeMaker: '6.46'
+      File::Find: '0'
+      File::Path: '0'
+      File::Spec: '3.27'
+      IO::CaptureOutput: '1.06'
+      IO::File: '0'
+      Test::More: '0.62'
+      vars: '0'
+    configure_requires: {}
+    opt_build_requires:
+      CPAN::Meta: '2.120900'
+    opt_requires: {}
+    requires:
+      CPAN: '1.93'
+      CPAN::HandleConfig: '0'
+      CPAN::Reporter::History: '1.1702'
+      CPAN::Tarzip: '0'
+      Carp: '0'
+      Compress::Zlib: '1.2'
+      Exporter: '0'
+      ExtUtils::MakeMaker: '6.46'
+      Fcntl: '0'
+      File::Basename: '0'
+      File::Spec: '3.27'
+      File::Temp: '0.20'
+      List::Util: '1.03'
+      Module::Build: '0.30'
+      Probe::Perl: '0.01'
+      Term::Title: '0.01'
+      Test::Reporter: '1.58'
+      perl: '5.006'
+      strict: '0'
+      warnings: '0'
+  reqtype: c
+  should_report: 1
+  sponsored_mods:
+    Term::Title: 1
+  unwrapped: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 0
+    FAILED: ''
+    TEXT: YES
+    TIME: 1443227469
+  writemakefile: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 0
+    FAILED: ''
+    TEXT: YES
+    TIME: 1443227477
+perl:
+  $^X: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\bin\perl.exe
+  mtime_$^X: 1401480666
+  mtime_dll: 0
+  sitearchexp: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib
+time: 1443228226

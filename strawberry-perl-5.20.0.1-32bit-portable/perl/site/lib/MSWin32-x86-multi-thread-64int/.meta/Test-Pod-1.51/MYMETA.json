@@ -4,7 +4,7 @@
       "David E. Wheeler <david@justatheory.com>"
    ],
    "dynamic_config" : 0,
-   "generated_by" : "ExtUtils::MakeMaker version 7.0524, CPAN::Meta::Converter version 2.150005, CPAN::Meta::Converter version 2.141170",
+   "generated_by" : "ExtUtils::MakeMaker version 7.0524, CPAN::Meta::Converter version 2.150005",
    "license" : [
       "perl_5"
    ],
@@ -72,5 +72,5 @@
       "ChrisWi <chris@computersalat.de>",
       "David Steinbrunner <dsteinbrunner@pobox.com>"
    ],
-   "x_serialization_backend" : "JSON::PP version 2.27300"
+   "x_serialization_backend" : "JSON::PP version 2.27203"
 }

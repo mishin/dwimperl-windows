@@ -1,1 +1,1 @@
-{"pathname":"E/ET/ETHER/Task-Kensho-Testing-0.38.tar.gz","version":"0.38","provides":{"Task::Kensho::Testing":{"file":"lib/Task/Kensho/Testing.pm","version":"0.38"}},"name":"Task::Kensho::Testing","dist":"Task-Kensho-Testing-0.38","target":"Task::Kensho::Testing"}
+{"pathname":"E/ET/ETHER/Task-Kensho-Testing-0.38.tar.gz","dist":"Task-Kensho-Testing-0.38","version":"0.38","name":"Task::Kensho::Testing","provides":{"Task::Kensho::Testing":{"version":"0.38","file":"lib/Task/Kensho/Testing.pm"}},"target":"Task::Kensho::Testing"}

@@ -1,6 +1,6 @@
-=== Strawberry Perl Portable 5.20.0.1-32bit README ===
+=== Strawberry Perl PDL 5.20.0.1-32bit README ===
 
-What is Strawberry Perl Portable?
+What is Strawberry Perl PDL?
 ---------------------------------
 
 * 'Perl' is a programming language suitable for writing simple scripts as well
@@ -10,29 +10,19 @@ What is Strawberry Perl Portable?
   you need to run and develop perl applications. It is designed to be as close
   as possible to perl environment on UNIX systems. See http://strawberryperl.com/
 
-* 'Strawberry Perl Portable' is Strawberry Perl that you do not need to install,
-  you do not need admin privileges, you just extract provided ZIP on your disk.
+* 'Strawberry Perl PDL' is Strawberry Perl with pre-installed Perl Data Language,
+  related modules and libraries - see http://pdl.perl.org/
  
-How to use Strawberry Perl Portable?
+How to use Strawberry Perl PDL?
 ------------------------------------
 
-* Extract strawberry portable ZIP into e.g. c:\myperl\ 
+* Extract strawberry portable ZIP into e.g. c:\sw\pdl\ 
   Note: choose a directory name without spaces and non us-ascii characters
 
-* Launch c:\myperl\portableshell.bat - it should open a command prompt window
-
-* In the command prompt window you can:
-
-  1. run any perl script by launching
+* Launch c:\sw\pdl\PDL-console.bat - it should open a console window with 2 tabs
+  - tab "Command prompt"
+  - tab "PDL console" 
   
-     c:\> perl c:\path\to\script.pl
+* Or launch c:\sw\pdl\portableshell.bat - it should open a command prompt
 
-  2. install additional perl modules (libraries) from http://www.cpan.org/ by
-
-     c:\> cpan Module::Name
-  
-  3. run other tools included in strawberry like: perldoc, gcc, dmake ...
-
-* If you want to use Strawberry Perl Portable not only from portableshell.bat,
-  add c:\myperl\perl\site\bin, c:\myperl\perl\bin, and c:\myperl\c\bin
-  to PATH variable
+* More info at http://pdl.perl.org/ (start with FAQ)

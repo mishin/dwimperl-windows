@@ -3,9 +3,9 @@
 # See AutoSplit.pm.
 package Class::MethodMaker::scalar;
 
-#line 30850 "blib\lib\Class\MethodMaker\scalar.pm (autosplit into blib\lib\auto\Class\MethodMaker\scalar\scal00d3.al)"
+#line 13726 "blib\lib\Class\MethodMaker\scalar.pm (autosplit into blib\lib\auto\Class\MethodMaker\scalar\scal00d3.al)"
 #------------------
-# scalar static - store_cb - read_cb - type - tie_class
+# scalar type - static - read_cb - tie_class - store_cb
 
 sub scal00d3 {
   my $class  = shift;

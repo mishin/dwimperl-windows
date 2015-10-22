@@ -1,0 +1,1 @@
+{"version":"2.054","target":"Dist::Zilla::Plugin::Test::Compile","pathname":"E/ET/ETHER/Dist-Zilla-Plugin-Test-Compile-2.054.tar.gz","dist":"Dist-Zilla-Plugin-Test-Compile-2.054","name":"Dist::Zilla::Plugin::Test::Compile","provides":{"Dist::Zilla::Plugin::Test::Compile":{"version":"2.054","file":"lib/Dist/Zilla/Plugin/Test/Compile.pm"}}}

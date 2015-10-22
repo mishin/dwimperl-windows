@@ -4,7 +4,7 @@
       "Rocco Caputo <rcaputo@cpan.org>"
    ],
    "dynamic_config" : 0,
-   "generated_by" : "Dist::Zilla version 4.300035, CPAN::Meta::Converter version 2.132140, CPAN::Meta::Converter version 2.141170",
+   "generated_by" : "Dist::Zilla version 4.300035, CPAN::Meta::Converter version 2.132140, CPAN::Meta::Converter version 2.150005",
    "license" : [
       "perl_5"
    ],
@@ -64,5 +64,6 @@
          "web" : "https://github.com/rcaputo/io-pipely"
       }
    },
-   "version" : "0.005"
+   "version" : "0.005",
+   "x_serialization_backend" : "JSON::PP version 2.27203"
 }

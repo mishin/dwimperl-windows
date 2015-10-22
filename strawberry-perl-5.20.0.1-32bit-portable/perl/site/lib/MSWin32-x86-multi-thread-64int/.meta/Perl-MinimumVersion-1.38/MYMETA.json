@@ -1,0 +1,64 @@
+{
+   "abstract" : "Find a minimum required version of perl for Perl code",
+   "author" : [
+      "Adam Kennedy <adamk@cpan.org>"
+   ],
+   "dynamic_config" : 0,
+   "generated_by" : "Dist::Zilla version 5.020, CPAN::Meta::Converter version 2.141170, CPAN::Meta::Converter version 2.150005",
+   "license" : [
+      "perl_5"
+   ],
+   "meta-spec" : {
+      "url" : "http://search.cpan.org/perldoc?CPAN::Meta::Spec",
+      "version" : "2"
+   },
+   "name" : "Perl-MinimumVersion",
+   "prereqs" : {
+      "build" : {
+         "requires" : {
+            "ExtUtils::MakeMaker" : "0"
+         }
+      },
+      "configure" : {
+         "requires" : {
+            "ExtUtils::MakeMaker" : "0"
+         }
+      },
+      "runtime" : {
+         "requires" : {
+            "Carp" : "0",
+            "Exporter" : "0",
+            "File::Find::Rule" : "0",
+            "File::Find::Rule::Perl" : "0",
+            "File::Spec" : "0",
+            "Getopt::Long" : "0",
+            "List::Util" : "1.20",
+            "PPI" : "1.215",
+            "PPI::Util" : "0",
+            "PPIx::Regexp" : "0.033",
+            "Params::Util" : "0.25",
+            "Perl::Critic::Utils" : "1.104",
+            "strict" : "0",
+            "vars" : "0",
+            "version" : "0.76",
+            "warnings" : "0"
+         }
+      },
+      "test" : {
+         "requires" : {
+            "File::Spec::Functions" : "0",
+            "Test::More" : "0.47",
+            "Test::Script" : "1.03"
+         }
+      }
+   },
+   "release_status" : "stable",
+   "resources" : {
+      "homepage" : "https://github.com/neilbowers/Perl-MinimumVersion",
+      "repository" : {
+         "url" : "https://github.com/neilbowers/Perl-MinimumVersion.git"
+      }
+   },
+   "version" : "1.38",
+   "x_serialization_backend" : "JSON::PP version 2.27203"
+}

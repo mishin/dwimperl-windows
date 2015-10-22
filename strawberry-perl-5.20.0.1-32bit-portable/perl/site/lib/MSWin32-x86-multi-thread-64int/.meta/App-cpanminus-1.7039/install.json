@@ -1,1 +1,1 @@
-{"target":"App::cpanminus","dist":"App-cpanminus-1.7039","name":"App::cpanminus","provides":{"App::cpanminus":{"file":"lib/App/cpanminus.pm","version":"1.7039"}},"version":"1.7039","pathname":"M/MI/MIYAGAWA/App-cpanminus-1.7039.tar.gz"}
+{"version":"1.7039","dist":"App-cpanminus-1.7039","provides":{"App::cpanminus":{"version":"1.7039","file":"lib/App/cpanminus.pm"}},"target":"App::cpanminus","name":"App::cpanminus","pathname":"M/MI/MIYAGAWA/App-cpanminus-1.7039.tar.gz"}

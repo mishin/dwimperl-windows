@@ -1,0 +1,10 @@
+libdir=/mingw/lib
+includedir=/mingw/include/plplot
+drvdir=/mingw/lib/plplot5.10.0/driversd
+
+Name: PLplot 
+Description: Scientific plotting library (double precision)
+Requires: 
+Version: 5.10.0
+Libs: -L${libdir} -lplplotd -L/mingw/lib -lgd -L/mingw/lib -lfreetype -lgdi32 -lcomdlg32 -L/mingw/lib -lfreetype -L/mingw/lib -lfreetype -lcsirocsa -lqsastime
+Cflags: -I${includedir}  -I/mingw/include -I/mingw/include/freetype2  -I/mingw/include/freetype2

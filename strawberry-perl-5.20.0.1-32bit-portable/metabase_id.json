@@ -1,0 +1,32 @@
+[
+   {
+      "metadata" : {
+         "core" : {
+            "resource" : "metabase:user:f5318799-6c18-1014-9161-2e47de6ba382",
+            "creator" : "metabase:user:f5318799-6c18-1014-9161-2e47de6ba382",
+            "guid" : "f5318799-6c18-1014-9161-2e47de6ba382",
+            "creation_time" : "2015-09-26T00:44:51Z",
+            "update_time" : "2015-09-26T00:44:51Z",
+            "valid" : 1,
+            "type" : "Metabase-User-Profile",
+            "schema_version" : 1
+         }
+      },
+      "content" : "[{\"content\":\"Nikolay Mishin\",\"metadata\":{\"core\":{\"creator\":\"metabase:user:f5318799-6c18-1014-9161-2e47de6ba382\",\"resource\":\"metabase:user:f5318799-6c18-1014-9161-2e47de6ba382\",\"schema_version\":1,\"type\":\"Metabase-User-FullName\",\"valid\":1,\"update_time\":\"2015-09-26T00:44:51Z\",\"creation_time\":\"2015-09-26T00:44:51Z\",\"guid\":\"f531c5d7-6c18-1014-9161-2e47de6ba382\"}}},{\"metadata\":{\"core\":{\"creator\":\"metabase:user:f5318799-6c18-1014-9161-2e47de6ba382\",\"resource\":\"metabase:user:f5318799-6c18-1014-9161-2e47de6ba382\",\"type\":\"Metabase-User-EmailAddress\",\"schema_version\":1,\"valid\":1,\"update_time\":\"2015-09-26T00:44:51Z\",\"creation_time\":\"2015-09-26T00:44:51Z\",\"guid\":\"f531c941-6c18-1014-9161-2e47de6ba382\"}},\"content\":\"mi@ya.ru\"}]"
+   },
+   {
+      "content" : "batman",
+      "metadata" : {
+         "core" : {
+            "resource" : "metabase:user:f5318799-6c18-1014-9161-2e47de6ba382",
+            "creator" : "metabase:user:f5318799-6c18-1014-9161-2e47de6ba382",
+            "guid" : "f531cc6e-6c18-1014-9161-2e47de6ba382",
+            "creation_time" : "2015-09-26T00:44:51Z",
+            "valid" : 1,
+            "update_time" : "2015-09-26T00:44:51Z",
+            "type" : "Metabase-User-Secret",
+            "schema_version" : 1
+         }
+      }
+   }
+]

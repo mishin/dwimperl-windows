@@ -1,1 +1,1 @@
-{"pathname":"G/GF/GFRANKS/Test-MockModule-0.10.tar.gz","version":"0.10","provides":{"Test::MockModule":{"version":"0.10","file":"lib/Test/MockModule.pm"}},"dist":"Test-MockModule-0.10","name":"Test::MockModule","target":"Test::MockModule"}
+{"dist":"Test-MockModule-0.10","pathname":"G/GF/GFRANKS/Test-MockModule-0.10.tar.gz","provides":{"Test::MockModule":{"file":"lib/Test/MockModule.pm","version":"0.10"}},"target":"Test::MockModule","version":"0.10","name":"Test::MockModule"}

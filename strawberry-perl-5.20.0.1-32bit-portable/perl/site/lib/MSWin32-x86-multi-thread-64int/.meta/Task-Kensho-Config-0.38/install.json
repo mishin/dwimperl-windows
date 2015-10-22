@@ -1,1 +1,1 @@
-{"name":"Task::Kensho::Config","dist":"Task-Kensho-Config-0.38","target":"Task::Kensho::Config","pathname":"E/ET/ETHER/Task-Kensho-Config-0.38.tar.gz","version":"0.38","provides":{"Task::Kensho::Config":{"file":"lib/Task/Kensho/Config.pm","version":"0.38"}}}
+{"dist":"Task-Kensho-Config-0.38","pathname":"E/ET/ETHER/Task-Kensho-Config-0.38.tar.gz","target":"Task::Kensho::Config","provides":{"Task::Kensho::Config":{"version":"0.38","file":"lib/Task/Kensho/Config.pm"}},"name":"Task::Kensho::Config","version":"0.38"}

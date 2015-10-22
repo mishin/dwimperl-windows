@@ -4,7 +4,7 @@
       "Ash Berlin C<< <ash@cpan.org> >>"
    ],
    "dynamic_config" : 0,
-   "generated_by" : "Module::Install version 1.14, CPAN::Meta::Converter version 2.141170",
+   "generated_by" : "Module::Install version 1.14, CPAN::Meta::Converter version 2.150005",
    "license" : [
       "perl_5"
    ],
@@ -55,5 +55,6 @@
          "url" : "http://github.com/ashb/WWW-Mechanize-TreeBuilder"
       }
    },
-   "version" : "1.20000"
+   "version" : "1.20000",
+   "x_serialization_backend" : "JSON::PP version 2.27203"
 }

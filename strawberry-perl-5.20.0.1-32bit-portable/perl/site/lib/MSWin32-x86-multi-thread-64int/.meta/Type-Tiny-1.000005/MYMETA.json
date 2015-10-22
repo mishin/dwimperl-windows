@@ -4,7 +4,7 @@
       "Toby Inkster (TOBYINK) <tobyink@cpan.org>"
    ],
    "dynamic_config" : 0,
-   "generated_by" : "Dist::Inkt::Profile::TOBYINK version 0.023, CPAN::Meta::Converter version 2.142690, CPAN::Meta::Converter version 2.141170",
+   "generated_by" : "Dist::Inkt::Profile::TOBYINK version 0.023, CPAN::Meta::Converter version 2.142690, CPAN::Meta::Converter version 2.150005",
    "keywords" : [
       "Argument Checking",
       "Argument Validation",
@@ -259,5 +259,6 @@
       "Alexander Hartmaier (ABRAXXA) <abraxxa@cpan.org>",
       "Dagfinn Ilmari Mannsåker (ILMARI) <ilmari@cpan.org>",
       "Gianni Ceccarelli (DAKKAR) <dakkar@cpan.org>"
-   ]
+   ],
+   "x_serialization_backend" : "JSON::PP version 2.27203"
 }

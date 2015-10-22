@@ -1,0 +1,102 @@
+---
+distribution: !!perl/hash:CPAN::Distribution
+  CALLED_FOR: D/DA/DAGOLDEN/CPAN-Reporter-1.2015.tar.gz
+  CHECKSUM_STATUS: OK
+  CONTAINSMODS:
+    CPAN::Reporter: 1
+    CPAN::Reporter::API: 1
+    CPAN::Reporter::Config: 1
+    CPAN::Reporter::FAQ: 1
+    CPAN::Reporter::History: 1
+    CPAN::Reporter::PrereqCheck: 1
+  ID: D/DA/DAGOLDEN/CPAN-Reporter-1.2015.tar.gz
+  RO:
+    CPAN_USERID: DAGOLDEN
+    CPAN_VERSION: '1.2015'
+    DESCRIPTION: ~
+  archived: tar
+  build_dir: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\cpan\build\CPAN-Reporter-1.2015-8mFHIi
+  incommandcolor: 1
+  install: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 1
+    FAILED: ''
+    TEXT: YES
+    TIME: 1443220642
+  localfile: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\cpan\sources\authors\id\D\DA\DAGOLDEN\CPAN-Reporter-1.2015.tar.gz
+  make: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 1
+    FAILED: ''
+    TEXT: YES
+    TIME: 1443219409
+  make_test: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 1
+    FAILED: ''
+    TEXT: YES
+    TIME: 1443220640
+  mandatory: 1
+  negative_prefs_cache: 1
+  prefs:
+    install: {}
+  prereq_pm:
+    build_requires:
+      Archive::Tar: '1.54'
+      ExtUtils::MakeMaker: '6.36'
+      File::Copy::Recursive: '0.35'
+      File::Spec: '3.19'
+      File::Spec::Functions: '0'
+      File::pushd: '0.32'
+      IO::CaptureOutput: '1.03'
+      IO::Handle: '0'
+      Test::Harness: '0'
+      Test::More: '0.62'
+      warnings: '0'
+    opt_build_requires:
+      CPAN::Meta: '2.120900'
+    opt_requires: {}
+    requires:
+      CPAN: '1.94'
+      CPAN::Version: '0'
+      Capture::Tiny: '0'
+      Carp: '0'
+      Config::Tiny: '2.08'
+      Data::Dumper: '0'
+      Devel::Autoflush: '0.04'
+      Exporter: '0'
+      ExtUtils::MakeMaker: '6.36'
+      Fcntl: '0'
+      File::Basename: '0'
+      File::Find: '0'
+      File::Glob: '0'
+      File::HomeDir: '0.58'
+      File::Path: '0'
+      File::Spec: '3.19'
+      File::Temp: '0.16'
+      IO::File: '0'
+      IPC::Cmd: '0.76'
+      Parse::CPAN::Meta: '0'
+      Probe::Perl: '0'
+      Test::Reporter: '1.54'
+      constant: '0'
+      perl: '5.008'
+      strict: '0'
+      vars: '0'
+  reqtype: c
+  sponsored_mods:
+    Devel::Autoflush: 1
+    Test::Reporter: 1
+  unwrapped: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 1
+    FAILED: ''
+    TEXT: YES
+    TIME: 1443219101
+  writemakefile: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 1
+    FAILED: ''
+    TEXT: YES
+    TIME: 1443219107
+perl:
+  $^X: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\bin\perl.exe
+  mtime_$^X: 1401480666
+  mtime_dll: 0
+  sitearchexp: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib
+time: 1443220642

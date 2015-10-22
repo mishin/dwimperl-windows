@@ -1,0 +1,1 @@
+{"dist":"HTML-TreeBuilder-LibXML-0.25","target":"HTML::TreeBuilder::LibXML","name":"HTML::TreeBuilder::LibXML","pathname":"T/TO/TOKUHIROM/HTML-TreeBuilder-LibXML-0.25.tar.gz","provides":{"HTML::TreeBuilder::LibXML":{"version":"0.25","file":"lib/HTML/TreeBuilder/LibXML.pm"},"HTML::TreeBuilder::LibXML::Node":{"file":"lib/HTML/TreeBuilder/LibXML/Node.pm"}},"version":"0.25"}

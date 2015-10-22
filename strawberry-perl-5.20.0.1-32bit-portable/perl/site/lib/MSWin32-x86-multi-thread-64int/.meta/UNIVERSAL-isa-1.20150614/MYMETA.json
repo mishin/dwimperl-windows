@@ -6,7 +6,7 @@
       "יובל קוג'מן (Yuval Kogman) <nothingmuch@woobling.org>"
    ],
    "dynamic_config" : 0,
-   "generated_by" : "Dist::Zilla version 5.037, CPAN::Meta::Converter version 2.150005, CPAN::Meta::Converter version 2.141170",
+   "generated_by" : "Dist::Zilla version 5.037, CPAN::Meta::Converter version 2.150005",
    "license" : [
       "perl_5"
    ],
@@ -1046,5 +1046,6 @@
       "Karen Etheridge <ether@cpan.org>",
       "Ricardo Signes <rjbs@cpan.org>"
    ],
-   "x_permissions_from_module" : "UNIVERSAL::isa"
+   "x_permissions_from_module" : "UNIVERSAL::isa",
+   "x_serialization_backend" : "JSON::PP version 2.27203"
 }

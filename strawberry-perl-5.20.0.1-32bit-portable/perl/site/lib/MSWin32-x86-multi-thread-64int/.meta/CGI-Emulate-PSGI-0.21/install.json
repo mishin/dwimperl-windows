@@ -1,0 +1,1 @@
+{"dist":"CGI-Emulate-PSGI-0.21","target":"CGI::Emulate::PSGI","provides":{"CGI::Emulate::PSGI":{"file":"lib/CGI/Emulate/PSGI.pm","version":"0.21"},"CGI::Parse::PSGI":{"file":"lib/CGI/Parse/PSGI.pm"}},"pathname":"M/MI/MIYAGAWA/CGI-Emulate-PSGI-0.21.tar.gz","version":"0.21","name":"CGI::Emulate::PSGI"}

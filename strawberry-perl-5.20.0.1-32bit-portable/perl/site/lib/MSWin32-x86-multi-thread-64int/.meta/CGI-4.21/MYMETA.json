@@ -4,7 +4,7 @@
       "unknown"
    ],
    "dynamic_config" : 0,
-   "generated_by" : "ExtUtils::MakeMaker version 7.0401, CPAN::Meta::Converter version 2.150001, CPAN::Meta::Converter version 2.141170",
+   "generated_by" : "ExtUtils::MakeMaker version 7.0401, CPAN::Meta::Converter version 2.150001, CPAN::Meta::Converter version 2.150005",
    "license" : [
       "unknown"
    ],
@@ -77,5 +77,6 @@
          "url" : "https://github.com/leejo/CGI.pm"
       }
    },
-   "version" : "4.21"
+   "version" : "4.21",
+   "x_serialization_backend" : "JSON::PP version 2.27203"
 }

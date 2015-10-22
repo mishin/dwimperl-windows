@@ -10,7 +10,7 @@ if %errorlevel% == 9009 echo You do not have Perl in your PATH.
 if errorlevel 1 goto script_failed_so_exit_with_non_zero_val 2>nul
 goto endofperl
 @rem ';
-#!C:\Users\TOSH\Documents\job\perl\deleted\str3_work\strawberry-perl-5.20.0.1-32bit-portable\perl\bin\perl.exe 
+#!C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\bin\perl.exe 
 #line 15
 # $Id: stemmer.pl,v 1.1 2007/05/07 11:35:25 ask Exp $
 # $Source: /opt/CVS/NoSnowball/examples/stemmer.pl,v $

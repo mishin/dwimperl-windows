@@ -5,7 +5,7 @@
       "Richard Dawe <richdawe@cpan.org>"
    ],
    "dynamic_config" : 0,
-   "generated_by" : "Dist::Zilla version 5.035, CPAN::Meta::Converter version 2.150001, CPAN::Meta::Converter version 2.141170",
+   "generated_by" : "Dist::Zilla version 5.035, CPAN::Meta::Converter version 2.150001, CPAN::Meta::Converter version 2.150005",
    "license" : [
       "apache_2_0"
    ],
@@ -102,5 +102,6 @@
    "x_authority" : "cpan:DAGOLDEN",
    "x_contributors" : [
       "Chris 'BinGOs' Williams <chris@bingosnet.co.uk>"
-   ]
+   ],
+   "x_serialization_backend" : "JSON::PP version 2.27203"
 }

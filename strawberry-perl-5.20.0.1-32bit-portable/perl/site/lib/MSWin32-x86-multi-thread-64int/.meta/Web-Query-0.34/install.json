@@ -1,0 +1,1 @@
+{"target":"Web::Query","dist":"Web-Query-0.34","name":"Web::Query","provides":{"Web::Query":{"version":"0.34","file":"lib/Web/Query.pm"},"Web::Query::LibXML":{"file":"lib/Web/Query/LibXML.pm","version":"0.34"}},"version":"0.34","pathname":"Y/YA/YANICK/Web-Query-0.34.tar.gz"}

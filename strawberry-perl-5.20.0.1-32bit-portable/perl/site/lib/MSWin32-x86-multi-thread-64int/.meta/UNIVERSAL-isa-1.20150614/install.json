@@ -1,1 +1,1 @@
-{"provides":{"UNIVERSAL::isa":{"file":"lib/UNIVERSAL/isa.pm","version":"1.20150614"}},"version":"1.20150614","pathname":"E/ET/ETHER/UNIVERSAL-isa-1.20150614.tar.gz","target":"UNIVERSAL::isa","dist":"UNIVERSAL-isa-1.20150614","name":"UNIVERSAL::isa"}
+{"target":"UNIVERSAL::isa","version":"1.20150614","name":"UNIVERSAL::isa","provides":{"UNIVERSAL::isa":{"version":"1.20150614","file":"lib/UNIVERSAL/isa.pm"}},"pathname":"E/ET/ETHER/UNIVERSAL-isa-1.20150614.tar.gz","dist":"UNIVERSAL-isa-1.20150614"}

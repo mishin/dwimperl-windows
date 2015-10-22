@@ -5,7 +5,7 @@
       "Ricardo Signes <rjbs@cpan.org>"
    ],
    "dynamic_config" : 0,
-   "generated_by" : "Dist::Zilla version 5.031, CPAN::Meta::Converter version 2.143240, CPAN::Meta::Converter version 2.141170",
+   "generated_by" : "Dist::Zilla version 5.031, CPAN::Meta::Converter version 2.143240, CPAN::Meta::Converter version 2.150005",
    "license" : [
       "apache_2_0"
    ],
@@ -101,5 +101,6 @@
    "x_contributors" : [
       "Alexandr Ciornii <alexchorny@gmail.com>",
       "David Steinbrunner <dsteinbrunner@pobox.com>"
-   ]
+   ],
+   "x_serialization_backend" : "JSON::PP version 2.27203"
 }

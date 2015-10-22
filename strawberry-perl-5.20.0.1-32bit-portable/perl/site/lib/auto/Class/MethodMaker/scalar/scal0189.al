@@ -3,9 +3,9 @@
 # See AutoSplit.pm.
 package Class::MethodMaker::scalar;
 
-#line 46194 "blib\lib\Class\MethodMaker\scalar.pm (autosplit into blib\lib\auto\Class\MethodMaker\scalar\scal0189.al)"
+#line 53904 "blib\lib\Class\MethodMaker\scalar.pm (autosplit into blib\lib\auto\Class\MethodMaker\scalar\scal0189.al)"
 #------------------
-# scalar static - typex - store_cb - default_ctor
+# scalar static - store_cb - default_ctor - typex
 
 sub scal0189 {
   my $class  = shift;

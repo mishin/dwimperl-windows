@@ -53,5 +53,6 @@
          "url" : "git://github.com/geofffranks/test-mockmodule.git"
       }
    },
-   "version" : "0.10"
+   "version" : "0.10",
+   "x_serialization_backend" : "JSON::PP version 2.27203"
 }

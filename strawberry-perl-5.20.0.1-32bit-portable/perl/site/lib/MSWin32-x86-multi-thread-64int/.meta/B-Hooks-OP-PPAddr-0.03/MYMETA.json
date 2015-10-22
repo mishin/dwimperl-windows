@@ -4,7 +4,7 @@
       "Florian Ragwitz <rafl@debian.org>"
    ],
    "dynamic_config" : 0,
-   "generated_by" : "Module::Install version 0.91, CPAN::Meta::Converter version 2.141170",
+   "generated_by" : "Module::Install version 0.91, CPAN::Meta::Converter version 2.150005",
    "license" : [
       "perl_5"
    ],
@@ -49,5 +49,6 @@
          "url" : "git://github.com/rafl/b-hooks-op-ppaddr.git"
       }
    },
-   "version" : "0.03"
+   "version" : "0.03",
+   "x_serialization_backend" : "JSON::PP version 2.27203"
 }

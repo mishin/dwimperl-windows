@@ -1,0 +1,55 @@
+=head1 NAME
+
+pdldoc - shell interface to PDL documentation
+
+=head1 SYNOPSIS
+
+B<pdldoc> <text>
+
+=head1 DESCRIPTION
+
+The aim of B<pdldoc> is to provide the same functionality
+as the C<apropos>, C<help>, C<sig>, 
+
+=head1 OPTIONS
+
+=over 5
+
+=item B<-h> help
+
+print documentation about a PDL function or module or show a PDL manual.
+This is the default option.
+
+=item B<-a> apropos
+
+Regex search PDL documentation database.
+
+=item B<-b> badinfo
+
+Information on the support for bad values provided by the function.
+
+=item B<-s> sig
+
+prints signature of PDL function.
+
+=item B<-u> usage
+
+Prints usage information for a PDL function.
+
+=item C<$PDL::Config{PDLDOC_IGNORE_AUTOLOADER}>
+
+This PDL configuration variable may be set in the perldl.conf
+file to disable runtime search for documentation in
+L<PDL::AutoLoader|PDL::AutoLoader> files.
+
+=back
+
+=head1 VERSION
+
+This is pdldoc version 0.3.
+
+=head1 AUTHOR
+
+Doug Burke <burke at ifa dot hawaii dot edu>.
+Chris Marshall <chm at cpan dot org>.
+

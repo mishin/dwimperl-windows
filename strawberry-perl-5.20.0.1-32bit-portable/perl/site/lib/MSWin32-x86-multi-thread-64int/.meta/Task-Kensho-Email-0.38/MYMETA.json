@@ -4,7 +4,7 @@
       "Chris Prather <chris@prather.org>"
    ],
    "dynamic_config" : 0,
-   "generated_by" : "Dist::Zilla version 5.020, CPAN::Meta::Converter version 2.142060, CPAN::Meta::Converter version 2.141170",
+   "generated_by" : "Dist::Zilla version 5.020, CPAN::Meta::Converter version 2.142060, CPAN::Meta::Converter version 2.150005",
    "license" : [
       "perl_5"
    ],
@@ -767,5 +767,6 @@
       "Karen Etheridge <ether@cpan.org>",
       "Leo Lapworth <leo@cuckoo.org>",
       "Chris Nehren <apeiron@cpan.org>"
-   ]
+   ],
+   "x_serialization_backend" : "JSON::PP version 2.27203"
 }

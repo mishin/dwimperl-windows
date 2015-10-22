@@ -4,7 +4,7 @@
       "Rafael Kitover <rkitover@cpan.org>"
    ],
    "dynamic_config" : 0,
-   "generated_by" : "Dist::Zilla version 4.300028, CPAN::Meta::Converter version 2.120921, CPAN::Meta::Converter version 2.141170",
+   "generated_by" : "Dist::Zilla version 4.300028, CPAN::Meta::Converter version 2.120921, CPAN::Meta::Converter version 2.150005",
    "license" : [
       "perl_5"
    ],
@@ -75,5 +75,6 @@
       }
    },
    "version" : "0.18",
-   "x_authority" : "cpan:AVAR"
+   "x_authority" : "cpan:AVAR",
+   "x_serialization_backend" : "JSON::PP version 2.27203"
 }

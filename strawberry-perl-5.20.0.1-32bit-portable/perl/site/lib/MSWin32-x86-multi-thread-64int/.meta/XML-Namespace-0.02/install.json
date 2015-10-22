@@ -1,1 +1,1 @@
-{"dist":"XML-Namespace-0.02","name":"XML::Namespace","target":"XML::Namespace","pathname":"A/AB/ABW/XML-Namespace-0.02.tar.gz","provides":{"XML::Namespace":{"file":"lib/XML/Namespace.pm","version":"0.02"}},"version":"0.02"}
+{"version":"0.02","pathname":"A/AB/ABW/XML-Namespace-0.02.tar.gz","dist":"XML-Namespace-0.02","provides":{"XML::Namespace":{"version":"0.02","file":"lib/XML/Namespace.pm"}},"name":"XML::Namespace","target":"XML::Namespace"}

@@ -1,0 +1,1 @@
+{"dist":"Perl-MinimumVersion-1.38","pathname":"N/NE/NEILB/Perl-MinimumVersion-1.38.tar.gz","target":"Perl::MinimumVersion","provides":{"Perl::MinimumVersion":{"version":"1.38","file":"lib/Perl/MinimumVersion.pm"},"Perl::MinimumVersion::Reason":{"file":"lib/Perl/MinimumVersion/Reason.pm","version":"1.38"}},"name":"Perl::MinimumVersion","version":"1.38"}

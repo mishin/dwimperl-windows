@@ -1,3 +1,0 @@
-This is just a plain old textfile that has a name that looks like
-"Rakefile" but indeed is not.  However, it should not match --rake
-or --ruby.

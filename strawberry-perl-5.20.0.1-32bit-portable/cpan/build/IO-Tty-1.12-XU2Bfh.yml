@@ -1,0 +1,37 @@
+---
+distribution: !!perl/hash:CPAN::Distribution
+  CALLED_FOR: IO::Pty
+  CHECKSUM_STATUS: OK
+  CONTAINSMODS:
+    IO::Pty: 1
+    IO::Tty: 1
+  ID: T/TO/TODDR/IO-Tty-1.12.tar.gz
+  RO:
+    CPAN_USERID: TODDR
+    CPAN_VERSION: '1.12'
+    DESCRIPTION: ~
+  archived: tar
+  build_dir: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\cpan\build\IO-Tty-1.12-XU2Bfh
+  localfile: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\cpan\sources\authors\id\T\TO\TODDR\IO-Tty-1.12.tar.gz
+  mandatory: ''
+  negative_prefs_cache: 1
+  prefs: {}
+  reqtype: r
+  should_report: 1
+  unwrapped: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 1
+    FAILED: ''
+    TEXT: YES
+    TIME: 1443294572
+  writemakefile: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 1
+    FAILED: 1
+    TEXT: NO 'C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\bin\perl.exe
+      Makefile.PL' returned status 65280
+    TIME: 1443294582
+perl:
+  $^X: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\bin\perl.exe
+  mtime_$^X: 1401480666
+  mtime_dll: 0
+  sitearchexp: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib
+time: 1443294582

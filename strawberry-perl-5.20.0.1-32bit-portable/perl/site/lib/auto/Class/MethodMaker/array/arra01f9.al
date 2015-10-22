@@ -5,7 +5,7 @@ package Class::MethodMaker::array;
 
 #line 117791 "blib\lib\Class\MethodMaker\array.pm (autosplit into blib\lib\auto\Class\MethodMaker\array\arra01f9.al)"
 #------------------
-# array read_cb - static - tie_class - typex - v1_compat - store_cb - default_ctor
+# array tie_class - v1_compat - store_cb - default_ctor - static - read_cb - typex
 
 sub arra01f9 {
   my $SENTINEL_CLEAR = \1;

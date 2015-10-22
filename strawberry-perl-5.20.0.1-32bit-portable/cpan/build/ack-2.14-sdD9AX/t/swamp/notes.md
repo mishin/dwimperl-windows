@@ -1,5 +1,0 @@
-# Notes
-
-  * One
-  * Two
-  * Three

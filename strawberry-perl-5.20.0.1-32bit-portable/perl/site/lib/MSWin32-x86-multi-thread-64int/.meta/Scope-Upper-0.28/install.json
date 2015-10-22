@@ -1,1 +1,1 @@
-{"pathname":"V/VP/VPIT/Scope-Upper-0.28.tar.gz","provides":{"Scope::Upper":{"file":"lib/Scope/Upper.pm","version":"0.28"}},"version":"0.28","name":"Scope::Upper","dist":"Scope-Upper-0.28","target":"Scope::Upper"}
+{"name":"Scope::Upper","version":"0.28","pathname":"V/VP/VPIT/Scope-Upper-0.28.tar.gz","dist":"Scope-Upper-0.28","target":"Scope::Upper","provides":{"Scope::Upper":{"file":"lib/Scope/Upper.pm","version":"0.28"}}}

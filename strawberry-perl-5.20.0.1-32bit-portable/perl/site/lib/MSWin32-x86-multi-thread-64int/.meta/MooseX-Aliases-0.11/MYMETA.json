@@ -6,7 +6,7 @@
       "Justin Hunter <justin.d.hunter@gmail.com>"
    ],
    "dynamic_config" : 0,
-   "generated_by" : "Dist::Zilla version 4.300034, CPAN::Meta::Converter version 2.120921, CPAN::Meta::Converter version 2.141170",
+   "generated_by" : "Dist::Zilla version 4.300034, CPAN::Meta::Converter version 2.120921, CPAN::Meta::Converter version 2.150005",
    "license" : [
       "perl_5"
    ],
@@ -314,5 +314,6 @@
       "Karen Etheridge <ether@cpan.org>",
       "Toby Inkster <mail@tobyinkster.co.uk>",
       "Yuval Kogman <nothingmuch@woobling.org>"
-   ]
+   ],
+   "x_serialization_backend" : "JSON::PP version 2.27203"
 }

@@ -1,3 +1,0 @@
-=head1 Dummy document
-
-=head2 There's important stuff in here!

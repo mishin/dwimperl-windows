@@ -4,7 +4,7 @@
       "Kazuho Oku"
    ],
    "dynamic_config" : 0,
-   "generated_by" : "Module::Install version 1.00, CPAN::Meta::Converter version 2.141170",
+   "generated_by" : "Module::Install version 1.00, CPAN::Meta::Converter version 2.150005",
    "license" : [
       "perl_5"
    ],
@@ -45,5 +45,6 @@
       ]
    },
    "version" : "0.04",
-   "x_module_name" : "Cache::LRU"
+   "x_module_name" : "Cache::LRU",
+   "x_serialization_backend" : "JSON::PP version 2.27203"
 }

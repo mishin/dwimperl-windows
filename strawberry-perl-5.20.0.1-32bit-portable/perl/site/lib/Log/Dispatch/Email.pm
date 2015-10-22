@@ -3,7 +3,7 @@ package Log::Dispatch::Email;
 use strict;
 use warnings;
 
-our $VERSION = '2.51';
+our $VERSION = '2.45';
 
 use Log::Dispatch::Output;
 
@@ -26,7 +26,7 @@ sub new {
                 type    => SCALAR,
                 default => "$program: log email"
             },
-            to => { type => SCALAR | ARRAYREF },
+            to   => { type => SCALAR | ARRAYREF },
             from => {
                 type     => SCALAR,
                 optional => 1
@@ -117,7 +117,7 @@ Log::Dispatch::Email - Base class for objects that send log messages via email
 
 =head1 VERSION
 
-version 2.51
+version 2.45
 
 =head1 SYNOPSIS
 

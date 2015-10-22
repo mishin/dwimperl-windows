@@ -5,7 +5,7 @@ package Class::MethodMaker::hash;
 
 #line 128795 "blib\lib\Class\MethodMaker\hash.pm (autosplit into blib\lib\auto\Class\MethodMaker\hash\hash0037.al)"
 #------------------
-# hash v1_compat - static - tie_class - type - default
+# hash tie_class - v1_compat - default - static - type
 
 sub hash0037 {
   my $class  = shift;

@@ -4,7 +4,7 @@
       "Maciej Ceglowski and Aaron Coburn <maciej@ceglowski.com>, <aaron@coburncuadrado.com>"
    ],
    "dynamic_config" : 0,
-   "generated_by" : "ExtUtils::MakeMaker version 6.66, CPAN::Meta::Converter version 2.133380, CPAN::Meta::Converter version 2.141170",
+   "generated_by" : "ExtUtils::MakeMaker version 6.66, CPAN::Meta::Converter version 2.133380, CPAN::Meta::Converter version 2.150005",
    "license" : [
       "gpl_3"
    ],
@@ -44,5 +44,6 @@
       }
    },
    "release_status" : "stable",
-   "version" : "0.25"
+   "version" : "0.25",
+   "x_serialization_backend" : "JSON::PP version 2.27203"
 }

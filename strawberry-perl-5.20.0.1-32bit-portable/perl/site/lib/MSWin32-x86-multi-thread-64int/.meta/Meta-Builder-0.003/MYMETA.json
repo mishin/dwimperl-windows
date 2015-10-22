@@ -51,5 +51,6 @@
          "url" : "http://github.com/exodist/Meta-Builder"
       }
    },
-   "version" : "0.003"
+   "version" : "0.003",
+   "x_serialization_backend" : "JSON::PP version 2.27203"
 }

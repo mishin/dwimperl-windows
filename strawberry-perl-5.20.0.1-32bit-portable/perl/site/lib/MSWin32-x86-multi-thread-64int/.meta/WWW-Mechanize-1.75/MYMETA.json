@@ -1,0 +1,99 @@
+{
+   "abstract" : "Handy web browsing in a Perl object",
+   "author" : [
+      "Jesse Vincent <jesse@bestpractical.com>"
+   ],
+   "dynamic_config" : 0,
+   "generated_by" : "ExtUtils::MakeMaker version 7.052, CPAN::Meta::Converter version 2.150001, CPAN::Meta::Converter version 2.150005",
+   "license" : [
+      "perl_5"
+   ],
+   "meta-spec" : {
+      "url" : "http://search.cpan.org/perldoc?CPAN::Meta::Spec",
+      "version" : "2"
+   },
+   "name" : "WWW-Mechanize",
+   "no_index" : {
+      "directory" : [
+         "t",
+         "inc"
+      ]
+   },
+   "prereqs" : {
+      "build" : {
+         "requires" : {
+            "ExtUtils::MakeMaker" : "0"
+         }
+      },
+      "configure" : {
+         "requires" : {
+            "ExtUtils::MakeMaker" : "0"
+         }
+      },
+      "runtime" : {
+         "requires" : {
+            "CGI" : "4.08",
+            "Carp" : "0",
+            "File::Temp" : "0",
+            "FindBin" : "0",
+            "Getopt::Long" : "0",
+            "HTML::Form" : "6",
+            "HTML::HeadParser" : "0",
+            "HTML::Parser" : "3.33",
+            "HTML::TokeParser" : "2.28",
+            "HTML::TreeBuilder" : "0",
+            "HTTP::Daemon" : "0",
+            "HTTP::Request" : "1.3",
+            "HTTP::Server::Simple" : "0.35",
+            "HTTP::Server::Simple::CGI" : "0",
+            "HTTP::Status" : "0",
+            "LWP" : "5.829",
+            "LWP::UserAgent" : "5.829",
+            "Pod::Usage" : "0",
+            "Test::More" : "0.34",
+            "Test::Warn" : "0.11",
+            "URI" : "1.36",
+            "URI::URL" : "0",
+            "URI::file" : "0",
+            "perl" : "5.008"
+         }
+      }
+   },
+   "release_status" : "stable",
+   "resources" : {
+      "bugtracker" : {
+         "web" : "http://code.google.com/p/www-mechanize/issues/list"
+      },
+      "homepage" : "https://github.com/libwww-perl/WWW-Mechanize",
+      "license" : [
+         "http://dev.perl.org/licenses/"
+      ],
+      "repository" : {
+         "type" : "git",
+         "url" : "https://github.com/libwww-perl/WWW-Mechanize.git",
+         "web" : "https://github.com/libwww-perl/WWW-Mechanize"
+      },
+      "x_MailingList" : "http://groups.google.com/group/www-mechanize-users"
+   },
+   "version" : "1.75",
+   "x_contributors" : [
+      "Andy Lester <andy@petdance.com>",
+      "Mark Stosberg <mark@summersault.com>",
+      "Karen Etheridge <ether@cpan.org>",
+      "Jesse Vincent <jesse@bestpractical.com>",
+      "Max Maischein <corion@cpan.org>",
+      "Flavio Poletti <flavio@polettix.it>",
+      "Gabor Szabo <szabgab@gmail.com>",
+      "David Steinbrunner <dsteinbrunner@pobox.com>",
+      "Matt S Trout <mst@shadowcat.co.uk>",
+      "sunnavy <sunnavy@bestpractical.com>",
+      "Jason May <jasonmay@bestpractical.com>",
+      "Alexandr Ciornii <alexchorny@gmail.com>",
+      "Kirrily 'Skud' Robert <skud@infotrope.net>",
+      "Olaf Alders <olaf@wundersolutions.com>",
+      "David Precious <davidp@preshweb.co.uk>",
+      "Ville Skyttä <ville.skytta@iki.fi>",
+      "Lars Dɪᴇᴄᴋᴏᴡ 迪拉斯 <daxim@cpan.org>"
+   ],
+   "x_serialization_backend" : "JSON::PP version 2.27203"
+}

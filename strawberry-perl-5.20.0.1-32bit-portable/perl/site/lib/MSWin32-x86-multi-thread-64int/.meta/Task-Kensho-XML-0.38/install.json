@@ -1,1 +1,1 @@
-{"pathname":"E/ET/ETHER/Task-Kensho-XML-0.38.tar.gz","provides":{"Task::Kensho::XML":{"file":"lib/Task/Kensho/XML.pm","version":"0.38"}},"version":"0.38","name":"Task::Kensho::XML","dist":"Task-Kensho-XML-0.38","target":"Task::Kensho::XML"}
+{"name":"Task::Kensho::XML","provides":{"Task::Kensho::XML":{"version":"0.38","file":"lib/Task/Kensho/XML.pm"}},"version":"0.38","pathname":"E/ET/ETHER/Task-Kensho-XML-0.38.tar.gz","dist":"Task-Kensho-XML-0.38","target":"Task::Kensho::XML"}

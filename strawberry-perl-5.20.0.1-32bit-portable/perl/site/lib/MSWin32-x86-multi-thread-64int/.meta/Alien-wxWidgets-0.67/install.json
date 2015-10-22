@@ -1,0 +1,1 @@
+{"target":"Alien::wxWidgets","name":"Alien::wxWidgets","version":"0.67","dist":"Alien-wxWidgets-0.67","pathname":"M/MD/MDOOTSON/Alien-wxWidgets-0.67.tar.gz","provides":{"Alien::wxWidgets":{"file":"lib/Alien/wxWidgets.pm","version":"0.67"},"Alien::wxWidgets::Utility":{"version":"0.59","file":"lib/Alien/wxWidgets/Utility.pm"}}}

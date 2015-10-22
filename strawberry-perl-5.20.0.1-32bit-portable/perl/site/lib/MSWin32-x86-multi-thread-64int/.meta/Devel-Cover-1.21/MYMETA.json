@@ -4,7 +4,7 @@
       "Paul Johnson <paul@pjcj.net>"
    ],
    "dynamic_config" : 0,
-   "generated_by" : "Dist::Zilla version 5.038, CPAN::Meta::Converter version 2.150001, CPAN::Meta::Converter version 2.141170",
+   "generated_by" : "Dist::Zilla version 5.038, CPAN::Meta::Converter version 2.150001, CPAN::Meta::Converter version 2.150005",
    "license" : [
       "perl_5"
    ],
@@ -605,5 +605,6 @@
          },
          "version" : "5.038"
       }
-   }
+   },
+   "x_serialization_backend" : "JSON::PP version 2.27203"
 }

@@ -1,1 +1,1 @@
-{"name":"CPAN::Perl::Releases","dist":"CPAN-Perl-Releases-2.38","target":"CPAN::Perl::Releases","pathname":"B/BI/BINGOS/CPAN-Perl-Releases-2.38.tar.gz","version":"2.38","provides":{"CPAN::Perl::Releases":{"file":"lib/CPAN/Perl/Releases.pm","version":"2.38"}}}
+{"name":"CPAN::Perl::Releases","pathname":"B/BI/BINGOS/CPAN-Perl-Releases-2.38.tar.gz","dist":"CPAN-Perl-Releases-2.38","provides":{"CPAN::Perl::Releases":{"file":"lib/CPAN/Perl/Releases.pm","version":"2.38"}},"version":"2.38","target":"CPAN::Perl::Releases"}

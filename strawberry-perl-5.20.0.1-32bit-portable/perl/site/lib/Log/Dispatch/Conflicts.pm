@@ -15,9 +15,7 @@ use Dist::CheckConflicts
         Carp
         Devel::GlobalDestruction
         Dist::CheckConflicts
-        Encode
         Fcntl
-        IO::Handle
         Module::Runtime
         Params::Validate
         Scalar::Util

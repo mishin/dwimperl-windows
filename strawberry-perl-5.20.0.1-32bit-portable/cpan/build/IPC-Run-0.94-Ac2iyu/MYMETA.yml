@@ -1,0 +1,30 @@
+---
+abstract: 'system() and background procs w/ piping, redirs, ptys (Unix, Win32)'
+author:
+  - 'Barrie Slaymaker <barries@slaysys.com>'
+build_requires:
+  ExtUtils::MakeMaker: '0'
+configure_requires:
+  ExtUtils::MakeMaker: '0'
+dynamic_config: 0
+generated_by: 'ExtUtils::MakeMaker version 7.04, CPAN::Meta::Converter version 2.143240, CPAN::Meta::Converter version 2.150005'
+license: perl
+meta-spec:
+  url: http://module-build.sourceforge.net/META-spec-v1.4.html
+  version: '1.4'
+name: IPC-Run
+no_index:
+  directory:
+    - t
+    - inc
+recommends:
+  IO::Pty: '1.08'
+requires:
+  Test::More: '0.47'
+  Win32::Process: '0.14'
+resources:
+  bugtracker: https://rt.cpan.org/NoAuth/Bugs.html?Dist=IPC-Run
+  license: http://dev.perl.org/licenses/
+  repository: https://github.com/toddr/IPC-Run
+version: '0.94'
+x_serialization_backend: 'CPAN::Meta::YAML version 0.012'

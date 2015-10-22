@@ -4,7 +4,7 @@
       "Randy Stauner <rwstauner@cpan.org>"
    ],
    "dynamic_config" : 0,
-   "generated_by" : "Dist::Zilla version 5.036, CPAN::Meta::Converter version 2.150001, CPAN::Meta::Converter version 2.141170",
+   "generated_by" : "Dist::Zilla version 5.036, CPAN::Meta::Converter version 2.150001, CPAN::Meta::Converter version 2.150005",
    "license" : [
       "perl_5"
    ],
@@ -774,5 +774,6 @@
          "version" : "5.036"
       }
    },
-   "x_authority" : "cpan:RWSTAUNER"
+   "x_authority" : "cpan:RWSTAUNER",
+   "x_serialization_backend" : "JSON::PP version 2.27203"
 }

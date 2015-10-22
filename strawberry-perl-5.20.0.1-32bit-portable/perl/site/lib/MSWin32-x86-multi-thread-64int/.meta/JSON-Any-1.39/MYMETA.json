@@ -8,7 +8,7 @@
       "Tomas Doran <bobtfish@bobtfish.net>"
    ],
    "dynamic_config" : 0,
-   "generated_by" : "Dist::Zilla version 5.037, CPAN::Meta::Converter version 2.150005, CPAN::Meta::Converter version 2.141170",
+   "generated_by" : "Dist::Zilla version 5.037, CPAN::Meta::Converter version 2.150005",
    "keywords" : [
       "json",
       "serialization",
@@ -1113,5 +1113,6 @@
       "Matthew Horsfall <wolfsage@gmail.com>"
    ],
    "x_deprecated" : 1,
-   "x_permissions_from_module" : "JSON::Any"
+   "x_permissions_from_module" : "JSON::Any",
+   "x_serialization_backend" : "JSON::PP version 2.27203"
 }

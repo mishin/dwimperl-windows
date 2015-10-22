@@ -1,0 +1,82 @@
+---
+distribution: !!perl/hash:CPAN::Distribution
+  CALLED_FOR: Test::Reporter
+  CHECKSUM_STATUS: OK
+  CONTAINSMODS:
+    Test::Reporter: 1
+    Test::Reporter::Transport: 1
+    Test::Reporter::Transport::File: 1
+    Test::Reporter::Transport::Null: 1
+  ID: D/DA/DAGOLDEN/Test-Reporter-1.62.tar.gz
+  RO:
+    CPAN_USERID: DAGOLDEN
+    CPAN_VERSION: '1.62'
+    DESCRIPTION: ~
+  archived: tar
+  build_dir: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\cpan\build\Test-Reporter-1.62-KVdtqR
+  incommandcolor: 2
+  install: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 1
+    FAILED: ''
+    TEXT: YES
+    TIME: 1443219277
+  localfile: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\cpan\sources\authors\id\D\DA\DAGOLDEN\Test-Reporter-1.62.tar.gz
+  make: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 1
+    FAILED: ''
+    TEXT: YES
+    TIME: 1443219265
+  make_test: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 1
+    FAILED: ''
+    TEXT: YES
+    TIME: 1443219275
+  mandatory: 1
+  negative_prefs_cache: 1
+  prefs:
+    install: {}
+  prereq_pm:
+    build_requires:
+      Data::Dumper: '0'
+      ExtUtils::MakeMaker: '0'
+      File::Find: '0'
+      File::Spec: '0'
+      Test::More: '0.88'
+    opt_build_requires:
+      CPAN::Meta: '2.120900'
+    opt_requires:
+      Mail::Send: '0'
+      Net::DNS: '0'
+      Net::Domain: '0'
+      Net::SMTP: '0'
+    requires:
+      Carp: '0'
+      Cwd: '0'
+      File::Temp: '0'
+      FileHandle: '0'
+      Sys::Hostname: '0'
+      Time::Local: '0'
+      base: '0'
+      constant: '0'
+      perl: '5.006'
+      strict: '0'
+      vars: '0'
+      warnings: '0'
+  reqtype: r
+  sponsored_mods: {}
+  unwrapped: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 1
+    FAILED: ''
+    TEXT: YES
+    TIME: 1443219199
+  writemakefile: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 1
+    FAILED: ''
+    TEXT: YES
+    TIME: 1443219203
+perl:
+  $^X: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\bin\perl.exe
+  mtime_$^X: 1401480666
+  mtime_dll: 0
+  sitearchexp: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib
+time: 1443219277

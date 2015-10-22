@@ -4,7 +4,7 @@
       "Barbie <barbie@cpan.org>"
    ],
    "dynamic_config" : 0,
-   "generated_by" : "The Hand of Barbie 1.0, CPAN::Meta::Converter version 2.141170",
+   "generated_by" : "The Hand of Barbie 1.0, CPAN::Meta::Converter version 2.150005",
    "keywords" : [
       "qa",
       "cpan",
@@ -83,5 +83,6 @@
          "web" : "http://github.com/barbie/Test-CPAN-Meta"
       }
    },
-   "version" : "0.25"
+   "version" : "0.25",
+   "x_serialization_backend" : "JSON::PP version 2.27203"
 }

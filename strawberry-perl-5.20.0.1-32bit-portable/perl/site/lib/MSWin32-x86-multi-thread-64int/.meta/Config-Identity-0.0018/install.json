@@ -1,0 +1,1 @@
+{"pathname":"R/RO/ROKR/Config-Identity-0.0018.tar.gz","version":"0.0018","target":"Config::Identity","provides":{"Config::Identity::GitHub":{"file":"lib/Config/Identity/GitHub.pm"},"Config::Identity::PAUSE":{"file":"lib/Config/Identity/PAUSE.pm"},"Config::Identity":{"file":"lib/Config/Identity.pm","version":"0.0018"}},"name":"Config::Identity","dist":"Config-Identity-0.0018"}

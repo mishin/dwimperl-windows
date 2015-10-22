@@ -1,0 +1,3 @@
+Package: netcdf-4.3.2
+Sources: ftp://ftp.unidata.ucar.edu/pub/netcdf/netcdf-4.3.2.tar.gz
+Homepage: http://www.unidata.ucar.edu/software/netcdf/

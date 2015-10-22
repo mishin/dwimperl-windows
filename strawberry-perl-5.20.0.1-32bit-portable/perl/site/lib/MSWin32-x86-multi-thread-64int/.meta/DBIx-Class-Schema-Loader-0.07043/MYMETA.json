@@ -4,7 +4,7 @@
       "blblack: Brandon Black <blblack@gmail.com>"
    ],
    "dynamic_config" : 0,
-   "generated_by" : "Module::Install version 1.14, CPAN::Meta::Converter version 2.141170",
+   "generated_by" : "Module::Install version 1.14, CPAN::Meta::Converter version 2.150005",
    "license" : [
       "perl_5"
    ],
@@ -86,5 +86,6 @@
       "x_IRC" : "irc://irc.perl.org/#dbix-class",
       "x_MailingList" : "http://lists.scsys.co.uk/cgi-bin/mailman/listinfo/dbix-class"
    },
-   "version" : "0.07043"
+   "version" : "0.07043",
+   "x_serialization_backend" : "JSON::PP version 2.27203"
 }

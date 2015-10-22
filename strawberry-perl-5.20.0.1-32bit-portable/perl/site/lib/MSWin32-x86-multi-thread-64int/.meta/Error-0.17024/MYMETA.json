@@ -58,5 +58,6 @@
          "url" : "https://bitbucket.org/shlomif/perl-error.pm"
       }
    },
-   "version" : "0.17024"
+   "version" : "0.17024",
+   "x_serialization_backend" : "JSON::PP version 2.27203"
 }

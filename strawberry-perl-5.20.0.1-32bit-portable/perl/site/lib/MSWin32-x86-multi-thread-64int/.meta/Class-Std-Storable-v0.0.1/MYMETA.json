@@ -1,0 +1,30 @@
+{
+   "abstract" : "unknown",
+   "author" : [
+      "unknown"
+   ],
+   "dynamic_config" : 0,
+   "generated_by" : "Module::Build version 0.4205",
+   "license" : [
+      "unknown"
+   ],
+   "meta-spec" : {
+      "url" : "http://search.cpan.org/perldoc?CPAN::Meta::Spec",
+      "version" : "2"
+   },
+   "name" : "Class-Std-Storable",
+   "prereqs" : {
+      "runtime" : {
+         "requires" : {
+            "Class::Std" : "v0.0.4",
+            "Test::More" : "0",
+            "version" : "0"
+         }
+      }
+   },
+   "release_status" : "stable",
+   "version" : "v0.0.1",
+   "x_installdirs" : "site",
+   "x_serialization_backend" : "JSON::PP version 2.27203",
+   "x_version_from" : "lib/Class/Std/Storable.pm"
+}

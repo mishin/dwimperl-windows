@@ -1,1 +1,1 @@
-{"version":"0.048","provides":{"Data::GUID":{"file":"lib/Data/GUID.pm","version":"0.048"}},"name":"Data::GUID","pathname":"R/RJ/RJBS/Data-GUID-0.048.tar.gz","target":"Data::GUID","dist":"Data-GUID-0.048"}
+{"target":"Data::GUID","dist":"Data-GUID-0.048","version":"0.048","name":"Data::GUID","provides":{"Data::GUID":{"version":"0.048","file":"lib/Data/GUID.pm"}},"pathname":"R/RJ/RJBS/Data-GUID-0.048.tar.gz"}

@@ -1,0 +1,1 @@
+{"target":"Pod::Markdown","dist":"Pod-Markdown-3.002","pathname":"R/RW/RWSTAUNER/Pod-Markdown-3.002.tar.gz","provides":{"Pod::Perldoc::ToMarkdown":{"file":"lib/Pod/Perldoc/ToMarkdown.pm","version":"3.002"},"Pod::Markdown":{"version":"3.002","file":"lib/Pod/Markdown.pm"}},"name":"Pod::Markdown","version":"3.002"}

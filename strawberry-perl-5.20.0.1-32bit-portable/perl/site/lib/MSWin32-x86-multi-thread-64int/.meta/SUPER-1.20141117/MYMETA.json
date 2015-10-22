@@ -36,5 +36,6 @@
          "url" : "https://github.com/chromatic/SUPER.git"
       }
    },
-   "version" : "1.20141117"
+   "version" : "1.20141117",
+   "x_serialization_backend" : "JSON::PP version 2.27203"
 }

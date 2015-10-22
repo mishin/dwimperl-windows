@@ -4,7 +4,7 @@
       "Shlomi Fish <shlomif@cpan.org>"
    ],
    "dynamic_config" : 0,
-   "generated_by" : "Dist::Zilla version 5.031, CPAN::Meta::Converter version 2.142060, CPAN::Meta::Converter version 2.141170",
+   "generated_by" : "Dist::Zilla version 5.031, CPAN::Meta::Converter version 2.142060, CPAN::Meta::Converter version 2.150005",
    "license" : [
       "artistic_2"
    ],
@@ -60,5 +60,6 @@
          "url" : "https://github.com/shlomif/perl-Digest-JHash.git"
       }
    },
-   "version" : "0.09"
+   "version" : "0.09",
+   "x_serialization_backend" : "JSON::PP version 2.27203"
 }

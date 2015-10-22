@@ -1,0 +1,37 @@
+{
+   "abstract" : "Interactively prompt for user input",
+   "author" : [
+      "Damian Conway <DCONWAY@cpan.org>"
+   ],
+   "dynamic_config" : 0,
+   "generated_by" : "Module::Build version 0.4205",
+   "license" : [
+      "unknown"
+   ],
+   "meta-spec" : {
+      "url" : "http://search.cpan.org/perldoc?CPAN::Meta::Spec",
+      "version" : "2"
+   },
+   "name" : "IO-Prompt",
+   "no_index" : {
+      "directory" : [
+         "t",
+         "inc"
+      ]
+   },
+   "prereqs" : {
+      "runtime" : {
+         "requires" : {
+            "IO::Handle" : "0",
+            "POSIX" : "0",
+            "Term::ReadKey" : "0",
+            "Test::More" : "0",
+            "Want" : "0",
+            "version" : "0"
+         }
+      }
+   },
+   "release_status" : "stable",
+   "version" : "0.997003",
+   "x_serialization_backend" : "JSON::PP version 2.27203"
+}

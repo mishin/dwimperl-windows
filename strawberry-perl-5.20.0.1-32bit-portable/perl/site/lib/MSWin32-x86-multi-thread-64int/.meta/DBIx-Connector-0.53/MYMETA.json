@@ -93,5 +93,6 @@
          "url" : "http://github.com/theory/dbix-connector/tree/"
       }
    },
-   "version" : "0.53"
+   "version" : "0.53",
+   "x_serialization_backend" : "JSON::PP version 2.27203"
 }

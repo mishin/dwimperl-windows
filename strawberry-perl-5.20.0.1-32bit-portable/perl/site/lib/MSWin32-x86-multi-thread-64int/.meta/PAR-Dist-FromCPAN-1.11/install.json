@@ -1,0 +1,1 @@
+{"name":"PAR::Dist::FromCPAN","pathname":"S/SM/SMUELLER/PAR-Dist-FromCPAN-1.11.tar.gz","dist":"PAR-Dist-FromCPAN-1.11","target":"PAR::Dist::FromCPAN","provides":{"PAR::Dist::FromCPAN":{"version":"1.11","file":"lib/PAR/Dist/FromCPAN.pm"}},"version":"1.11"}

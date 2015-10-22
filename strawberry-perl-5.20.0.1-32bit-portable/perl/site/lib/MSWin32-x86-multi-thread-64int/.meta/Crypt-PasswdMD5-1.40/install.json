@@ -1,0 +1,1 @@
+{"name":"Crypt::PasswdMD5","pathname":"R/RS/RSAVAGE/Crypt-PasswdMD5-1.40.tgz","version":"1.40","dist":"Crypt-PasswdMD5-1.40","provides":{"Crypt::PasswdMD5":{"version":"1.40","file":"lib/Crypt/PasswdMD5.pm"}},"target":"Crypt::PasswdMD5"}

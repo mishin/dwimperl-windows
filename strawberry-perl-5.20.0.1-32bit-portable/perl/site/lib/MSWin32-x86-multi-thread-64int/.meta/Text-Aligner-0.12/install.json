@@ -1,1 +1,1 @@
-{"name":"Text::Aligner","dist":"Text-Aligner-0.12","target":"Text::Aligner","pathname":"S/SH/SHLOMIF/Text-Aligner-0.12.tar.gz","version":"0.12","provides":{"Text::Aligner":{"file":"lib/Text/Aligner.pm","version":"0.12"}}}
+{"provides":{"Text::Aligner":{"file":"lib/Text/Aligner.pm","version":"0.12"}},"name":"Text::Aligner","version":"0.12","pathname":"S/SH/SHLOMIF/Text-Aligner-0.12.tar.gz","dist":"Text-Aligner-0.12","target":"Text::Aligner"}

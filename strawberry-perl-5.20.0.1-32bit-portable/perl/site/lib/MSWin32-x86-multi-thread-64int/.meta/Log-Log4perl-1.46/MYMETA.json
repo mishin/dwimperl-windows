@@ -4,7 +4,7 @@
       "Mike Schilli <m@perlmeister.com>"
    ],
    "dynamic_config" : 0,
-   "generated_by" : "ExtUtils::MakeMaker version 6.66, CPAN::Meta::Converter version 2.142690, CPAN::Meta::Converter version 2.141170",
+   "generated_by" : "ExtUtils::MakeMaker version 6.66, CPAN::Meta::Converter version 2.142690, CPAN::Meta::Converter version 2.150005",
    "license" : [
       "unknown"
    ],
@@ -45,5 +45,6 @@
       },
       "x_MailingList" : "mailto:log4perl-devel@lists.sourceforge.net"
    },
-   "version" : "1.46"
+   "version" : "1.46",
+   "x_serialization_backend" : "JSON::PP version 2.27203"
 }

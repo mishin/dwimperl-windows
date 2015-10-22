@@ -1,1 +1,1 @@
-{"pathname":"E/ET/ETHER/Task-Kensho-Logging-0.38.tar.gz","version":"0.38","provides":{"Task::Kensho::Logging":{"version":"0.38","file":"lib/Task/Kensho/Logging.pm"}},"dist":"Task-Kensho-Logging-0.38","name":"Task::Kensho::Logging","target":"Task::Kensho::Logging"}
+{"provides":{"Task::Kensho::Logging":{"file":"lib/Task/Kensho/Logging.pm","version":"0.38"}},"dist":"Task-Kensho-Logging-0.38","version":"0.38","target":"Task::Kensho::Logging","name":"Task::Kensho::Logging","pathname":"E/ET/ETHER/Task-Kensho-Logging-0.38.tar.gz"}

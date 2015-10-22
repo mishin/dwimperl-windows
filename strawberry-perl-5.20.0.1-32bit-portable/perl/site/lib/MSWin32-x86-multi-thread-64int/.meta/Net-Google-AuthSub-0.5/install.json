@@ -1,0 +1,1 @@
+{"pathname":"S/SI/SIMONW/Net-Google-AuthSub-0.5.tar.gz","dist":"Net-Google-AuthSub-0.5","version":"0.5","target":"Net::Google::AuthSub","name":"Net::Google::AuthSub","provides":{"Net::Google::AuthSub::Response":{"file":"lib/Net/Google/AuthSub/Response.pm"},"Net::Google::AuthSub":{"version":"0.5","file":"lib/Net/Google/AuthSub.pm"}}}

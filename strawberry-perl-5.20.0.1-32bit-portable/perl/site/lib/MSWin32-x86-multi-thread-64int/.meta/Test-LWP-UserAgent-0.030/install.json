@@ -1,0 +1,1 @@
+{"name":"Test::LWP::UserAgent","pathname":"E/ET/ETHER/Test-LWP-UserAgent-0.030.tar.gz","version":"0.030","provides":{"Test::LWP::UserAgent":{"version":"0.030","file":"lib/Test/LWP/UserAgent.pm"}},"dist":"Test-LWP-UserAgent-0.030","target":"Test::LWP::UserAgent"}

@@ -1,0 +1,67 @@
+---
+distribution: !!perl/hash:CPAN::Distribution
+  CALLED_FOR: Archive::Zip
+  CHECKSUM_STATUS: OK
+  CONTAINSMODS:
+    Archive::Zip: 1
+    Archive::Zip::Archive: 1
+    Archive::Zip::BufferedFileHandle: 1
+    Archive::Zip::DirectoryMember: 1
+    Archive::Zip::FileMember: 1
+    Archive::Zip::Member: 1
+    Archive::Zip::MemberRead: 1
+    Archive::Zip::MockFileHandle: 1
+    Archive::Zip::NewFileMember: 1
+    Archive::Zip::StringMember: 1
+    Archive::Zip::Tree: 1
+    Archive::Zip::ZipFileMember: 1
+  ID: P/PH/PHRED/Archive-Zip-1.50.tar.gz
+  RO:
+    CPAN_USERID: PHRED
+    CPAN_VERSION: '1.50'
+    DESCRIPTION: ~
+  archived: tar
+  build_dir: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\cpan\build\Archive-Zip-1.50-a9Jxrc
+  localfile: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\cpan\sources\authors\id\P\PH\PHRED\Archive-Zip-1.50.tar.gz
+  make: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 0
+    FAILED: ''
+    TEXT: YES
+    TIME: 1442027310
+  negative_prefs_cache: 0
+  prefs: {}
+  prereq_pm:
+    build_requires:
+      Test::More: '0.88'
+    opt_build_requires: {}
+    opt_requires: {}
+    requires:
+      Compress::Raw::Zlib: '2.017'
+      File::Basename: '0'
+      File::Copy: '0'
+      File::Find: '0'
+      File::Path: '0'
+      File::Spec: '0.80'
+      File::Temp: '0'
+      IO::File: '0'
+      IO::Handle: '0'
+      IO::Seekable: '0'
+      Time::Local: '0'
+      perl: '5.006'
+  reqtype: ~
+  unwrapped: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 0
+    FAILED: ''
+    TEXT: YES
+    TIME: 1442027276
+  writemakefile: !!perl/hash:CPAN::Distrostatus
+    COMMANDID: 0
+    FAILED: ''
+    TEXT: YES
+    TIME: 1442027279
+perl:
+  $^X: c:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\bin\perl.exe
+  mtime_$^X: 1401480666
+  mtime_dll: 0
+  sitearchexp: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib
+time: 1442027310

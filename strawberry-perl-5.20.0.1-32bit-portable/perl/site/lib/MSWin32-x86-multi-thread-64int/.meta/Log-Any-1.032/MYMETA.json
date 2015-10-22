@@ -5,7 +5,7 @@
       "David Golden <dagolden@cpan.org>"
    ],
    "dynamic_config" : 0,
-   "generated_by" : "Dist::Zilla version 5.034, CPAN::Meta::Converter version 2.150001, CPAN::Meta::Converter version 2.141170",
+   "generated_by" : "Dist::Zilla version 5.034, CPAN::Meta::Converter version 2.150001, CPAN::Meta::Converter version 2.150005",
    "license" : [
       "perl_5"
    ],
@@ -153,5 +153,6 @@
    "x_contributors" : [
       "Maxim Vuets <maxim.vuets@booking.com>",
       "Stephen Thirlwall <sdt@dr.com>"
-   ]
+   ],
+   "x_serialization_backend" : "JSON::PP version 2.27203"
 }

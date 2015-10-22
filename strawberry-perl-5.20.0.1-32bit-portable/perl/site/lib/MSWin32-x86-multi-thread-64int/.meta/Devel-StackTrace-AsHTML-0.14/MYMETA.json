@@ -4,7 +4,7 @@
       "Tatsuhiko Miyagawa <miyagawa@bulknews.net>"
    ],
    "dynamic_config" : 0,
-   "generated_by" : "Module::Install version 1.06, CPAN::Meta::Converter version 2.141170",
+   "generated_by" : "Module::Install version 1.06, CPAN::Meta::Converter version 2.150005",
    "license" : [
       "perl_5"
    ],
@@ -50,5 +50,6 @@
          "url" : "git://github.com/miyagawa/Devel-StackTrace-AsHTML.git"
       }
    },
-   "version" : "0.14"
+   "version" : "0.14",
+   "x_serialization_backend" : "JSON::PP version 2.27203"
 }

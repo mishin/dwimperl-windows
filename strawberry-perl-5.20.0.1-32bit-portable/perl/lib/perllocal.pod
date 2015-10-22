@@ -7852,13 +7852,13 @@ C<EXE_FILES: >
 
 =back
 
-=head2 Fri Sep 25 02:10:31 2015: C<Module> L<Devel::Symdump|Devel::Symdump>
+=head2 Sat May 31 03:13:33 2014: C<Module> L<Getopt::Long::Descriptive|Getopt::Long::Descriptive>
 
 =over 4
 
 =item *
 
-C<installed into: C:\Users\TOSH\Documents\job\perl\deleted\str3_work\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
+C<installed into: C:\strawberry\perl\vendor\lib>
 
 =item *
 
@@ -7866,7 +7866,7 @@ C<LINKTYPE: dynamic>
 
 =item *
 
-C<VERSION: 2.15>
+C<VERSION: 0.097>
 
 =item *
 
@@ -7874,3731 +7874,13 @@ C<EXE_FILES: >
 
 =back
 
-=head2 Fri Sep 25 02:10:57 2015: C<Module> L<Pod::Coverage|Pod::Coverage>
+=head2 Sat May 31 03:15:04 2014: C<Module> L<PadWalker|PadWalker>
 
 =over 4
 
 =item *
 
-C<installed into: C:\Users\TOSH\Documents\job\perl\deleted\str3_work\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 0.23>
-
-=item *
-
-C<EXE_FILES: bin/pod_cover>
-
-=back
-
-=head2 Fri Sep 25 02:11:48 2015: C<Module> L<PerlIO::utf8_strict|PerlIO::utf8_strict>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\job\perl\deleted\str3_work\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 0.006>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Fri Sep 25 02:12:05 2015: C<Module> L<Mixin::Linewise|Mixin::Linewise>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\job\perl\deleted\str3_work\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 0.108>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Fri Sep 25 02:12:22 2015: C<Module> L<Pod::Eventual|Pod::Eventual>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\job\perl\deleted\str3_work\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 0.094001>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Fri Sep 25 02:12:38 2015: C<Module> L<Pod::Coverage::TrustPod|Pod::Coverage::TrustPod>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\job\perl\deleted\str3_work\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 0.100003>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Fri Sep 25 02:13:51 2015: C<Module> L<Test::SharedFork|Test::SharedFork>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\job\perl\deleted\str3_work\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 0.33>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Fri Sep 25 02:14:51 2015: C<Module> L<Test::TCP|Test::TCP>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\job\perl\deleted\str3_work\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 2.13>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Fri Sep 25 02:38:52 2015: C<Module> L<Test::Pod|Test::Pod>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\job\perl\deleted\str3_work\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 1.51>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Fri Sep 25 02:39:22 2015: C<Module> L<PadWalker|PadWalker>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\job\perl\deleted\str3_work\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 2.1>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Fri Sep 25 02:39:43 2015: C<Module> L<Devel::Cycle|Devel::Cycle>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\job\perl\deleted\str3_work\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 1.12>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Fri Sep 25 02:40:25 2015: C<Module> L<Test::Memory::Cycle|Test::Memory::Cycle>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\job\perl\deleted\str3_work\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 1.04>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Fri Sep 25 02:46:54 2015: C<Module> L<Devel::Cover|Devel::Cover>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\job\perl\deleted\str3_work\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 1.21>
-
-=item *
-
-C<EXE_FILES: bin/cover bin/gcov2perl bin/cpancover>
-
-=back
-
-=head2 Fri Sep 25 02:47:22 2015: C<Module> L<Test::Pod::Coverage|Test::Pod::Coverage>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\job\perl\deleted\str3_work\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 1.10>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Fri Sep 25 02:48:05 2015: C<Module> L<Carp::Assert|Carp::Assert>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\job\perl\deleted\str3_work\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 0.21>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Fri Sep 25 02:48:35 2015: C<Module> L<Carp::Assert::More|Carp::Assert::More>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\job\perl\deleted\str3_work\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 1.14>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Fri Sep 25 02:48:55 2015: C<Module> L<Test::LongString|Test::LongString>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\job\perl\deleted\str3_work\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 0.17>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Fri Sep 25 02:49:49 2015: C<Module> L<Test::WWW::Mechanize|Test::WWW::Mechanize>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\job\perl\deleted\str3_work\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 1.44>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Fri Sep 25 02:50:11 2015: C<Module> L<WWW::Mechanize::TreeBuilder|WWW::Mechanize::TreeBuilder>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\job\perl\deleted\str3_work\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 1.20000>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Fri Sep 25 02:50:50 2015: C<Module> L<UNIVERSAL::can|UNIVERSAL::can>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\job\perl\deleted\str3_work\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 1.20140328>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Fri Sep 25 02:51:19 2015: C<Module> L<UNIVERSAL::isa|UNIVERSAL::isa>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\job\perl\deleted\str3_work\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 1.20150614>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Fri Sep 25 02:52:14 2015: C<Module> L<CGI|CGI>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\job\perl\deleted\str3_work\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 4.21>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Fri Sep 25 02:52:39 2015: C<Module> L<Test::MockObject|Test::MockObject>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\job\perl\deleted\str3_work\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 1.20150527>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Fri Sep 25 02:52:57 2015: C<Module> L<Test::Mock::LWP|Test::Mock::LWP>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\job\perl\deleted\str3_work\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 0.08>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Fri Sep 25 02:53:24 2015: C<Module> L<Test::WWW::Selenium|Test::WWW::Selenium>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\job\perl\deleted\str3_work\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 1.36>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Fri Sep 25 02:53:47 2015: C<Module> L<Hash::MultiValue|Hash::MultiValue>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\job\perl\deleted\str3_work\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 0.16>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Fri Sep 25 02:54:03 2015: C<Module> L<Safe::Isa|Safe::Isa>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\job\perl\deleted\str3_work\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 1.000005>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Fri Sep 25 02:54:18 2015: C<Module> L<HTTP::Thin|HTTP::Thin>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\job\perl\deleted\str3_work\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 0.006>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Fri Sep 25 02:54:50 2015: C<Module> L<Task::Moose|Task::Moose>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\job\perl\deleted\str3_work\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 0.03>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Fri Sep 25 02:55:18 2015: C<Module> L<XML::Generator::PerlData|XML::Generator::PerlData>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\job\perl\deleted\str3_work\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 0.93>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Fri Sep 25 02:57:44 2015: C<Module> L<Log::Log4perl|Log::Log4perl>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\job\perl\deleted\str3_work\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 1.46>
-
-=item *
-
-C<EXE_FILES: eg/l4p-tmpl>
-
-=back
-
-=head2 Fri Sep 25 02:58:24 2015: C<Module> L<MooseX::ArrayRef|MooseX::ArrayRef>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\job\perl\deleted\str3_work\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 0.005>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Fri Sep 25 02:59:04 2015: C<Module> L<Sub::Identify|Sub::Identify>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\job\perl\deleted\str3_work\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 0.12>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Fri Sep 25 02:59:57 2015: C<Module> L<Data::UUID|Data::UUID>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\job\perl\deleted\str3_work\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 1.221>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Fri Sep 25 03:00:19 2015: C<Module> L<Set::Scalar|Set::Scalar>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\job\perl\deleted\str3_work\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 1.29>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Fri Sep 25 03:00:35 2015: C<Module> L<XML::Namespace|XML::Namespace>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\job\perl\deleted\str3_work\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 0.02>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Fri Sep 25 03:01:29 2015: C<Module> L<Test::Without::Module|Test::Without::Module>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\job\perl\deleted\str3_work\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 0.18>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Fri Sep 25 03:01:50 2015: C<Module> L<JSON::Any|JSON::Any>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\job\perl\deleted\str3_work\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 1.39>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Fri Sep 25 03:02:39 2015: C<Module> L<Algorithm::Combinatorics|Algorithm::Combinatorics>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\job\perl\deleted\str3_work\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 0.27>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Fri Sep 25 03:03:08 2015: C<Module> L<B::Hooks::OP::PPAddr|B::Hooks::OP::PPAddr>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\job\perl\deleted\str3_work\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 0.03>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Fri Sep 25 03:04:47 2015: C<Module> L<Scope::Upper|Scope::Upper>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\job\perl\deleted\str3_work\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 0.28>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Fri Sep 25 03:05:33 2015: C<Module> L<TryCatch|TryCatch>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\job\perl\deleted\str3_work\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 1.003002>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Fri Sep 25 03:05:53 2015: C<Module> L<XML::NamespaceFactory|XML::NamespaceFactory>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\job\perl\deleted\str3_work\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 1.02>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Fri Sep 25 03:06:18 2015: C<Module> L<Cache::LRU|Cache::LRU>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\job\perl\deleted\str3_work\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 0.04>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Fri Sep 25 03:07:03 2015: C<Module> L<Data::Perl|Data::Perl>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\job\perl\deleted\str3_work\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 0.002009>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Fri Sep 25 03:07:28 2015: C<Module> L<MooX::HandlesVia|MooX::HandlesVia>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\job\perl\deleted\str3_work\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 0.001008>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Fri Sep 25 03:07:59 2015: C<Module> L<Exporter::Tiny|Exporter::Tiny>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\job\perl\deleted\str3_work\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 0.042>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Fri Sep 25 03:10:39 2015: C<Module> L<Type::Tiny|Type::Tiny>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\job\perl\deleted\str3_work\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 1.000005>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Fri Sep 25 03:10:56 2015: C<Module> L<IRI|IRI>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\job\perl\deleted\str3_work\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 0.004>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Fri Sep 25 03:16:13 2015: C<Module> L<RDF::Trine|RDF::Trine>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\job\perl\deleted\str3_work\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 1.014>
-
-=item *
-
-C<EXE_FILES: bin/srx2csv bin/srx2table>
-
-=back
-
-=head2 Fri Sep 25 03:16:33 2015: C<Module> L<XML::Filter::BufferText|XML::Filter::BufferText>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\job\perl\deleted\str3_work\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 1.01>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Fri Sep 25 03:16:50 2015: C<Module> L<XML::SAX::Writer|XML::SAX::Writer>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\job\perl\deleted\str3_work\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 0.56>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Fri Sep 25 03:17:43 2015: C<Module> L<POE::Test::Loops|POE::Test::Loops>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\job\perl\deleted\str3_work\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 1.360>
-
-=item *
-
-C<EXE_FILES: bin/poe-gen-tests>
-
-=back
-
-=head2 Fri Sep 25 03:18:17 2015: C<Module> L<IO::Pipely|IO::Pipely>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\job\perl\deleted\str3_work\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 0.005>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Fri Sep 25 03:20:51 2015: C<Module> L<POE|POE>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\job\perl\deleted\str3_work\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 1.367>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Fri Sep 25 03:24:42 2015: C<Module> L<Config::General|Config::General>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\job\perl\deleted\str3_work\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 2.58>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Fri Sep 25 03:25:10 2015: C<Module> L<Spreadsheet::ParseExcel::Simple|Spreadsheet::ParseExcel::Simple>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\job\perl\deleted\str3_work\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 1.04>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Fri Sep 25 03:25:29 2015: C<Module> L<Spreadsheet::WriteExcel::Simple|Spreadsheet::WriteExcel::Simple>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\job\perl\deleted\str3_work\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 1.04>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Fri Sep 25 03:26:46 2015: C<Module> L<Log::Contextual|Log::Contextual>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\job\perl\deleted\str3_work\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 0.006005>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Fri Sep 25 03:27:20 2015: C<Module> L<Log::Dispatch|Log::Dispatch>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\job\perl\deleted\str3_work\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 2.51>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Fri Sep 25 03:28:24 2015: C<Module> L<Lingua::EN::Inflect::Number|Lingua::EN::Inflect::Number>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\job\perl\deleted\str3_work\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 1.12>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Fri Sep 25 03:28:44 2015: C<Module> L<Class::Unload|Class::Unload>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\job\perl\deleted\str3_work\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 0.09>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Fri Sep 25 03:29:03 2015: C<Module> L<DBIx::Class::IntrospectableM2M|DBIx::Class::IntrospectableM2M>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\job\perl\deleted\str3_work\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 0.001002>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Fri Sep 25 03:29:21 2015: C<Module> L<String::CamelCase|String::CamelCase>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\job\perl\deleted\str3_work\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 0.02>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Fri Sep 25 03:29:44 2015: C<Module> L<Memoize::ExpireLRU|Memoize::ExpireLRU>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\job\perl\deleted\str3_work\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 0.55>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Fri Sep 25 03:30:08 2015: C<Module> L<Lingua::Stem::Ru|Lingua::Stem::Ru>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\job\perl\deleted\str3_work\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 0.01>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Fri Sep 25 03:30:24 2015: C<Module> L<Lingua::PT::Stemmer|Lingua::PT::Stemmer>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\job\perl\deleted\str3_work\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 0.01>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Fri Sep 25 03:30:43 2015: C<Module> L<Text::German|Text::German>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\job\perl\deleted\str3_work\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 0.06>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Fri Sep 25 03:31:00 2015: C<Module> L<Lingua::Stem::Snowball::Da|Lingua::Stem::Snowball::Da>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\job\perl\deleted\str3_work\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 1.01>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Fri Sep 25 03:31:17 2015: C<Module> L<Lingua::Stem::Fr|Lingua::Stem::Fr>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\job\perl\deleted\str3_work\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 0.02>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Fri Sep 25 03:31:35 2015: C<Module> L<Lingua::Stem::It|Lingua::Stem::It>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\job\perl\deleted\str3_work\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 0.02>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Fri Sep 25 08:08:51 2015: C<Module> L<Lingua::EN::Tagger|Lingua::EN::Tagger>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\job\perl\deleted\str3_work\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 0.25>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Fri Sep 25 08:09:17 2015: C<Module> L<Lingua::EN::Words2Nums|Lingua::EN::Words2Nums>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\job\perl\deleted\str3_work\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 0.18>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Fri Sep 25 08:09:33 2015: C<Module> L<Lingua::EN::FindNumber|Lingua::EN::FindNumber>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\job\perl\deleted\str3_work\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 1.31>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Fri Sep 25 08:09:50 2015: C<Module> L<Lingua::EN::Number::IsOrdinal|Lingua::EN::Number::IsOrdinal>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\job\perl\deleted\str3_work\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 0.05>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Fri Sep 25 08:10:12 2015: C<Module> L<Lingua::EN::Inflect::Phrase|Lingua::EN::Inflect::Phrase>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\job\perl\deleted\str3_work\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 0.18>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Fri Sep 25 08:12:06 2015: C<Module> L<Text::Unidecode|Text::Unidecode>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\job\perl\deleted\str3_work\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 1.24>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Fri Sep 25 08:12:30 2015: C<Module> L<String::ToIdentifier::EN|String::ToIdentifier::EN>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\job\perl\deleted\str3_work\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 0.11>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Fri Sep 25 08:13:09 2015: C<Module> L<List::Util|List::Util>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\job\perl\deleted\str3_work\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 1.42>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Fri Sep 25 08:16:39 2015: C<Module> L<DBIx::Class::Schema::Loader|DBIx::Class::Schema::Loader>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\job\perl\deleted\str3_work\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 0.07043>
-
-=item *
-
-C<EXE_FILES: script/dbicdump>
-
-=back
-
-=head2 Fri Sep 25 08:17:40 2015: C<Module> L<strictures|strictures>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\job\perl\deleted\str3_work\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 2.000001>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Fri Sep 25 08:17:57 2015: C<Module> L<Package::Variant|Package::Variant>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\job\perl\deleted\str3_work\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 1.003002>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Fri Sep 25 08:18:19 2015: C<Module> L<XML::Writer|XML::Writer>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\job\perl\deleted\str3_work\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 0.625>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Fri Sep 25 08:22:27 2015: C<Module> L<SQL::Translator|SQL::Translator>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\job\perl\deleted\str3_work\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 0.11021>
-
-=item *
-
-C<EXE_FILES: script/sqlt-diagram script/sqlt-diff script/sqlt-diff-old script/sqlt-dumper script/sqlt-graph script/sqlt>
-
-=back
-
-=head2 Fri Sep 25 08:23:16 2015: C<Module> L<JSON::MaybeXS|JSON::MaybeXS>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\job\perl\deleted\str3_work\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 1.003005>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Fri Sep 25 08:23:40 2015: C<Module> L<Log::Any|Log::Any>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\job\perl\deleted\str3_work\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 1.032>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Fri Sep 25 08:24:06 2015: C<Module> L<Digest::JHash|Digest::JHash>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\job\perl\deleted\str3_work\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 0.09>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Fri Sep 25 08:24:52 2015: C<Module> L<Test::Class|Test::Class>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\job\perl\deleted\str3_work\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 0.50>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Fri Sep 25 08:25:10 2015: C<Module> L<MooX::Types::MooseLike::Numeric|MooX::Types::MooseLike::Numeric>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\job\perl\deleted\str3_work\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 1.02>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Fri Sep 25 08:25:28 2015: C<Module> L<Time::Duration|Time::Duration>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\job\perl\deleted\str3_work\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 1.20>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Fri Sep 25 08:25:48 2015: C<Module> L<Exporter::Lite|Exporter::Lite>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\job\perl\deleted\str3_work\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 0.06>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Fri Sep 25 08:26:04 2015: C<Module> L<Time::Duration::Parse|Time::Duration::Parse>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\job\perl\deleted\str3_work\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 0.12>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Fri Sep 25 08:26:43 2015: C<Module> L<CHI|CHI>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\job\perl\deleted\str3_work\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 0.60>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Fri Sep 25 08:27:08 2015: C<Module> L<Test::CPAN::Meta|Test::CPAN::Meta>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\job\perl\deleted\str3_work\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 0.25>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Fri Sep 25 08:37:17 2015: C<Module> L<Capture::Tiny|Capture::Tiny>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\job\perl\deleted\str3_work\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 0.30>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Fri Sep 25 08:42:37 2015: C<Module> L<ExtUtils::MakeMaker|ExtUtils::MakeMaker>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\job\perl\deleted\str3_work\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 7.10>
-
-=item *
-
-C<EXE_FILES: bin/instmodsh>
-
-=back
-
-=head2 Fri Sep 25 08:43:24 2015: C<Module> L<local::lib|local::lib>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\job\perl\deleted\str3_work\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 2.000015>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Fri Sep 25 08:44:35 2015: C<Module> L<Test::Spec|Test::Spec>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\job\perl\deleted\str3_work\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 0.51>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Fri Sep 25 08:44:51 2015: C<Module> L<Devel::PatchPerl|Devel::PatchPerl>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\job\perl\deleted\str3_work\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 1.38>
-
-=item *
-
-C<EXE_FILES: bin/patchperl>
-
-=back
-
-=head2 Fri Sep 25 08:45:07 2015: C<Module> L<Pod::Usage|Pod::Usage>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\job\perl\deleted\str3_work\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 1.67>
-
-=item *
-
-C<EXE_FILES: scripts\pod2usage>
-
-=back
-
-=head2 Fri Sep 25 08:45:20 2015: C<Module> L<CPAN::Perl::Releases|CPAN::Perl::Releases>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\job\perl\deleted\str3_work\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 2.38>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Fri Sep 25 08:46:57 2015: C<Module> L<Module::CPANfile|Module::CPANfile>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\job\perl\deleted\str3_work\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 1.1001>
-
-=item *
-
-C<EXE_FILES: script/cpanfile-dump script/mymeta-cpanfile>
-
-=back
-
-=head2 Fri Sep 25 08:47:09 2015: C<Module> L<Module::Reader|Module::Reader>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\job\perl\deleted\str3_work\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 0.002003>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Fri Sep 25 08:47:23 2015: C<Module> L<App::cpanminus|App::cpanminus>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\job\perl\deleted\str3_work\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 1.7039>
-
-=item *
-
-C<EXE_FILES: bin/cpanm>
-
-=back
-
-=head2 Fri Sep 25 08:47:38 2015: C<Module> L<Class::Tiny|Class::Tiny>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\job\perl\deleted\str3_work\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 1.001>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Fri Sep 25 08:47:49 2015: C<Module> L<Carton|Carton>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\job\perl\deleted\str3_work\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: v1.0.22>
-
-=item *
-
-C<EXE_FILES: script/carton>
-
-=back
-
-=head2 Fri Sep 25 08:48:06 2015: C<Module> L<App::FatPacker|App::FatPacker>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\job\perl\deleted\str3_work\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 0.010004>
-
-=item *
-
-C<EXE_FILES: bin/fatpack>
-
-=back
-
-=head2 Fri Sep 25 08:49:28 2015: C<Module> L<Getopt::Long::Descriptive|Getopt::Long::Descriptive>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\job\perl\deleted\str3_work\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 0.099>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Fri Sep 25 08:49:41 2015: C<Module> L<IO::TieCombine|IO::TieCombine>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\job\perl\deleted\str3_work\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 1.004>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Fri Sep 25 08:50:04 2015: C<Module> L<App::Cmd|App::Cmd>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\job\perl\deleted\str3_work\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 0.328>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Fri Sep 25 08:50:51 2015: C<Module> L<MooseX::Aliases|MooseX::Aliases>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\job\perl\deleted\str3_work\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 0.11>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Fri Sep 25 08:51:51 2015: C<Module> L<Devel::StackTrace::AsHTML|Devel::StackTrace::AsHTML>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\job\perl\deleted\str3_work\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 0.14>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Fri Sep 25 08:52:14 2015: C<Module> L<HTTP::Body|HTTP::Body>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\job\perl\deleted\str3_work\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 1.22>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Fri Sep 25 08:53:12 2015: C<Module> L<Test::MockTime|Test::MockTime>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\job\perl\deleted\str3_work\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 0.15>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Fri Sep 25 08:53:49 2015: C<Module> L<Filesys::Notify::Simple|Filesys::Notify::Simple>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\job\perl\deleted\str3_work\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 0.12>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Fri Sep 25 08:54:19 2015: C<Module> L<Test::Time|Test::Time>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\job\perl\deleted\str3_work\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 0.04>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Fri Sep 25 08:54:41 2015: C<Module> L<Stream::Buffered|Stream::Buffered>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\job\perl\deleted\str3_work\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 0.03>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Fri Sep 25 08:56:51 2015: C<Module> L<Plack|Plack>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\job\perl\deleted\str3_work\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 1.0037>
-
-=item *
-
-C<EXE_FILES: script/plackup>
-
-=back
-
-=head2 Fri Sep 25 08:57:12 2015: C<Module> L<File::Spec::Native|File::Spec::Native>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\job\perl\deleted\str3_work\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 1.004>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Fri Sep 25 08:57:53 2015: C<Module> L<MooseX::SetOnce|MooseX::SetOnce>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\job\perl\deleted\str3_work\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 0.200002>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Fri Sep 25 09:43:08 2015: C<Module> L<IO::Socket::Timeout|IO::Socket::Timeout>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\GitHub\dwimperl-windows\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 0.31>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Fri Sep 25 09:44:07 2015: C<Module> L<Data::GUID|Data::GUID>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\GitHub\dwimperl-windows\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 0.048>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Fri Sep 25 09:44:23 2015: C<Module> L<IO::Prompt::Tiny|IO::Prompt::Tiny>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\GitHub\dwimperl-windows\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 0.003>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Fri Sep 25 09:44:42 2015: C<Module> L<Metabase::Fact|Metabase::Fact>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\GitHub\dwimperl-windows\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 0.024>
-
-=item *
-
-C<EXE_FILES: bin/metabase-profile>
-
-=back
-
-=head2 Fri Sep 25 09:44:58 2015: C<Module> L<Metabase::Client::Simple|Metabase::Client::Simple>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\GitHub\dwimperl-windows\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 0.010>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Fri Sep 25 09:45:20 2015: C<Module> L<Test::Reporter|Test::Reporter>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\GitHub\dwimperl-windows\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 1.62>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Fri Sep 25 09:45:34 2015: C<Module> L<CPAN::Testers::Report|CPAN::Testers::Report>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\GitHub\dwimperl-windows\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 1.999003>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Fri Sep 25 09:45:45 2015: C<Module> L<Test::Reporter::Transport::Metabase|Test::Reporter::Transport::Metabase>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\GitHub\dwimperl-windows\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 1.999009>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Fri Sep 25 09:46:07 2015: C<Module> L<Devel::Autoflush|Devel::Autoflush>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\GitHub\dwimperl-windows\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 0.06>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Fri Sep 25 09:46:20 2015: C<Module> L<Config::Tiny|Config::Tiny>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\GitHub\dwimperl-windows\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 2.22>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Fri Sep 25 10:09:14 2015: C<Module> L<CPAN::Reporter|CPAN::Reporter>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\GitHub\dwimperl-windows\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 1.2015>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Fri Sep 25 10:09:24 2015: C<Module> L<Task::CPAN::Reporter|Task::CPAN::Reporter>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\GitHub\dwimperl-windows\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 0.001>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Fri Sep 25 10:32:49 2015: C<Module> L<Task::Kensho|Task::Kensho>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\GitHub\dwimperl-windows\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 0.38>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Fri Sep 25 10:34:24 2015: C<Module> L<Time::ParseDate|Time::ParseDate>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\GitHub\dwimperl-windows\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 2013.1113>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Fri Sep 25 10:34:52 2015: C<Module> L<Time::Tiny|Time::Tiny>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\GitHub\dwimperl-windows\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 1.05>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Fri Sep 25 10:35:17 2015: C<Module> L<DateTime::Tiny|DateTime::Tiny>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\GitHub\dwimperl-windows\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 1.04>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Fri Sep 25 10:35:42 2015: C<Module> L<Date::Tiny|Date::Tiny>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\GitHub\dwimperl-windows\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 1.04>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Fri Sep 25 11:47:40 2015: C<Module> L<MooseX::Types::Stringlike|MooseX::Types::Stringlike>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\GitHub\dwimperl-windows\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 0.003>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Fri Sep 25 11:54:49 2015: C<Module> L<Devel::REPL|Devel::REPL>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\GitHub\dwimperl-windows\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 1.003027>
-
-=item *
-
-C<EXE_FILES: script/re.pl>
-
-=back
-
-=head2 Fri Sep 25 11:55:27 2015: C<Module> L<Module::Refresh|Module::Refresh>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\GitHub\dwimperl-windows\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 0.17>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Fri Sep 25 11:56:17 2015: C<Module> L<PPI::XS|PPI::XS>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\GitHub\dwimperl-windows\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 0.902>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Fri Sep 25 11:56:55 2015: C<Module> L<File::Next|File::Next>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\GitHub\dwimperl-windows\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 1.12>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Fri Sep 25 11:58:14 2015: C<Module> L<Devel::Caller|Devel::Caller>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\GitHub\dwimperl-windows\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 2.06>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Fri Sep 25 11:58:38 2015: C<Module> L<Devel::LexAlias|Devel::LexAlias>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\GitHub\dwimperl-windows\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 0.05>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Fri Sep 25 11:59:15 2015: C<Module> L<Lexical::Persistence|Lexical::Persistence>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\GitHub\dwimperl-windows\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 1.023>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Fri Sep 25 12:00:13 2015: C<Module> L<B::Keywords|B::Keywords>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\GitHub\dwimperl-windows\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 1.14>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Fri Sep 25 14:25:37 2015: C<Module> L<App::Nopaste|App::Nopaste>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\GitHub\dwimperl-windows\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 1.004>
-
-=item *
-
-C<EXE_FILES: script/nopaste>
-
-=back
-
-=head2 Fri Sep 25 14:27:01 2015: C<Module> L<Win32::Clipboard|Win32::Clipboard>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\GitHub\dwimperl-windows\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 0.58>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Fri Sep 25 14:27:29 2015: C<Module> L<Clipboard|Clipboard>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\GitHub\dwimperl-windows\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 0.13>
-
-=item *
-
-C<EXE_FILES: scripts/clipjoin scripts/clipedit scripts/clipbrowse scripts/clipaccumulate scripts/clipfilter>
-
-=back
-
-=head2 Fri Sep 25 14:28:03 2015: C<Module> L<Browser::Open|Browser::Open>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\GitHub\dwimperl-windows\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 0.04>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Fri Sep 25 14:42:15 2015: C<Module> L<Class::MethodMaker|Class::MethodMaker>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\GitHub\dwimperl-windows\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 2.24>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Fri Sep 25 14:43:10 2015: C<Module> L<Term::ProgressBar|Term::ProgressBar>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\GitHub\dwimperl-windows\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 2.17>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Fri Sep 25 14:43:37 2015: C<Module> L<Term::ProgressBar::Quiet|Term::ProgressBar::Quiet>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\GitHub\dwimperl-windows\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 0.31>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Fri Sep 25 14:44:02 2015: C<Module> L<Term::ProgressBar::Simple|Term::ProgressBar::Simple>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\GitHub\dwimperl-windows\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 0.03>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Fri Sep 25 14:53:06 2015: C<Module> L<MooseX::MarkAsMethods|MooseX::MarkAsMethods>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\GitHub\dwimperl-windows\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 0.15>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Fri Sep 25 15:21:19 2015: C<Module> L<Any::Moose|Any::Moose>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\GitHub\dwimperl-windows\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 0.26>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Fri Sep 25 15:21:44 2015: C<Module> L<Text::Clip|Text::Clip>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\GitHub\dwimperl-windows\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 0.0014>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Fri Sep 25 15:22:17 2015: C<Module> L<Term::EditorEdit|Term::EditorEdit>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\GitHub\dwimperl-windows\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 0.0016>
-
-=item *
-
-C<EXE_FILES: bin/editor-edit>
-
-=back
-
-=head2 Fri Sep 25 15:23:21 2015: C<Module> L<Apache::Htpasswd|Apache::Htpasswd>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\GitHub\dwimperl-windows\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 1.9>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Fri Sep 25 15:24:45 2015: C<Module> L<HTTP::Parser::XS|HTTP::Parser::XS>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\GitHub\dwimperl-windows\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 0.17>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Sat Sep 26 00:42:36 2015: C<Module> L<Devel::Dumpvar|Devel::Dumpvar>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\GitHub\dwimperl-windows\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 1.06>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Sat Sep 26 00:45:21 2015: C<Module> L<Debug::Client|Debug::Client>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\GitHub\dwimperl-windows\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 0.29>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Sat Sep 26 00:51:27 2015: C<Module> L<Win32::Shortcut|Win32::Shortcut>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\GitHub\dwimperl-windows\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 0.08>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Sat Sep 26 01:15:49 2015: C<Module> L<Wx|Wx>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\GitHub\dwimperl-windows\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 0.9927>
-
-=item *
-
-C<EXE_FILES: script/wxperl_overload>
-
-=back
-
-=head2 Sat Sep 26 01:16:22 2015: C<Module> L<Wx::Perl::ProcessStream|Wx::Perl::ProcessStream>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\GitHub\dwimperl-windows\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 0.32>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Sat Sep 26 01:17:01 2015: C<Module> L<Pod::Abstract|Pod::Abstract>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\GitHub\dwimperl-windows\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 0.20>
-
-=item *
-
-C<EXE_FILES: bin/paf>
-
-=back
-
-=head2 Sat Sep 26 01:17:54 2015: C<Module> L<File::Glob::Windows|File::Glob::Windows>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\GitHub\dwimperl-windows\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 0.1.5>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Sat Sep 26 01:21:05 2015: C<Module> L<Module::ScanDeps|Module::ScanDeps>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\GitHub\dwimperl-windows\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 1.19>
-
-=item *
-
-C<EXE_FILES: script/scandeps.pl>
-
-=back
-
-=head2 Sat Sep 26 01:25:05 2015: C<Module> L<Module::Install|Module::Install>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\GitHub\dwimperl-windows\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 1.16>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Sat Sep 26 01:25:30 2015: C<Module> L<Module::Install::AuthorTests|Module::Install::AuthorTests>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\GitHub\dwimperl-windows\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
-
-=item *
-
-C<LINKTYPE: dynamic>
-
-=item *
-
-C<VERSION: 0.002>
-
-=item *
-
-C<EXE_FILES: >
-
-=back
-
-=head2 Sat Sep 26 01:27:37 2015: C<Module> L<ORLite|ORLite>
-
-=over 4
-
-=item *
-
-C<installed into: C:\Users\TOSH\Documents\GitHub\dwimperl-windows\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
+C<installed into: C:\strawberry\perl\vendor\lib>
 
 =item *
 
@@ -11614,13 +7896,13 @@ C<EXE_FILES: >
 
 =back
 
-=head2 Sat Sep 26 01:28:29 2015: C<Module> L<ORLite::Migrate|ORLite::Migrate>
+=head2 Sat May 31 03:15:17 2014: C<Module> L<Devel::Caller|Devel::Caller>
 
 =over 4
 
 =item *
 
-C<installed into: C:\Users\TOSH\Documents\GitHub\dwimperl-windows\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
+C<installed into: C:\strawberry\perl\vendor\lib>
 
 =item *
 
@@ -11628,7 +7910,7 @@ C<LINKTYPE: dynamic>
 
 =item *
 
-C<VERSION: 1.10>
+C<VERSION: 2.06>
 
 =item *
 
@@ -11636,13 +7918,695 @@ C<EXE_FILES: >
 
 =back
 
-=head2 Sat Sep 26 01:30:51 2015: C<Module> L<File::Slurper|File::Slurper>
+=head2 Sat May 31 03:15:28 2014: C<Module> L<Devel::LexAlias|Devel::LexAlias>
 
 =over 4
 
 =item *
 
-C<installed into: C:\Users\TOSH\Documents\GitHub\dwimperl-windows\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.05>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat May 31 03:15:38 2014: C<Module> L<Lexical::Persistence|Lexical::Persistence>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.023>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat May 31 03:16:15 2014: C<Module> L<Devel::CheckLib|Devel::CheckLib>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.01>
+
+=item *
+
+C<EXE_FILES: bin/use-devel-checklib>
+
+=back
+
+=head2 Sat May 31 03:24:50 2014: C<Module> L<Inline|Inline>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.55>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat May 31 03:25:04 2014: C<Module> L<Module::Compile|Module::Compile>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.23>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat May 31 03:25:16 2014: C<Module> L<Convert::UU|Convert::UU>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.5201>
+
+=item *
+
+C<EXE_FILES: puudecode puuencode>
+
+=back
+
+=head2 Sat May 31 03:42:38 2014: C<Module> L<PDL|PDL>
+
+=over 4
+
+=item *
+
+C<installed into: C:\strawberry\perl\vendor\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.007>
+
+=item *
+
+C<EXE_FILES: perldl pdldoc>
+
+=back
+
+=head2 Sat Sep 12 00:22:10 2015: C<Module> L<Log::Dispatch|Log::Dispatch>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.45>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 12 00:24:37 2015: C<Module> L<PerlIO::utf8_strict|PerlIO::utf8_strict>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.006>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 12 00:24:53 2015: C<Module> L<Mixin::Linewise|Mixin::Linewise>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.108>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 12 00:25:46 2015: C<Module> L<IO::TieCombine|IO::TieCombine>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.004>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 12 00:26:17 2015: C<Module> L<App::Cmd|App::Cmd>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.328>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 12 00:26:44 2015: C<Module> L<Sub::Exporter::GlobExporter|Sub::Exporter::GlobExporter>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.004>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 12 00:27:03 2015: C<Module> L<Log::Dispatch::Array|Log::Dispatch::Array>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.003>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 12 00:27:32 2015: C<Module> L<Test::Without::Module|Test::Without::Module>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.18>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 12 00:27:48 2015: C<Module> L<JSON::MaybeXS|JSON::MaybeXS>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.003005>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 12 00:28:04 2015: C<Module> L<String::Flogger|String::Flogger>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.101245>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 12 00:28:23 2015: C<Module> L<Log::Dispatchouli|Log::Dispatchouli>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.012>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 12 00:29:06 2015: C<Module> L<Role::Identifiable|Role::Identifiable>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.007>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 12 00:29:30 2015: C<Module> L<MooseX::OneArgNew|MooseX::OneArgNew>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.005>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 12 00:29:59 2015: C<Module> L<String::Formatter|String::Formatter>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.102084>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 12 00:30:17 2015: C<Module> L<String::Errf|String::Errf>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.007>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 12 00:30:40 2015: C<Module> L<Role::HasMessage|Role::HasMessage>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.006>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 12 00:31:04 2015: C<Module> L<Config::MVP|Config::MVP>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.200010>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 12 00:31:26 2015: C<Module> L<Pod::Eventual|Pod::Eventual>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.094001>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 12 00:31:49 2015: C<Module> L<MooseX::SetOnce|MooseX::SetOnce>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.200002>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 12 00:32:11 2015: C<Module> L<CPAN::Uploader|CPAN::Uploader>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.103010>
+
+=item *
+
+C<EXE_FILES: bin/cpan-upload>
+
+=back
+
+=head2 Sat Sep 12 00:32:32 2015: C<Module> L<Text::Template|Text::Template>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.46>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 12 00:32:53 2015: C<Module> L<MooseX::Types::Perl|MooseX::Types::Perl>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.101343>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 12 00:33:20 2015: C<Module> L<Config::INI|Config::INI>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.025>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 12 00:33:40 2015: C<Module> L<Config::MVP::Reader::INI|Config::MVP::Reader::INI>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.101463>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 12 00:34:11 2015: C<Module> L<Test::FailWarnings|Test::FailWarnings>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
 
 =item *
 
@@ -11658,13 +8622,5293 @@ C<EXE_FILES: >
 
 =back
 
-=head2 Sat Sep 26 01:32:14 2015: C<Module> L<Pod::POM|Pod::POM>
+=head2 Sat Sep 12 00:34:28 2015: C<Module> L<Data::Section|Data::Section>
 
 =over 4
 
 =item *
 
-C<installed into: C:\Users\TOSH\Documents\GitHub\dwimperl-windows\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.200006>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 12 00:34:48 2015: C<Module> L<ExtUtils::Manifest|ExtUtils::Manifest>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.70>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 12 00:35:13 2015: C<Module> L<Devel::FindPerl|Devel::FindPerl>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.014>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 12 00:35:33 2015: C<Module> L<Module::Path|Module::Path>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.19>
+
+=item *
+
+C<EXE_FILES: bin/mpath>
+
+=back
+
+=head2 Sat Sep 12 00:36:03 2015: C<Module> L<Perl::PrereqScanner|Perl::PrereqScanner>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.023>
+
+=item *
+
+C<EXE_FILES: bin/scan-perl-prereqs bin/scan_prereqs>
+
+=back
+
+=head2 Sat Sep 12 00:36:34 2015: C<Module> L<CPAN::Meta|CPAN::Meta>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.150005>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 12 00:37:05 2015: C<Module> L<Software::License|Software::License>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.103010>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 12 00:37:27 2015: C<Module> L<Perl::Version|Perl::Version>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.013>
+
+=item *
+
+C<EXE_FILES: examples/perl-reversion>
+
+=back
+
+=head2 Sat Sep 12 00:37:54 2015: C<Module> L<Test::File::ShareDir|Test::File::ShareDir>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.001001>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 12 00:38:12 2015: C<Module> L<Sub::Exporter::ForMethods|Sub::Exporter::ForMethods>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.100052>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 12 00:38:29 2015: C<Module> L<Term::Encoding|Term::Encoding>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.02>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 12 00:42:58 2015: C<Module> L<Dist::Zilla|Dist::Zilla>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 5.037>
+
+=item *
+
+C<EXE_FILES: bin/dzil>
+
+=back
+
+=head2 Sat Sep 12 01:14:11 2015: C<Module> L<Gedcom|Gedcom>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.19>
+
+=item *
+
+C<EXE_FILES: cgi-bin/gedcom.cgi>
+
+=back
+
+=head2 Sat Sep 12 01:14:32 2015: C<Module> L<Test::Requires|Test::Requires>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.10>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 12 01:14:51 2015: C<Module> L<CGI::Emulate::PSGI|CGI::Emulate::PSGI>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.21>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 12 01:15:12 2015: C<Module> L<Config::General|Config::General>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.58>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 12 01:16:05 2015: C<Module> L<Jcode|Jcode>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.07>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 12 01:16:27 2015: C<Module> L<Set::Scalar|Set::Scalar>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.29>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 12 01:17:12 2015: C<Module> L<Digest::Perl::MD4|Digest::Perl::MD4>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.4>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 12 01:17:29 2015: C<Module> L<Switch|Switch>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.17>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 12 01:18:09 2015: C<Module> L<Devel::StackTrace::AsHTML|Devel::StackTrace::AsHTML>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.14>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 12 01:19:17 2015: C<Module> L<Test::SharedFork|Test::SharedFork>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.33>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 12 01:19:45 2015: C<Module> L<Filesys::Notify::Simple|Filesys::Notify::Simple>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.12>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 12 01:20:58 2015: C<Module> L<Test::MockTime|Test::MockTime>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.15>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 12 01:21:39 2015: C<Module> L<Test::Time|Test::Time>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.04>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 12 01:22:11 2015: C<Module> L<HTTP::Body|HTTP::Body>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.22>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 12 01:22:30 2015: C<Module> L<Hash::MultiValue|Hash::MultiValue>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.16>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 12 01:23:31 2015: C<Module> L<Test::TCP|Test::TCP>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.13>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 12 01:23:48 2015: C<Module> L<Stream::Buffered|Stream::Buffered>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.03>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 12 01:25:57 2015: C<Module> L<Plack|Plack>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.0037>
+
+=item *
+
+C<EXE_FILES: script/plackup>
+
+=back
+
+=head2 Sat Sep 12 01:26:19 2015: C<Module> L<Digest::MD4|Digest::MD4>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.9>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 12 01:27:09 2015: C<Module> L<Unicode::Map|Unicode::Map>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.112>
+
+=item *
+
+C<EXE_FILES: tools/map tools/mirrorMappings tools/mkCSGB2312 tools/mkmapfile>
+
+=back
+
+=head2 Sat Sep 12 01:27:33 2015: C<Module> L<Exporter::Tiny|Exporter::Tiny>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.042>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 12 01:28:05 2015: C<Module> L<List::MoreUtils|List::MoreUtils>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.413>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 12 01:28:44 2015: C<Module> L<version|version>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.9912>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 12 01:30:21 2015: C<Module> L<Log::Log4perl|Log::Log4perl>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.46>
+
+=item *
+
+C<EXE_FILES: eg/l4p-tmpl>
+
+=back
+
+=head2 Sat Sep 12 05:15:23 2015: C<Module> L<IO::Stringy|IO::Stringy>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.111>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 12 05:26:35 2015: C<Module> L<Devel::CheckBin|Devel::CheckBin>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.04>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 12 05:27:03 2015: C<Module> L<File::chdir|File::chdir>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.1010>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 12 05:27:41 2015: C<Module> L<Git::Wrapper|Git::Wrapper>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.045>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 12 05:30:29 2015: C<Module> L<Dist::Zilla::Role::PluginBundle::PluginRemover|Dist::Zilla::Role::PluginBundle::PluginRemover>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.103>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 12 05:33:44 2015: C<Module> L<Type::Tiny|Type::Tiny>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.000005>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 12 05:34:14 2015: C<Module> L<CPAN::Changes|CPAN::Changes>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.400002>
+
+=item *
+
+C<EXE_FILES: bin/tidy_changelog>
+
+=back
+
+=head2 Sat Sep 12 05:34:47 2015: C<Module> L<Data::Perl|Data::Perl>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.002009>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 12 05:35:12 2015: C<Module> L<MooX::HandlesVia|MooX::HandlesVia>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.001008>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 12 05:35:40 2015: C<Module> L<Pod::Readme|Pod::Readme>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: v1.1.2>
+
+=item *
+
+C<EXE_FILES: bin/pod2readme>
+
+=back
+
+=head2 Sat Sep 12 05:36:00 2015: C<Module> L<Dist::Zilla::Plugin::ReadmeFromPod|Dist::Zilla::Plugin::ReadmeFromPod>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.33>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 12 05:36:37 2015: C<Module> L<Config::MVP::Slicer|Config::MVP::Slicer>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.302>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 12 05:37:03 2015: C<Module> L<Dist::Zilla::Config::Slicer|Dist::Zilla::Config::Slicer>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.201>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 12 05:37:42 2015: C<Module> L<Module::CPANfile|Module::CPANfile>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.1001>
+
+=item *
+
+C<EXE_FILES: script/cpanfile-dump script/mymeta-cpanfile>
+
+=back
+
+=head2 Sat Sep 12 05:39:41 2015: C<Module> L<B::Keywords|B::Keywords>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.14>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 12 05:42:07 2015: C<Module> L<PPI|PPI>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.220>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 12 05:43:10 2015: C<Module> L<Path::IsDev|Path::IsDev>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.001002>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 12 05:43:30 2015: C<Module> L<Path::FindDev|Path::FindDev>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.5.2>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 12 05:43:57 2015: C<Module> L<File::ShareDir::ProjectDistDir|File::ShareDir::ProjectDistDir>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.000008>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 12 05:44:25 2015: C<Module> L<Pod::Spell|Pod::Spell>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.17>
+
+=item *
+
+C<EXE_FILES: bin/podspell>
+
+=back
+
+=head2 Sat Sep 12 05:44:43 2015: C<Module> L<String::Format|String::Format>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.17>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 12 05:45:00 2015: C<Module> L<Config::Tiny|Config::Tiny>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.22>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 12 05:48:54 2015: C<Module> L<File::Find::Rule::Perl|File::Find::Rule::Perl>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.15>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 12 05:49:53 2015: C<Module> L<Perl::MinimumVersion|Perl::MinimumVersion>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.38>
+
+=item *
+
+C<EXE_FILES: script/perlver>
+
+=back
+
+=head2 Sat Sep 12 05:50:12 2015: C<Module> L<Test::MinimumVersion|Test::MinimumVersion>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.101081>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 12 05:55:49 2015: C<Module> L<MooseX::Has::Sugar|MooseX::Has::Sugar>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.000004>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 12 05:56:14 2015: C<Module> L<Dist::Zilla::Plugin::CopyFilesFromBuild|Dist::Zilla::Plugin::CopyFilesFromBuild>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.151680>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 12 05:56:53 2015: C<Module> L<Dist::Zilla::Plugin::CheckChangesHasContent|Dist::Zilla::Plugin::CheckChangesHasContent>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.008>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 12 05:57:13 2015: C<Module> L<Version::Next|Version::Next>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.004>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 12 05:57:50 2015: C<Module> L<URI::FromHash|URI::FromHash>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.04>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 12 05:58:36 2015: C<Module> L<Dist::Zilla::Plugin::GithubMeta|Dist::Zilla::Plugin::GithubMeta>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.54>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 12 05:59:06 2015: C<Module> L<Dist::Zilla::Plugin::Config::Git|Dist::Zilla::Plugin::Config::Git>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.92>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 12 05:59:43 2015: C<Module> L<MooseX::Types::Stringlike|MooseX::Types::Stringlike>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.003>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 12 06:05:16 2015: C<Module> L<Safe::Isa|Safe::Isa>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.000005>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 12 06:06:50 2015: C<Module> L<Pod::Markdown|Pod::Markdown>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 3.002>
+
+=item *
+
+C<EXE_FILES: bin/pod2markdown>
+
+=back
+
+=head2 Sat Sep 12 06:08:29 2015: C<Module> L<Dist::Zilla::Plugin::ReadmeAnyFromPod|Dist::Zilla::Plugin::ReadmeAnyFromPod>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.150250>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 12 06:10:07 2015: C<Module> L<Dist::Zilla::Plugins::CJM|Dist::Zilla::Plugins::CJM>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 4.27>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 12 07:05:05 2015: C<Module> L<PAR::Dist::FromCPAN|PAR::Dist::FromCPAN>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.11>
+
+=item *
+
+C<EXE_FILES: bin/cpan2par>
+
+=back
+
+=head2 Sat Sep 12 07:15:31 2015: C<Module> L<PAR|PAR>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.010>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 12 07:15:52 2015: C<Module> L<Getopt::ArgvFile|Getopt::ArgvFile>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.11>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 12 07:16:48 2015: C<Module> L<Module::ScanDeps|Module::ScanDeps>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.19>
+
+=item *
+
+C<EXE_FILES: script/scandeps.pl>
+
+=back
+
+=head2 Sat Sep 12 07:43:08 2015: C<Module> L<PAR::Packer|PAR::Packer>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.026>
+
+=item *
+
+C<EXE_FILES: script/par.pl script/pp script/tkpp>
+
+=back
+
+=head2 Sat Sep 12 09:05:22 2015: C<Module> L<Test::Pod|Test::Pod>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.51>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sun Sep 13 22:53:39 2015: C<Module> L<Any::Moose|Any::Moose>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.26>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sun Sep 13 22:54:02 2015: C<Module> L<UNIVERSAL::isa|UNIVERSAL::isa>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.20150614>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sun Sep 13 22:54:52 2015: C<Module> L<CGI|CGI>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 4.21>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sun Sep 13 22:55:11 2015: C<Module> L<UNIVERSAL::can|UNIVERSAL::can>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.20140328>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sun Sep 13 22:55:29 2015: C<Module> L<Test::MockObject|Test::MockObject>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.20150527>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sun Sep 13 22:56:05 2015: C<Module> L<Lingua::EN::Inflect::Number|Lingua::EN::Inflect::Number>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.12>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sun Sep 13 22:57:15 2015: C<Module> L<XML::XPath|XML::XPath>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.13>
+
+=item *
+
+C<EXE_FILES: examples/xpath>
+
+=back
+
+=head2 Sun Sep 13 22:58:03 2015: C<Module> L<XML::Atom|XML::Atom>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.41>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sun Sep 13 22:58:50 2015: C<Module> L<Sub::Identify|Sub::Identify>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.12>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sun Sep 13 23:01:21 2015: C<Module> L<Test::LeakTrace|Test::LeakTrace>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.15>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sun Sep 13 23:07:25 2015: C<Module> L<Net::OAuth2|Net::OAuth2>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.61>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sun Sep 13 23:08:10 2015: C<Module> L<Net::Google::DataAPI|Net::Google::DataAPI>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.2805>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sun Sep 13 23:08:43 2015: C<Module> L<Net::Google::Spreadsheets|Net::Google::Spreadsheets>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.1501>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Tue Sep 15 23:13:17 2015: C<Module> L<Spreadsheet::ParseXLSX|Spreadsheet::ParseXLSX>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.17>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Sep 16 01:26:50 2015: C<Module> L<Spreadsheet::Read|Spreadsheet::Read>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.62>
+
+=item *
+
+C<EXE_FILES: examples/xlscat examples/xlsgrep examples/ss2tk examples/ssdiff examples/xls2csv>
+
+=back
+
+=head2 Wed Sep 16 04:19:05 2015: C<Module> L<Spreadsheet::XLSX|Spreadsheet::XLSX>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.13>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Sep 17 08:25:13 2015: C<Module> L<Sysadm::Install|Sysadm::Install>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.46>
+
+=item *
+
+C<EXE_FILES: eg/one-liner>
+
+=back
+
+=head2 Thu Sep 17 08:25:32 2015: C<Module> L<File::MMagic|File::MMagic>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.30>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Sep 17 08:25:50 2015: C<Module> L<OAuth::Cmdline|OAuth::Cmdline>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.04>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Sep 17 08:26:06 2015: C<Module> L<Net::Google::Drive::Simple|Net::Google::Drive::Simple>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.12>
+
+=item *
+
+C<EXE_FILES: eg/google-drive-init>
+
+=back
+
+=head2 Sat Sep 19 23:49:50 2015: C<Module> L<Regexp::Common|Regexp::Common>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2013031301>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 19 23:56:38 2015: C<Module> L<Regexp::Common::time|Regexp::Common::time>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.07>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sun Sep 20 00:11:33 2015: C<Module> L<DateTime::Format::Strptime|DateTime::Format::Strptime>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.56>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Sep 24 15:01:16 2015: C<Module> L<XML::XPathEngine|XML::XPathEngine>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.14>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Sep 24 15:01:33 2015: C<Module> L<HTML::TreeBuilder::XPath|HTML::TreeBuilder::XPath>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.14>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Sep 24 15:01:55 2015: C<Module> L<HTML::Selector::XPath|HTML::Selector::XPath>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.18>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Sep 24 15:03:25 2015: C<Module> L<Web::Query|Web::Query>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.34>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Sep 24 15:34:51 2015: C<Module> L<IO::Prompt::Tiny|IO::Prompt::Tiny>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.003>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Sep 24 22:34:30 2015: C<Module> L<WWW::Mechanize|WWW::Mechanize>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.75>
+
+=item *
+
+C<EXE_FILES: bin/mech-dump>
+
+=back
+
+=head2 Thu Sep 24 23:49:24 2015: C<Module> L<ExtUtils::MakeMaker|ExtUtils::MakeMaker>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 7.10>
+
+=item *
+
+C<EXE_FILES: bin/instmodsh>
+
+=back
+
+=head2 Sat Sep 26 01:55:17 2015: C<Module> L<Module::Install|Module::Install>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.16>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 26 01:55:27 2015: C<Module> L<Module::Install::AuthorTests|Module::Install::AuthorTests>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.002>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 26 01:56:26 2015: C<Module> L<Module::Starter|Module::Starter>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.71>
+
+=item *
+
+C<EXE_FILES: bin/module-starter>
+
+=back
+
+=head2 Sat Sep 26 02:14:37 2015: C<Module> L<Test::Reporter|Test::Reporter>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.62>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 26 02:15:17 2015: C<Module> L<Devel::Autoflush|Devel::Autoflush>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.06>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 26 02:37:22 2015: C<Module> L<CPAN::Reporter|CPAN::Reporter>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.2015>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 26 03:11:14 2015: C<Module> L<Data::UUID|Data::UUID>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.221>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 26 03:11:25 2015: C<Module> L<Data::GUID|Data::GUID>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.048>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 26 03:11:42 2015: C<Module> L<Metabase::Fact|Metabase::Fact>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.024>
+
+=item *
+
+C<EXE_FILES: bin/metabase-profile>
+
+=back
+
+=head2 Sat Sep 26 03:11:56 2015: C<Module> L<CPAN::Testers::Report|CPAN::Testers::Report>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.999003>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 26 03:12:10 2015: C<Module> L<Metabase::Client::Simple|Metabase::Client::Simple>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.010>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 26 03:12:21 2015: C<Module> L<Test::Reporter::Transport::Metabase|Test::Reporter::Transport::Metabase>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.999009>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 26 03:12:39 2015: C<Module> L<Devel::Platform::Info|Devel::Platform::Info>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.15>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 26 03:13:01 2015: C<Module> L<CPAN::Testers::Common::Client|CPAN::Testers::Common::Client>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.10>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 26 03:13:34 2015: C<Module> L<App::cpanminus::reporter|App::cpanminus::reporter>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.13>
+
+=item *
+
+C<EXE_FILES: bin/cpanm-reporter>
+
+=back
+
+=head2 Sat Sep 26 03:15:48 2015: C<Module> L<Devel::OverloadInfo|Devel::OverloadInfo>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.004>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 26 03:16:07 2015: C<Module> L<Test::Warnings|Test::Warnings>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.021>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 26 03:16:35 2015: C<Module> L<Test::CleanNamespaces|Test::CleanNamespaces>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.18>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 26 03:17:08 2015: C<Module> L<Devel::StackTrace|Devel::StackTrace>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.00>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 26 03:27:29 2015: C<Module> L<Moose|Moose>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.1603>
+
+=item *
+
+C<EXE_FILES: bin/moose-outdated>
+
+=back
+
+=head2 Sat Sep 26 03:29:13 2015: C<Module> L<Plack::Middleware::MethodOverride|Plack::Middleware::MethodOverride>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.15>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 26 03:29:42 2015: C<Module> L<namespace::autoclean|namespace::autoclean>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.27>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 26 03:30:13 2015: C<Module> L<MooseX::Role::WithOverloading|MooseX::Role::WithOverloading>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.16>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 26 03:30:25 2015: C<Module> L<URI::ws|URI::ws>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.03>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 26 03:30:40 2015: C<Module> L<HTTP::Request::AsCGI|HTTP::Request::AsCGI>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.2>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 26 03:31:15 2015: C<Module> L<URI|URI>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.69>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 26 03:31:27 2015: C<Module> L<Plack::Middleware::ReverseProxy|Plack::Middleware::ReverseProxy>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.15>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 26 03:32:22 2015: C<Module> L<Plack::Middleware::RemoveRedundantBody|Plack::Middleware::RemoveRedundantBody>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.05>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 26 03:32:33 2015: C<Module> L<Plack::Middleware::FixMissingBodyInRedirect|Plack::Middleware::FixMissingBodyInRedirect>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.12>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 26 03:32:44 2015: C<Module> L<Text::SimpleTable|Text::SimpleTable>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.03>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 26 03:33:01 2015: C<Module> L<CGI::Struct|CGI::Struct>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.21>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 26 03:33:25 2015: C<Module> L<MooseX::Emulate::Class::Accessor::Fast|MooseX::Emulate::Class::Accessor::Fast>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.00903>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 26 03:33:41 2015: C<Module> L<Plack::Test::ExternalServer|Plack::Test::ExternalServer>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.02>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 26 03:46:08 2015: C<Module> L<Catalyst::Runtime|Catalyst::Runtime>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 5.90101>
+
+=item *
+
+C<EXE_FILES: script/catalyst.pl>
+
+=back
+
+=head2 Sat Sep 26 04:11:51 2015: C<Module> L<Config::Identity|Config::Identity>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.0018>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 26 04:12:05 2015: C<Module> L<Data::Section::Simple|Data::Section::Simple>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.07>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 26 04:12:28 2015: C<Module> L<Text::MicroTemplate|Text::MicroTemplate>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.24>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 26 04:12:50 2015: C<Module> L<Module::Metadata|Module::Metadata>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.000027>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 26 04:36:09 2015: C<Module> L<Term::Title|Term::Title>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.08>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 26 04:43:46 2015: C<Module> L<CPAN::Reporter::Smoker|CPAN::Reporter::Smoker>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.27>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 26 04:46:16 2015: C<Module> L<B::Hooks::OP::PPAddr|B::Hooks::OP::PPAddr>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.03>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 26 04:47:48 2015: C<Module> L<Scope::Upper|Scope::Upper>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.28>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 26 04:48:42 2015: C<Module> L<TryCatch|TryCatch>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.003002>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 26 04:50:05 2015: C<Module> L<Apache::Htpasswd|Apache::Htpasswd>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.9>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 26 05:00:53 2015: C<Module> L<XML::Generator::PerlData|XML::Generator::PerlData>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.93>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 26 05:01:09 2015: C<Module> L<XML::Filter::BufferText|XML::Filter::BufferText>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.01>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 26 05:01:20 2015: C<Module> L<XML::SAX::Writer|XML::SAX::Writer>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.56>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 26 05:02:44 2015: C<Module> L<XML::NamespaceFactory|XML::NamespaceFactory>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.02>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 26 05:03:16 2015: C<Module> L<JSON::Any|JSON::Any>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.39>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 26 05:04:00 2015: C<Module> L<Algorithm::Combinatorics|Algorithm::Combinatorics>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.27>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 26 05:04:29 2015: C<Module> L<IRI|IRI>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.004>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 26 05:04:39 2015: C<Module> L<XML::Namespace|XML::Namespace>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.02>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 26 05:04:51 2015: C<Module> L<Cache::LRU|Cache::LRU>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.04>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 26 05:05:06 2015: C<Module> L<MooseX::ArrayRef|MooseX::ArrayRef>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.005>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 26 05:10:25 2015: C<Module> L<RDF::Trine|RDF::Trine>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.014>
+
+=item *
+
+C<EXE_FILES: bin/srx2csv bin/srx2table>
+
+=back
+
+=head2 Sat Sep 26 05:20:25 2015: C<Module> L<Devel::NYTProf|Devel::NYTProf>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 6.02>
+
+=item *
+
+C<EXE_FILES: bin/nytprofhtml bin/flamegraph.pl bin/nytprofcsv bin/nytprofcalls bin/nytprofcg bin/nytprofmerge bin/nytprofpf>
+
+=back
+
+=head2 Sat Sep 26 05:20:57 2015: C<Module> L<Devel::Confess|Devel::Confess>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.008000>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 26 05:22:32 2015: C<Module> L<Class::MethodMaker|Class::MethodMaker>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.24>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 26 05:23:00 2015: C<Module> L<Term::ProgressBar|Term::ProgressBar>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.17>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 26 05:23:10 2015: C<Module> L<Term::ProgressBar::Quiet|Term::ProgressBar::Quiet>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.31>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 26 05:23:25 2015: C<Module> L<Term::ProgressBar::Simple|Term::ProgressBar::Simple>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.03>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 26 05:24:26 2015: C<Module> L<File::Next|File::Next>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.12>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 26 05:31:47 2015: C<Module> L<App::Nopaste|App::Nopaste>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.004>
+
+=item *
+
+C<EXE_FILES: script/nopaste>
+
+=back
+
+=head2 Sat Sep 26 05:32:04 2015: C<Module> L<DateTime::Tiny|DateTime::Tiny>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.04>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 26 05:32:16 2015: C<Module> L<Time::Tiny|Time::Tiny>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.05>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 26 05:32:29 2015: C<Module> L<Time::ParseDate|Time::ParseDate>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2013.1113>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 26 05:33:12 2015: C<Module> L<Log::Any|Log::Any>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.032>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 26 05:33:24 2015: C<Module> L<Carp::Assert|Carp::Assert>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.21>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 26 05:33:35 2015: C<Module> L<Time::Duration|Time::Duration>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.20>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 26 05:33:49 2015: C<Module> L<Exporter::Lite|Exporter::Lite>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.06>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 26 05:33:59 2015: C<Module> L<Time::Duration::Parse|Time::Duration::Parse>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.12>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 26 05:34:11 2015: C<Module> L<MooX::Types::MooseLike::Numeric|MooX::Types::MooseLike::Numeric>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.02>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 26 05:34:50 2015: C<Module> L<Test::Class|Test::Class>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.50>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 26 05:35:08 2015: C<Module> L<Digest::JHash|Digest::JHash>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.09>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 26 05:35:41 2015: C<Module> L<CHI|CHI>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.60>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 26 05:36:01 2015: C<Module> L<Test::CPAN::Meta|Test::CPAN::Meta>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.25>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 26 05:36:23 2015: C<Module> L<Devel::Symdump|Devel::Symdump>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.15>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 26 05:36:38 2015: C<Module> L<Pod::Coverage|Pod::Coverage>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.23>
+
+=item *
+
+C<EXE_FILES: bin/pod_cover>
+
+=back
+
+=head2 Sat Sep 26 05:36:49 2015: C<Module> L<Pod::Coverage::TrustPod|Pod::Coverage::TrustPod>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.100003>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 26 05:47:45 2015: C<Module> L<IO::Socket::Timeout|IO::Socket::Timeout>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.31>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 26 05:48:23 2015: C<Module> L<Task::Moose|Task::Moose>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.03>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 26 05:49:06 2015: C<Module> L<POE::Test::Loops|POE::Test::Loops>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.360>
+
+=item *
+
+C<EXE_FILES: bin/poe-gen-tests>
+
+=back
+
+=head2 Sat Sep 26 05:49:35 2015: C<Module> L<IO::Pipely|IO::Pipely>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.005>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 26 05:52:07 2015: C<Module> L<POE|POE>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.367>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 26 06:03:46 2015: C<Module> L<Test::Pod::Coverage|Test::Pod::Coverage>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.10>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 26 06:09:03 2015: C<Module> L<Devel::Cover|Devel::Cover>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.21>
+
+=item *
+
+C<EXE_FILES: bin/cover bin/gcov2perl bin/cpancover>
+
+=back
+
+=head2 Sat Sep 26 06:09:17 2015: C<Module> L<Devel::Cycle|Devel::Cycle>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.12>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 26 06:09:30 2015: C<Module> L<Test::Memory::Cycle|Test::Memory::Cycle>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.04>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 26 06:10:00 2015: C<Module> L<Catalyst::Model::Adaptor|Catalyst::Model::Adaptor>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.10>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 26 06:10:38 2015: C<Module> L<MooseX::MarkAsMethods|MooseX::MarkAsMethods>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.15>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 26 06:10:59 2015: C<Module> L<MooseX::Traits::Pluggable|MooseX::Traits::Pluggable>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.12>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 26 06:11:31 2015: C<Module> L<CatalystX::Component::Traits|CatalystX::Component::Traits>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.19>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 26 06:12:13 2015: C<Module> L<Catalyst::Component::InstancePerContext|Catalyst::Component::InstancePerContext>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.001001>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 26 06:12:44 2015: C<Module> L<Catalyst::Model::DBIC::Schema|Catalyst::Model::DBIC::Schema>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.65>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 26 06:13:21 2015: C<Module> L<Carp::Assert::More|Carp::Assert::More>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.14>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 26 06:13:35 2015: C<Module> L<Test::LongString|Test::LongString>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.17>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 26 06:14:21 2015: C<Module> L<Test::WWW::Mechanize|Test::WWW::Mechanize>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.44>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 26 06:14:32 2015: C<Module> L<Test::WWW::Mechanize::PSGI|Test::WWW::Mechanize::PSGI>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.35>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 26 06:14:44 2015: C<Module> L<Object::Signature|Object::Signature>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.07>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 26 06:15:01 2015: C<Module> L<Catalyst::Plugin::Session|Catalyst::Plugin::Session>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.40>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 26 06:16:45 2015: C<Module> L<Cache::Cache|Cache::Cache>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.08>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 26 06:17:01 2015: C<Module> L<Catalyst::Plugin::Session::Store::File|Catalyst::Plugin::Session::Store::File>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.18>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 26 06:17:17 2015: C<Module> L<CatalystX::LeakChecker|CatalystX::LeakChecker>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.06>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 26 06:17:50 2015: C<Module> L<Catalyst::Plugin::StackTrace|Catalyst::Plugin::StackTrace>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.12>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 26 06:18:07 2015: C<Module> L<Template::Timer|Template::Timer>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.00>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 26 06:18:59 2015: C<Module> L<Catalyst::View::TT|Catalyst::View::TT>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.43>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 26 06:19:14 2015: C<Module> L<Catalyst::Manual|Catalyst::Manual>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 5.9009>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 26 06:19:37 2015: C<Module> L<CatalystX::InjectComponent|CatalystX::InjectComponent>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.025>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 26 06:20:50 2015: C<Module> L<Data::Clone|Data::Clone>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.004>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 26 06:31:20 2015: C<Module> L<HTML::FormHandler|HTML::FormHandler>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.40064>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 26 06:31:41 2015: C<Module> L<Catalyst::Plugin::Session::State::Cookie|Catalyst::Plugin::Session::State::Cookie>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.17>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 26 06:33:22 2015: C<Module> L<Catalyst::Action::REST|Catalyst::Action::REST>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.19>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 26 06:33:35 2015: C<Module> L<MooseX::RelatedClassRoles|MooseX::RelatedClassRoles>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.004>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 26 06:34:22 2015: C<Module> L<strictures|strictures>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.000001>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 26 06:34:32 2015: C<Module> L<Package::Variant|Package::Variant>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.003002>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 26 06:34:45 2015: C<Module> L<XML::Writer|XML::Writer>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.625>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 26 06:38:27 2015: C<Module> L<SQL::Translator|SQL::Translator>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.11021>
+
+=item *
+
+C<EXE_FILES: script/sqlt-diagram script/sqlt-diff script/sqlt-diff-old script/sqlt-dumper script/sqlt-graph script/sqlt>
+
+=back
+
+=head2 Sat Sep 26 06:39:20 2015: C<Module> L<Catalyst::ActionRole::ACL|Catalyst::ActionRole::ACL>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.07>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 26 06:40:05 2015: C<Module> L<Catalyst::Plugin::Authentication|Catalyst::Plugin::Authentication>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.10023>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 26 06:40:22 2015: C<Module> L<Tie::ToObject|Tie::ToObject>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.03>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 26 06:40:45 2015: C<Module> L<Data::Visitor|Data::Visitor>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.30>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 26 06:41:00 2015: C<Module> L<Catalyst::Action::RenderView|Catalyst::Action::RenderView>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.16>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 26 06:41:30 2015: C<Module> L<autobox|autobox>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.83>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 26 06:41:57 2015: C<Module> L<Moose::Autobox|Moose::Autobox>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.15>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 26 06:43:22 2015: C<Module> L<CatalystX::SimpleLogin|CatalystX::SimpleLogin>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.18>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 26 06:44:21 2015: C<Module> L<Catalyst::Plugin::Static::Simple|Catalyst::Plugin::Static::Simple>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.33>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 26 06:44:56 2015: C<Module> L<Locale::Maketext::Lexicon|Locale::Maketext::Lexicon>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.00>
+
+=item *
+
+C<EXE_FILES: script/xgettext.pl>
+
+=back
+
+=head2 Sat Sep 26 06:45:10 2015: C<Module> L<Catalyst::Plugin::I18N|Catalyst::Plugin::I18N>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.10>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 26 06:45:36 2015: C<Module> L<HTTP::Parser::XS|HTTP::Parser::XS>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.17>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 26 14:36:15 2015: C<Module> L<Locale::Msgfmt|Locale::Msgfmt>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.15>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 26 14:36:40 2015: C<Module> L<File::Slurper|File::Slurper>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.008>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 26 14:37:01 2015: C<Module> L<Pod::POM|Pod::POM>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
 
 =item *
 
@@ -11680,13 +13924,13 @@ C<EXE_FILES: bin/podlint bin/pom2 bin/pomdump>
 
 =back
 
-=head2 Sat Sep 26 01:32:58 2015: C<Module> L<Locale::Msgfmt|Locale::Msgfmt>
+=head2 Sat Sep 26 14:37:16 2015: C<Module> L<Class::Adapter|Class::Adapter>
 
 =over 4
 
 =item *
 
-C<installed into: C:\Users\TOSH\Documents\GitHub\dwimperl-windows\strawberry-perl-5.20.0.1-32bit-portable\perl\site\lib>
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
 
 =item *
 
@@ -11694,7 +13938,2163 @@ C<LINKTYPE: dynamic>
 
 =item *
 
-C<VERSION: 0.15>
+C<VERSION: 1.08>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 26 14:37:51 2015: C<Module> L<ORLite|ORLite>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.98>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 26 14:38:09 2015: C<Module> L<Win32::Shortcut|Win32::Shortcut>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.08>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 26 14:38:23 2015: C<Module> L<Devel::Dumpvar|Devel::Dumpvar>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.06>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 26 14:38:45 2015: C<Module> L<File::Glob::Windows|File::Glob::Windows>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.1.5>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 26 14:39:10 2015: C<Module> L<Parse::ErrorString::Perl|Parse::ErrorString::Perl>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.21>
+
+=item *
+
+C<EXE_FILES: bin/check_perldiag>
+
+=back
+
+=head2 Sat Sep 26 14:39:26 2015: C<Module> L<Devel::Refactor|Devel::Refactor>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.05>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 26 14:39:43 2015: C<Module> L<Parse::ExuberantCTags|Parse::ExuberantCTags>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.02>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 26 14:40:16 2015: C<Module> L<PPIx::EditorTools|PPIx::EditorTools>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.19>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 26 14:41:44 2015: C<Module> L<Debug::Client|Debug::Client>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.29>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 26 14:42:02 2015: C<Module> L<ORLite::Migrate|ORLite::Migrate>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.10>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 26 15:01:06 2015: C<Module> L<Wx|Wx>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.9927>
+
+=item *
+
+C<EXE_FILES: script/wxperl_overload>
+
+=back
+
+=head2 Sat Sep 26 15:01:25 2015: C<Module> L<Pod::Abstract|Pod::Abstract>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.20>
+
+=item *
+
+C<EXE_FILES: bin/paf>
+
+=back
+
+=head2 Sat Sep 26 15:01:39 2015: C<Module> L<POD2::Base|POD2::Base>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.043>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 26 15:02:02 2015: C<Module> L<Wx::Perl::ProcessStream|Wx::Perl::ProcessStream>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.32>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 26 15:07:21 2015: C<Module> L<Text::FindIndent|Text::FindIndent>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.10>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 26 15:07:35 2015: C<Module> L<Module::Manifest|Module::Manifest>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.08>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 26 23:09:27 2015: C<Module> L<IPC::Run|IPC::Run>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.94>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 26 23:13:30 2015: C<Module> L<IPC::Run|IPC::Run>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.94>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 26 23:27:36 2015: C<Module> L<IPC::Run|IPC::Run>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.94>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 26 23:28:26 2015: C<Module> L<IO::Multiplex|IO::Multiplex>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.16>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 26 23:33:45 2015: C<Module> L<Net::Server|Net::Server>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.008>
+
+=item *
+
+C<EXE_FILES: bin/net-server>
+
+=back
+
+=head2 Sat Sep 26 23:35:13 2015: C<Module> L<Lingua::EN::Words2Nums|Lingua::EN::Words2Nums>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.18>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 26 23:35:24 2015: C<Module> L<Lingua::EN::FindNumber|Lingua::EN::FindNumber>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.31>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 26 23:35:34 2015: C<Module> L<Lingua::EN::Number::IsOrdinal|Lingua::EN::Number::IsOrdinal>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.05>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 26 23:36:05 2015: C<Module> L<Lingua::Stem::Ru|Lingua::Stem::Ru>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.01>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 26 23:36:18 2015: C<Module> L<Lingua::Stem::Snowball::Da|Lingua::Stem::Snowball::Da>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.01>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 26 23:36:29 2015: C<Module> L<Lingua::Stem::It|Lingua::Stem::It>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.02>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 26 23:36:40 2015: C<Module> L<Lingua::PT::Stemmer|Lingua::PT::Stemmer>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.01>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 26 23:37:18 2015: C<Module> L<Lingua::Stem::Fr|Lingua::Stem::Fr>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.02>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 26 23:38:05 2015: C<Module> L<Text::German|Text::German>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.06>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 26 23:38:26 2015: C<Module> L<Memoize::ExpireLRU|Memoize::ExpireLRU>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.55>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 26 23:39:08 2015: C<Module> L<Lingua::EN::Tagger|Lingua::EN::Tagger>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.25>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 26 23:39:34 2015: C<Module> L<Lingua::EN::Inflect::Phrase|Lingua::EN::Inflect::Phrase>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.18>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 26 23:41:18 2015: C<Module> L<Text::Unidecode|Text::Unidecode>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.24>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 26 23:41:39 2015: C<Module> L<String::ToIdentifier::EN|String::ToIdentifier::EN>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.11>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 26 23:42:02 2015: C<Module> L<DBIx::Class::IntrospectableM2M|DBIx::Class::IntrospectableM2M>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.001002>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 26 23:43:01 2015: C<Module> L<List::Util|List::Util>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.42>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 26 23:43:20 2015: C<Module> L<Class::Unload|Class::Unload>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.09>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 26 23:43:35 2015: C<Module> L<String::CamelCase|String::CamelCase>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.02>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 26 23:47:23 2015: C<Module> L<DBIx::Class::Schema::Loader|DBIx::Class::Schema::Loader>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.07043>
+
+=item *
+
+C<EXE_FILES: script/dbicdump>
+
+=back
+
+=head2 Sat Sep 26 23:51:33 2015: C<Module> L<Log::Contextual|Log::Contextual>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.006005>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 26 23:51:56 2015: C<Module> L<Spreadsheet::ParseExcel::Simple|Spreadsheet::ParseExcel::Simple>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.04>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Sep 26 23:52:11 2015: C<Module> L<Spreadsheet::WriteExcel::Simple|Spreadsheet::WriteExcel::Simple>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.04>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sun Sep 27 00:01:08 2015: C<Module> L<HTTP::Thin|HTTP::Thin>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.006>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sun Sep 27 00:01:26 2015: C<Module> L<Test::Mock::LWP|Test::Mock::LWP>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.08>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sun Sep 27 00:01:46 2015: C<Module> L<Test::WWW::Selenium|Test::WWW::Selenium>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.36>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sun Sep 27 00:02:07 2015: C<Module> L<WWW::Mechanize::TreeBuilder|WWW::Mechanize::TreeBuilder>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.20000>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sun Sep 27 00:03:23 2015: C<Module> L<local::lib|local::lib>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.000015>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sun Sep 27 00:03:37 2015: C<Module> L<CPAN::Perl::Releases|CPAN::Perl::Releases>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.38>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sun Sep 27 00:04:10 2015: C<Module> L<Test::Spec|Test::Spec>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.51>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sun Sep 27 00:10:10 2015: C<Module> L<Capture::Tiny|Capture::Tiny>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.30>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sun Sep 27 00:10:26 2015: C<Module> L<Pod::Usage|Pod::Usage>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.67>
+
+=item *
+
+C<EXE_FILES: scripts\pod2usage>
+
+=back
+
+=head2 Sun Sep 27 00:10:43 2015: C<Module> L<Devel::PatchPerl|Devel::PatchPerl>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.38>
+
+=item *
+
+C<EXE_FILES: bin/patchperl>
+
+=back
+
+=head2 Sun Sep 27 00:12:13 2015: C<Module> L<Class::Tiny|Class::Tiny>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.001>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sun Sep 27 00:12:25 2015: C<Module> L<App::cpanminus|App::cpanminus>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.7039>
+
+=item *
+
+C<EXE_FILES: bin/cpanm>
+
+=back
+
+=head2 Sun Sep 27 00:12:37 2015: C<Module> L<Module::Reader|Module::Reader>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.002003>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sun Sep 27 00:12:48 2015: C<Module> L<Carton|Carton>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: v1.0.22>
+
+=item *
+
+C<EXE_FILES: script/carton>
+
+=back
+
+=head2 Sun Sep 27 00:13:23 2015: C<Module> L<UUID::Tiny|UUID::Tiny>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.04>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sun Sep 27 00:13:56 2015: C<Module> L<Variable::Magic|Variable::Magic>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.58>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sun Sep 27 00:14:21 2015: C<Module> L<UNIVERSAL::require|UNIVERSAL::require>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.18>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sun Sep 27 00:14:51 2015: C<Module> L<Test::RequiresInternet|Test::RequiresInternet>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.05>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sun Sep 27 00:15:45 2015: C<Module> L<Test::LWP::UserAgent|Test::LWP::UserAgent>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.030>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sun Sep 27 00:21:27 2015: C<Module> L<Text::Clip|Text::Clip>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.0014>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sun Sep 27 00:21:38 2015: C<Module> L<Term::EditorEdit|Term::EditorEdit>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.0016>
+
+=item *
+
+C<EXE_FILES: bin/editor-edit>
+
+=back
+
+=head2 Sun Sep 27 00:22:21 2015: C<Module> L<Module::CoreList|Module::CoreList>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 5.20150920>
+
+=item *
+
+C<EXE_FILES: corelist>
+
+=back
+
+=head2 Sun Sep 27 00:22:41 2015: C<Module> L<File::Spec::Native|File::Spec::Native>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.004>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sun Sep 27 00:23:24 2015: C<Module> L<Authen::Simple|Authen::Simple>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.5>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sun Sep 27 00:23:52 2015: C<Module> L<List::AllUtils|List::AllUtils>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.09>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sun Sep 27 00:24:15 2015: C<Module> L<Text::Autoformat|Text::Autoformat>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.72>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sun Sep 27 00:24:27 2015: C<Module> L<MooseX::Configuration|MooseX::Configuration>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.02>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sun Sep 27 00:24:43 2015: C<Module> L<MooseX::StrictConstructor|MooseX::StrictConstructor>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.19>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sun Sep 27 00:24:56 2015: C<Module> L<Exporter::Tidy|Exporter::Tidy>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.08>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sun Sep 27 00:25:05 2015: C<Module> L<Proc::Fork|Proc::Fork>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.804>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sun Sep 27 00:25:25 2015: C<Module> L<Test::utf8|Test::utf8>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.01>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sun Sep 27 00:26:37 2015: C<Module> L<Test::Simple|Test::Simple>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.001014>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sun Sep 27 00:26:56 2015: C<Module> L<Test::File|Test::File>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.44>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sun Sep 27 00:27:38 2015: C<Module> L<MooseX::Aliases|MooseX::Aliases>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.11>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sun Sep 27 00:29:12 2015: C<Module> L<Want|Want>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.26>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sun Sep 27 00:29:40 2015: C<Module> L<App::FatPacker|App::FatPacker>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.010004>
+
+=item *
+
+C<EXE_FILES: bin/fatpack>
+
+=back
+
+=head2 Sun Sep 27 00:30:38 2015: C<Module> L<DateTime::Format::Mail|DateTime::Format::Mail>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.402>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sun Sep 27 00:30:54 2015: C<Module> L<DateTime::Format::W3CDTF|DateTime::Format::W3CDTF>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.06>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sun Sep 27 00:32:01 2015: C<Module> L<Hash::Merge::Simple|Hash::Merge::Simple>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.051>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sun Sep 27 00:32:15 2015: C<Module> L<Devel::Hide|Devel::Hide>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.0009>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sun Sep 27 00:32:26 2015: C<Module> L<HTTP::Server::Simple::PSGI|HTTP::Server::Simple::PSGI>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.16>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sun Sep 27 00:37:52 2015: C<Module> L<Catalyst::Plugin::ConfigLoader|Catalyst::Plugin::ConfigLoader>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.34>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sun Sep 27 00:38:12 2015: C<Module> L<Catalyst::Plugin::Session::Store::Delegate|Catalyst::Plugin::Session::Store::Delegate>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.06>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sun Sep 27 00:38:25 2015: C<Module> L<Catalyst::Plugin::Session::Store::DBIC|Catalyst::Plugin::Session::Store::DBIC>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.14>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sun Sep 27 00:38:55 2015: C<Module> L<Catalyst::View::Email|Catalyst::View::Email>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.36>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sun Sep 27 00:39:36 2015: C<Module> L<Catalyst::Authentication::Store::DBIx::Class|Catalyst::Authentication::Store::DBIx::Class>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.1506>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sun Sep 27 00:39:58 2015: C<Module> L<Devel::StackTrace::WithLexicals|Devel::StackTrace::WithLexicals>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.01>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sun Sep 27 00:40:25 2015: C<Module> L<CatalystX::Profile|CatalystX::Profile>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.02>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sun Sep 27 00:44:19 2015: C<Module> L<MooseX::SemiAffordanceAccessor|MooseX::SemiAffordanceAccessor>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.10>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sun Sep 27 00:45:47 2015: C<Module> L<MooseX::Params::Validate|MooseX::Params::Validate>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.21>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sun Sep 27 00:47:45 2015: C<Module> L<String::Escape|String::Escape>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2010.002>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sun Sep 27 00:48:01 2015: C<Module> L<Catalyst::Authentication::Credential::HTTP|Catalyst::Authentication::Credential::HTTP>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.016>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sun Sep 27 00:48:50 2015: C<Module> L<CGI::FormBuilder|CGI::FormBuilder>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 3.09>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sun Sep 27 00:48:59 2015: C<Module> L<CGI::FormBuilder::Source::Perl|CGI::FormBuilder::Source::Perl>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.01>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sun Oct 18 13:59:01 2015: C<Module> L<Parse::Functions|Parse::Functions>
+
+=over 4
+
+=item *
+
+C<installed into: C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\perl\site\lib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.01>
 
 =item *
 

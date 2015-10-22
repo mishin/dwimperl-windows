@@ -1,0 +1,66 @@
+{
+   "abstract" : "Copy (or move) specific files after building (for SCM inclusion, etc.)",
+   "author" : [
+      "Ryan C. Thompson <rct@thompsonclan.org>"
+   ],
+   "dynamic_config" : 0,
+   "generated_by" : "Dist::Zilla version 5.037, CPAN::Meta::Converter version 2.143240, CPAN::Meta::Converter version 2.150005",
+   "license" : [
+      "perl_5"
+   ],
+   "meta-spec" : {
+      "url" : "http://search.cpan.org/perldoc?CPAN::Meta::Spec",
+      "version" : "2"
+   },
+   "name" : "Dist-Zilla-Plugin-CopyFilesFromBuild",
+   "no_index" : {
+      "directory" : [
+         "corpus"
+      ]
+   },
+   "prereqs" : {
+      "build" : {
+         "requires" : {
+            "ExtUtils::MakeMaker" : "0"
+         }
+      },
+      "configure" : {
+         "requires" : {
+            "ExtUtils::MakeMaker" : "0"
+         }
+      },
+      "runtime" : {
+         "requires" : {
+            "Dist::Zilla::Role::AfterBuild" : "0",
+            "File::Copy" : "0",
+            "List::Util" : "1.33",
+            "Moose" : "0",
+            "MooseX::Has::Sugar" : "0",
+            "Set::Scalar" : "0",
+            "perl" : "5.008",
+            "strict" : "0",
+            "utf8" : "0",
+            "warnings" : "0"
+         }
+      },
+      "test" : {
+         "requires" : {
+            "Carp" : "0",
+            "File::Spec" : "0",
+            "IO::Handle" : "0",
+            "IPC::Open3" : "0",
+            "Scalar::Util" : "0",
+            "Test::More" : "0.94"
+         }
+      }
+   },
+   "release_status" : "stable",
+   "resources" : {
+      "homepage" : "https://github.com/DarwinAwardWinner/Dist-Zilla-Plugin-CopyFilesFromBuild",
+      "repository" : {
+         "url" : "https://github.com/DarwinAwardWinner/Dist-Zilla-Plugin-CopyFilesFromBuild.git"
+      }
+   },
+   "version" : "0.151680",
+   "x_serialization_backend" : "JSON::PP version 2.27203"
+}

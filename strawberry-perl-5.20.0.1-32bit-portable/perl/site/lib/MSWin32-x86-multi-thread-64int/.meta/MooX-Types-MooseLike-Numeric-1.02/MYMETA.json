@@ -4,7 +4,7 @@
       "mateu - Mateu X. Hunter (cpan:MATEU) <hunter@missoula.org>"
    ],
    "dynamic_config" : 0,
-   "generated_by" : "ExtUtils::MakeMaker version 6.8, CPAN::Meta::Converter version 2.120921, CPAN::Meta::Converter version 2.141170",
+   "generated_by" : "ExtUtils::MakeMaker version 6.8, CPAN::Meta::Converter version 2.120921, CPAN::Meta::Converter version 2.150005",
    "license" : [
       "perl_5"
    ],
@@ -48,5 +48,6 @@
       },
       "x_IRC" : "irc://irc.perl.org/#web-simple"
    },
-   "version" : "1.02"
+   "version" : "1.02",
+   "x_serialization_backend" : "JSON::PP version 2.27203"
 }

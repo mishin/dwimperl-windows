@@ -1,0 +1,10 @@
+libdir=/mingw/lib
+includedir=/mingw/include/plplot
+drvdir=/mingw/lib/plplot5.10.0/driversd
+
+Name: PLplot C++
+Description: Scientific plotting library (C++ bindings, double precision)
+Requires: plplotd
+Version: 5.10.0
+Libs: -L${libdir} -lplplotcxxd 
+Cflags: -I${includedir} 

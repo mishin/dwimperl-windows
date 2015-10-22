@@ -1,0 +1,1 @@
+{"target":"Path::FindDev","pathname":"K/KE/KENTNL/Path-FindDev-0.5.2.tar.gz","dist":"Path-FindDev-0.5.2","name":"Path::FindDev","provides":{"Path::FindDev":{"version":"0.005002","file":"lib/Path/FindDev.pm"},"Path::FindDev::Object":{"file":"lib/Path/FindDev/Object.pm","version":"0.005002"}},"version":"0.005002"}

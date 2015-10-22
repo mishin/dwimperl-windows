@@ -1,0 +1,42 @@
+{
+   "abstract" : "interact with sites that implement Google style AuthSub",
+   "author" : [
+      "Simon Wistow <simon@thegestalt.org>"
+   ],
+   "dynamic_config" : 0,
+   "generated_by" : "Module::Build version 0.4205",
+   "license" : [
+      "perl_5"
+   ],
+   "meta-spec" : {
+      "url" : "http://search.cpan.org/perldoc?CPAN::Meta::Spec",
+      "version" : "2"
+   },
+   "name" : "Net-Google-AuthSub",
+   "prereqs" : {
+      "runtime" : {
+         "requires" : {
+            "LWP::UserAgent" : "0",
+            "Test::More" : "0.62",
+            "URI" : "0"
+         }
+      }
+   },
+   "provides" : {
+      "Net::Google::AuthSub" : {
+         "file" : "lib/Net/Google/AuthSub.pm",
+         "version" : "0.5"
+      },
+      "Net::Google::AuthSub::Response" : {
+         "file" : "lib/Net/Google/AuthSub/Response.pm"
+      }
+   },
+   "release_status" : "stable",
+   "resources" : {
+      "license" : [
+         "http://dev.perl.org/licenses/"
+      ]
+   },
+   "version" : "0.5",
+   "x_serialization_backend" : "JSON::PP version 2.27203"
+}

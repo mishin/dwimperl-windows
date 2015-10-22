@@ -1,0 +1,68 @@
+{
+   "abstract" : "Infrastructure plugin for the Catalyst authentication framework.",
+   "author" : [
+      "Yuval Kogman, C<nothingmuch@woobling.org> - original author"
+   ],
+   "dynamic_config" : 0,
+   "generated_by" : "Module::Install version 1.06, CPAN::Meta::Converter version 2.150005",
+   "license" : [
+      "perl_5"
+   ],
+   "meta-spec" : {
+      "url" : "http://search.cpan.org/perldoc?CPAN::Meta::Spec",
+      "version" : "2"
+   },
+   "name" : "Catalyst-Plugin-Authentication",
+   "no_index" : {
+      "directory" : [
+         "inc",
+         "t"
+      ]
+   },
+   "prereqs" : {
+      "build" : {
+         "requires" : {
+            "Class::MOP" : "0",
+            "ExtUtils::MakeMaker" : "6.59",
+            "Moose" : "0",
+            "Test::Exception" : "0",
+            "Test::More" : "0.88"
+         }
+      },
+      "configure" : {
+         "requires" : {
+            "ExtUtils::MakeMaker" : "0"
+         }
+      },
+      "runtime" : {
+         "requires" : {
+            "Catalyst::Plugin::Session" : "0.10",
+            "Catalyst::Runtime" : "0",
+            "Class::Inspector" : "0",
+            "Class::MOP" : "0",
+            "MRO::Compat" : "0",
+            "Moose" : "0",
+            "MooseX::Emulate::Class::Accessor::Fast" : "0",
+            "String::RewritePrefix" : "0",
+            "Test::Exception" : "0",
+            "Test::More" : "0.88",
+            "Try::Tiny" : "0",
+            "namespace::autoclean" : "0",
+            "perl" : "5.008001"
+         }
+      }
+   },
+   "release_status" : "stable",
+   "resources" : {
+      "license" : [
+         "http://dev.perl.org/licenses/"
+      ],
+      "repository" : {
+         "type" : "git",
+         "url" : "git://git.shadowcat.co.uk/catagits/Catalyst-Plugin-Authentication.git"
+      }
+   },
+   "version" : "0.10023",
+   "x_authority" : "cpan:BOBTFISH",
+   "x_serialization_backend" : "JSON::PP version 2.27203"
+}

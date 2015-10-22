@@ -1,1 +1,1 @@
-{"pathname":"N/NE/NEILB/Time-Duration-1.20.tar.gz","version":"1.20","provides":{"Time::Duration":{"file":"lib/Time/Duration.pm","version":"1.20"}},"dist":"Time-Duration-1.20","name":"Time::Duration","target":"Time::Duration"}
+{"target":"Time::Duration","provides":{"Time::Duration":{"file":"lib/Time/Duration.pm","version":"1.20"}},"name":"Time::Duration","dist":"Time-Duration-1.20","pathname":"N/NE/NEILB/Time-Duration-1.20.tar.gz","version":"1.20"}

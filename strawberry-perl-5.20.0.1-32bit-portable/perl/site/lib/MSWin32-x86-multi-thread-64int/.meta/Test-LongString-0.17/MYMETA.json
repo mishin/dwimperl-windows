@@ -4,7 +4,7 @@
       "Rafael Garcia-Suarez <rgs@consttype.org>"
    ],
    "dynamic_config" : 0,
-   "generated_by" : "ExtUtils::MakeMaker version 6.86, CPAN::Meta::Converter version 2.120921, CPAN::Meta::Converter version 2.141170",
+   "generated_by" : "ExtUtils::MakeMaker version 6.86, CPAN::Meta::Converter version 2.120921, CPAN::Meta::Converter version 2.150005",
    "license" : [
       "perl_5"
    ],
@@ -45,5 +45,6 @@
          "web" : "https://github.com/rgs/Test-LongString"
       }
    },
-   "version" : "0.17"
+   "version" : "0.17",
+   "x_serialization_backend" : "JSON::PP version 2.27203"
 }

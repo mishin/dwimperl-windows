@@ -1,1 +1,1 @@
-{"target":"Digest::JHash","dist":"Digest-JHash-0.09","name":"Digest::JHash","version":"0.09","provides":{"Digest::JHash":{"file":"lib/Digest/JHash.pm","version":"0.09"}},"pathname":"S/SH/SHLOMIF/Digest-JHash-0.09.tar.gz"}
+{"target":"Digest::JHash","name":"Digest::JHash","provides":{"Digest::JHash":{"version":"0.09","file":"lib/Digest/JHash.pm"}},"pathname":"S/SH/SHLOMIF/Digest-JHash-0.09.tar.gz","version":"0.09","dist":"Digest-JHash-0.09"}

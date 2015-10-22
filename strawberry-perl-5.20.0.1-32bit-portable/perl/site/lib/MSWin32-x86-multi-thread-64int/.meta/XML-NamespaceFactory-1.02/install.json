@@ -1,1 +1,1 @@
-{"name":"XML::NamespaceFactory","dist":"XML-NamespaceFactory-1.02","target":"XML::NamespaceFactory","pathname":"P/PE/PERIGRIN/XML-NamespaceFactory-1.02.tar.gz","provides":{"XML::NamespaceFactory":{"file":"lib/XML/NamespaceFactory.pm","version":"1.02"}},"version":"1.02"}
+{"target":"XML::NamespaceFactory","name":"XML::NamespaceFactory","provides":{"XML::NamespaceFactory":{"version":"1.02","file":"lib/XML/NamespaceFactory.pm"}},"dist":"XML-NamespaceFactory-1.02","pathname":"P/PE/PERIGRIN/XML-NamespaceFactory-1.02.tar.gz","version":"1.02"}

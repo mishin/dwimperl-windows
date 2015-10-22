@@ -1,1 +1,1 @@
-{"dist":"Task-Moose-0.03","name":"Task::Moose","target":"Task::Moose","pathname":"D/DO/DOY/Task-Moose-0.03.tar.gz","provides":{"Task::Moose":{"version":"0.03","file":"lib/Task/Moose.pm"}},"version":"0.03"}
+{"target":"Task::Moose","provides":{"Task::Moose":{"version":"0.03","file":"lib/Task/Moose.pm"}},"name":"Task::Moose","version":"0.03","dist":"Task-Moose-0.03","pathname":"D/DO/DOY/Task-Moose-0.03.tar.gz"}

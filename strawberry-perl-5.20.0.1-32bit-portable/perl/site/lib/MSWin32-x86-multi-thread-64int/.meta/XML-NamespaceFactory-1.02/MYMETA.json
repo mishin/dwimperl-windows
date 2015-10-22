@@ -5,7 +5,7 @@
       "Chris Prather <chris@prather.org>"
    ],
    "dynamic_config" : 0,
-   "generated_by" : "Dist::Zilla version 5.019, CPAN::Meta::Converter version 2.141520, CPAN::Meta::Converter version 2.141170",
+   "generated_by" : "Dist::Zilla version 5.019, CPAN::Meta::Converter version 2.141520, CPAN::Meta::Converter version 2.150005",
    "license" : [
       "perl_5"
    ],
@@ -119,5 +119,6 @@
    "x_authority" : "cpan:PERIGRIN",
    "x_contributors" : [
       "Kjetil Kjernsmo <kjetil@kjernsmo.net>"
-   ]
+   ],
+   "x_serialization_backend" : "JSON::PP version 2.27203"
 }

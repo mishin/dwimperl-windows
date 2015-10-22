@@ -1,1 +1,1 @@
-{"provides":{"Task::Kensho::ExcelCSV":{"version":"0.38","file":"lib/Task/Kensho/ExcelCSV.pm"}},"version":"0.38","pathname":"E/ET/ETHER/Task-Kensho-ExcelCSV-0.38.tar.gz","target":"Task::Kensho::ExcelCSV","dist":"Task-Kensho-ExcelCSV-0.38","name":"Task::Kensho::ExcelCSV"}
+{"name":"Task::Kensho::ExcelCSV","pathname":"E/ET/ETHER/Task-Kensho-ExcelCSV-0.38.tar.gz","version":"0.38","provides":{"Task::Kensho::ExcelCSV":{"file":"lib/Task/Kensho/ExcelCSV.pm","version":"0.38"}},"dist":"Task-Kensho-ExcelCSV-0.38","target":"Task::Kensho::ExcelCSV"}

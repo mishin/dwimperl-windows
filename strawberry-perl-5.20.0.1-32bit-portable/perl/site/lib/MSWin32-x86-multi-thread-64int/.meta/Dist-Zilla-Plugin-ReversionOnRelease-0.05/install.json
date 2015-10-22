@@ -1,0 +1,1 @@
+{"target":"Dist::Zilla::Plugin::ReversionOnRelease","pathname":"M/MI/MIYAGAWA/Dist-Zilla-Plugin-ReversionOnRelease-0.05.tar.gz","dist":"Dist-Zilla-Plugin-ReversionOnRelease-0.05","name":"Dist::Zilla::Plugin::ReversionOnRelease","provides":{"Dist::Zilla::Plugin::ReversionOnRelease":{"version":"0.05","file":"lib/Dist/Zilla/Plugin/ReversionOnRelease.pm"}},"version":"0.05"}
