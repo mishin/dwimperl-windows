@@ -1,0 +1,7 @@
+cpanm (App::cpanminus) 1.7039 on perl 5.020000 built for MSWin32-x86-multi-thread-64int
+Work directory is C:\Users\TOSH\DOCUME~1\job\perl\STRAWB~3.1-3\data/.cpanm/work/1445311913.4836
+You have make C:\Users\TOSH\Documents\job\perl\strawberry-perl-5.20.0.1-32bit-PDL\c\bin\dmake.exe
+You have LWP 6.06
+Falling back to Archive::Tar 1.96
+Searching Smart::Comments () on cpanmetadb ...
+Smart::Comments is up to date. (1.000005)
