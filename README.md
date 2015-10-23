@@ -1,3 +1,5 @@
+question on
+http://stackoverflow.com/questions/33277287/error-while-instaling-padre-1-0-on-windows-strawberry-perl-v5-20-how-find-root
 # dwimperl-windows  
 DWIM Perl for Windows like  
 
