@@ -45,6 +45,11 @@ cpanm --installdeps .
 `cpan> force install Net::SSLeay`  
 `cpanm -f Net::SSLeay` not work  
 
+cpan[1]> notest install FooBarBaz
+perl -MCPAN -e 'foreach (@ARGV) { CPAN::Shell->rematein("notest", "install", $_) }' $@
+
+https://gist.github.com/mishin/882a3b92224cd41f0409
+
 0. cpanm Task::CPAN::Reporter
   cpan> install  Task::Kensho  
 
