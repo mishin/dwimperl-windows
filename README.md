@@ -42,8 +42,8 @@ cpanm --installdeps .
 ```
 
 
-`cpan> force install Net::SSLeay`
-`cpanm -f Net::SSLeay` not work
+`cpan> force install Net::SSLeay`  
+`cpanm -f Net::SSLeay` not work  
 
 0. cpanm Task::CPAN::Reporter
   cpan> install  Task::Kensho  
