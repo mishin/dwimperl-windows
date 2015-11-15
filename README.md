@@ -35,6 +35,16 @@ Lots of additional modules... (see details in the README file.)
   
 https://github.com/dwimperl/tools/blob/master/README_5.14.2.1-32bit-windows.txt  
 
+```
+cpanm App::scan_prereqs_cpanfile
+scan-prereqs-cpanfile > cpanfile
+cpanm --installdeps .
+```
+
+
+`cpan> force install Net::SSLeay`
+`cpanm -f Net::SSLeay` not work
+
 0. cpanm Task::CPAN::Reporter
   cpan> install  Task::Kensho  
 
